@@ -1,0 +1,40 @@
+name: 每週文獻搜索
+
+on:
+  schedule:
+    - cron: '0 22 * * 0'   # 每週一台灣時間早上 6 點（UTC 週日 22:00）
+  workflow_dispatch:        # 網頁「立即搜索」按鈕 / GitHub Run workflow 按鈕
+
+permissions:
+  contents: write
+
+concurrency:
+  group: search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 執行文獻搜索
+        run: python scripts/search.py
+
+      - name: 提交更新
+        run: |
+          git config user.name "ems-literature-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "沒有新資料"
+          else
+            git commit -m "自動搜索更新 $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
+            git push
+          fi

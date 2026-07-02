@@ -1,0 +1,38 @@
+{
+  "_說明": "這是文獻搜索的關鍵字設定檔。每個群組有一個中文標籤（tag，會顯示在網站上）和數個英文搜尋詞（queries）。在網站的「關鍵字管理」分頁可以直接增刪，也可以直接編輯這個檔案。",
+  "groups": [
+    {
+      "tag": "止血帶",
+      "queries": ["tourniquet", "hemorrhage control", "hemostatic dressing"]
+    },
+    {
+      "tag": "氣道",
+      "queries": ["airway management", "supraglottic airway", "endotracheal intubation"]
+    },
+    {
+      "tag": "OHCA",
+      "queries": ["out-of-hospital cardiac arrest", "cardiopulmonary resuscitation"]
+    },
+    {
+      "tag": "外傷",
+      "queries": ["trauma care", "trauma triage"]
+    },
+    {
+      "tag": "骨盆固定",
+      "queries": ["pelvic binder", "pelvic circumferential compression"]
+    },
+    {
+      "tag": "脊椎運動限制",
+      "queries": ["spinal motion restriction", "spinal immobilization"]
+    },
+    {
+      "tag": "EMS教育",
+      "queries": ["EMS education", "paramedic training", "simulation training"]
+    }
+  ],
+  "context_filter": "prehospital OR \"emergency medical services\" OR EMS OR paramedic OR ambulance OR \"out-of-hospital\"",
+  "settings": {
+    "backfill_years": 5,
+    "max_per_query": 300
+  }
+}
