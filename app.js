@@ -280,4 +280,14 @@ function addGroup() {
   saveKw(`新增主題: ${tag}`);
 }
 
+/* 瀏覽器有時會無視 autocomplete=off 硬塞 email 進搜尋框，載入後強制清空 */
+function clearAutofill() {
+  const q = document.getElementById('q');
+  if (q.value && !q.dataset.userTyped) { q.value = ''; render(); }
+}
+document.getElementById('q').addEventListener('input', e => {
+  if (document.activeElement === e.target) e.target.dataset.userTyped = '1';
+});
+window.addEventListener('load', () => { setTimeout(clearAutofill, 300); setTimeout(clearAutofill, 1500); });
+
 loadPapers();
