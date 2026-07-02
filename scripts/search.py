@@ -140,12 +140,27 @@ def clip(text, n=1800):
     return text[:n] + ("…" if len(text) > n else "")
 
 
+# ---------------- 院前救護情境詞（用於精準過濾，避免撈到獸醫/院內等不相干文獻）----------------
+CONTEXT_TERMS = ["prehospital", "pre-hospital", "out-of-hospital", "out of hospital",
+                 "emergency medical services", "emergency medical service",
+                 "paramedic", "paramedics", "ambulance", "emergency medical technician",
+                 "first responder", "emergency medical dispatch"]
+CONTEXT_RE = re.compile("|".join(re.escape(t) for t in CONTEXT_TERMS), re.I)
+
+
+def is_relevant(r):
+    """守門：標題＋摘要必須出現院前救護情境詞，否則剔除（獸醫、院內、基礎科學等）。"""
+    return bool(CONTEXT_RE.search((r.get("title", "") + " " + r.get("abstract", ""))))
+
+
 # ---------------- PubMed ----------------
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 
 
 def pubmed_search(query, date_from, cap):
-    term = f"({query}) AND ({CTX}) AND (\"{date_from}\"[Date - Publication] : \"3000\"[Date - Publication])"
+    topic = f'"{query}"[Title/Abstract]' if " " in query else f'{query}[Title/Abstract]'
+    term = (f"({topic}) AND ({CTX_PM}) AND (english[Language])"
+            f" AND (\"{date_from}\"[Date - Publication] : \"3000\"[Date - Publication])")
     url = (f"{EUTILS}/esearch.fcgi?db=pubmed&retmode=json&sort=pub_date"
            f"&retmax={cap}&term={urllib.parse.quote(term)}")
     j = http_json(url)
@@ -208,7 +223,8 @@ def pubmed_fetch(pmids):
 
 # ---------------- Europe PMC ----------------
 def europepmc_search(query, date_from, cap, tag):
-    q = f"({query}) AND ({CTX}) AND FIRST_PDATE:[{date_from} TO 3000-12-31]"
+    topic = f'(TITLE:"{query}" OR ABSTRACT:"{query}")'
+    q = f"{topic} AND ({CTX_EU}) AND LANG:eng AND FIRST_PDATE:[{date_from} TO 3000-12-31]"
     url = ("https://www.ebi.ac.uk/europepmc/webservices/rest/search?"
            f"query={urllib.parse.quote(q)}&format=json&resultType=core"
            f"&sort={urllib.parse.quote('P_PDATE_D desc')}&pageSize={min(cap, 1000)}")
@@ -331,10 +347,12 @@ def enrich_oa(papers, limit=400):
 
 # ---------------- 主流程 ----------------
 def main():
-    global CTX
+    global CTX_PM, CTX_EU
     backfill = "--backfill" in sys.argv
     kw = json.loads((ROOT / "keywords.json").read_text(encoding="utf-8"))
-    CTX = kw["context_filter"]
+    CTX_PM = " OR ".join(f'"{t}"[Title/Abstract]' if " " in t else f'{t}[Title/Abstract]'
+                         for t in CONTEXT_TERMS)
+    CTX_EU = " OR ".join(f'(TITLE:"{t}" OR ABSTRACT:"{t}")' for t in CONTEXT_TERMS)
     cap = kw["settings"].get("max_per_query", 300)
     db = load_db()
     papers = db["papers"]
@@ -351,6 +369,7 @@ def main():
     print(f"[搜索] 起始日期 {date_from}（{'回溯' if backfill else '增量'}模式）")
 
     n_new = 0
+    n_filtered = 0
     for g in kw["groups"]:
         tag = g["tag"]
         for q in g["queries"]:
@@ -359,6 +378,9 @@ def main():
             print(f"[PubMed] {tag} / {q}: 取 {len(ids)} 篇" + (f"（總數 {total}，容量限制略過 {dropped} 篇較舊的）" if dropped else ""))
             recs = pubmed_fetch(ids)
             for r in recs:
+                if not is_relevant(r):
+                    n_filtered += 1
+                    continue
                 r["tags"] = [tag]
                 if merge_paper(idx, papers, r):
                     n_new += 1
@@ -367,11 +389,17 @@ def main():
             eu, eu_total = europepmc_search(q, date_from, cap, tag)
             print(f"[EuropePMC] {tag} / {q}: 取 {len(eu)} 篇（總數 {eu_total}）")
             for r in eu:
+                if not is_relevant(r):
+                    n_filtered += 1
+                    continue
                 if merge_paper(idx, papers, r):
                     n_new += 1
             time.sleep(0.3)
 
             for r in s2_search(q, date_from[:4], cap, tag):
+                if not is_relevant(r):
+                    n_filtered += 1
+                    continue
                 if merge_paper(idx, papers, r):
                     n_new += 1
 
@@ -400,7 +428,8 @@ def main():
     state_f.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
     save_db(db)
     n_untrans = sum(1 for p in papers if not p.get("title_zh"))
-    print(f"[完成] 本次新增 {n_new} 篇，資料庫共 {len(papers)} 篇，待翻譯 {n_untrans} 篇")
+    print(f"[完成] 本次新增 {n_new} 篇，情境過濾剔除 {n_filtered} 篇不相干，"
+          f"資料庫共 {len(papers)} 篇，待翻譯 {n_untrans} 篇")
 
 
 if __name__ == "__main__":
