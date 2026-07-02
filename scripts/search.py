@@ -82,7 +82,9 @@ def build_indexes(papers):
             by_pmid[p["pmid"]] = p
         if p.get("doi"):
             by_doi[norm_doi(p["doi"])] = p
-        by_title[norm_title(p.get("title"))] = p
+        tkey = norm_title(p.get("title"))
+        if len(tkey) > 15:
+            by_title[tkey] = p
     return by_pmid, by_doi, by_title
 
 
@@ -90,12 +92,13 @@ def merge_paper(db_idx, papers, new):
     """去重合併：已存在就補欄位，不存在就新增。回傳是否為新文獻。"""
     by_pmid, by_doi, by_title = db_idx
     old = None
+    tkey = norm_title(new.get("title"))
     if new.get("pmid") and new["pmid"] in by_pmid:
         old = by_pmid[new["pmid"]]
     elif new.get("doi") and norm_doi(new["doi"]) in by_doi:
         old = by_doi[norm_doi(new["doi"])]
-    elif norm_title(new.get("title")) in by_title:
-        old = by_title[norm_title(new.get("title"))]
+    elif len(tkey) > 15 and tkey in by_title:
+        old = by_title[tkey]
     if old:
         for k in ("pmid", "doi", "pmcid", "abstract", "journal", "date",
                   "authors", "oa_pdf", "url"):
@@ -113,7 +116,8 @@ def merge_paper(db_idx, papers, new):
         by_pmid[new["pmid"]] = new
     if new.get("doi"):
         by_doi[norm_doi(new["doi"])] = new
-    by_title[norm_title(new.get("title"))] = new
+    if len(tkey) > 15:
+        by_title[tkey] = new
     return True
 
 
@@ -207,7 +211,7 @@ def europepmc_search(query, date_from, cap, tag):
     q = f"({query}) AND ({CTX}) AND FIRST_PDATE:[{date_from} TO 3000-12-31]"
     url = ("https://www.ebi.ac.uk/europepmc/webservices/rest/search?"
            f"query={urllib.parse.quote(q)}&format=json&resultType=core"
-           f"&sort=P_PDATE_D desc&pageSize={min(cap, 1000)}")
+           f"&sort={urllib.parse.quote('P_PDATE_D desc')}&pageSize={min(cap, 1000)}")
     j = http_json(url)
     out, total = [], 0
     if not j:
@@ -318,7 +322,7 @@ def enrich_oa(papers, limit=400):
     todo = [p for p in papers if p.get("doi") and not p.get("oa_pdf")][:limit]
     print(f"[OA] Unpaywall 補查 {len(todo)} 篇…")
     for p in todo:
-        j = http_json(f"https://api.unpaywall.org/v2/{urllib.parse.quote(p['doi'])}?email={CONTACT}", retries=1)
+        j = http_json(f"https://api.unpaywall.org/v2/{urllib.parse.quote(p['doi'], safe='/')}?email={CONTACT}", retries=1)
         time.sleep(0.15)
         if j and j.get("best_oa_location"):
             loc = j["best_oa_location"]
