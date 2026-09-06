@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-31",
+ "updated": "2026-09-06",
  "papers": [
   {
    "pmid": "42657578",
@@ -48,6 +48,143 @@
    "added": "2026-08-23"
   },
   {
+   "pmid": "42700919",
+   "doi": "10.1016/j.resuscitation.2026.111298",
+   "pmcid": "",
+   "title": "Under-reporting of hypoxic-ischaemic brain injury on routine CT and MRI during neuroprognostication after out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-09-05",
+   "authors": "Sajjad U 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42700919/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42697466",
+   "doi": "10.1016/j.resuscitation.2026.111287",
+   "pmcid": "",
+   "title": "Trends in the incidence and outcomes of cardiopulmonary resuscitation-induced consciousness in out-of-hospital cardiac arrest: a retrospective study.",
+   "title_zh": "",
+   "abstract": "To examine the incidence, trends, characteristics, and patient outcomes associated with cardiopulmonary resuscitation induced consciousness (CPRIC) in out-of-hospital cardiac arrest (OHCA). We conducted a retrospective cohort study of adult (≥16 years) OHCA events between 1st January 2008 and 31st December 2024. Patients with CPRIC were identified from prehospital patient care records and linked to data from the Victorian Ambulance Cardiac Arrest Registry (VACAR). Poisson regression was used to assess temporal trends in CPRIC incidence and multivariable logistic regression to examine the association between CPRIC and survival to hospital discharge. Among 43,402 OHCA events, 1,438 patients (3.3%) experienced CPRIC. The annual incidence of CPRIC increased over time in the overall cohort (IRR 1.083, 95% CI 1.07-1.10) and across all arrest rhythms (p < 0.001 for all). Factors independently associated with CPRIC included younger age, calendar year, cardiac aetiology, public location, witnessed arrest, initial shockable rhythm and use of mechanical CPR. In adjusted analysis, CPRIC was independently associated with improved survival to hospital discharge (OR 2.71, 95% CI: 2.38-3.09), with similar findings for both interfering (OR 2.36, 95% CI: 2.04-2.74) and non-interfering phenotypes (OR 4.09, 95% CI: 3.17-5.29). CPRIC was also associated with return of spontaneous circulation and survival to hospital admission. Over the 16-year study period, the annual incidence of CPRIC increased, and patients with CPRIC found to have better OHCA survival outcomes. CPRIC may help identify patients with favourable physiology and is associated with improved survival outcomes.",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-09-04",
+   "authors": "Howard J 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42697466/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42696028",
+   "doi": "10.1093/eurjpc/zwag462",
+   "pmcid": "",
+   "title": "Lifestyle phenotypes associated with sudden cardiac arrest in the community: a multicentre case-control study.",
+   "title_zh": "",
+   "abstract": "Sudden cardiac arrest (SCA) often occurs in individuals without diagnosed cardiovascular disease, suggesting conventional risk assessment may overlook behavioural contexts. We examined whether co-occurring lifestyle behaviours formed distinct phenotypes associated with SCA. We analysed data from a prospective multicentre case-control study conducted in South Korea (2017-2023) including out-of-hospital cardiac arrest of presumed cardiac aetiology and community controls frequency-matched by age, sex, and residential area. Seven lifestyle indicators were assessed: smoking, physical activity, sleep duration, and intake of red meat, fish, fruit, and vegetables. Latent class analysis identified lifestyle phenotypes, and odds ratios (ORs) were estimated using a single fully adjusted logistic regression model informed by a directed acyclic graph. The primary analysis included 1,466 cases and 2,619 controls, identifying five phenotypes. The reference class (C2) showed the lowest observed proportion of SCA and a predominantly middle-frequency dietary pattern. Compared with C2, fully adjusted odds of SCA were higher for C1 (OR, 1.48; 95% confidence interval: 1.13-1.94) and C3 (1.95; 1.60-2.39), and markedly higher for C4 (8.93; 6.75-11.81) and C5 (15.20; 11.19-20.64). C5 was characterised by high reported intake frequency across food groups, particularly red meat and fish; C4 combined current smoking, physical inactivity, and inadequate sleep with low reported intake frequency across food groups. Cluster-derived lifestyle phenotypes were associated with differing odds of SCA. Although causal effects and absolute risk cannot be inferred from this case-control design, these multidomain patterns may help characterise behavioural profiles associated with SCA and inform future preventi…",
+   "abstract_zh": "",
+   "journal": "Eur J Prev Cardiol",
+   "date": "2026-09-04",
+   "authors": "Ahn GJ 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42696028/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42695142",
+   "doi": "10.1161/circoutcomes.126.013429",
+   "pmcid": "",
+   "title": "Automated External Defibrillator Availability, Accessibility, and Usability in High-Risk Out-of-Hospital Cardiac Arrest Neighborhoods of Birmingham, Alabama.",
+   "title_zh": "",
+   "abstract": "Automated external defibrillators (AEDs) are rarely used by bystanders in Birmingham, Alabama. We sought to characterize AED availability, accessibility, and usability in the highest-risk out-of-hospital cardiac arrest neighborhoods of Birmingham. We conducted a descriptive observational study from June 12 to August 27, 2025, in 3 Birmingham neighborhoods with the highest relative out-of-hospital cardiac arrest risk. Potential public AED sites, defined as properties other than single-family residences, were identified using Google Maps landmark descriptions. Sites were contacted by telephone, email, or in person to confirm AED presence, and device-specific data were collected in person. Outcomes included AED availability (presence of ≥1 AED), accessibility (public access and hours), and usability (ability to power on with pads). At-risk devices contained expired batteries and pads. Observed and effective AED densities were compared with the recommended 5 AEDs per square mile. Observed AED density was defined as AEDs per square mile, regardless of accessibility hours. Effective AED density was defined as AEDs per square mile adjusted for weekly hours of accessibility. A total of 287 potential AED locations were identified, and 284 (99%) were contacted and provided data. Fifty-six AEDs were reported at 43 locations (15.1%). Of these, 19 (33.9%) were not publicly accessible. Among the 37 publicly accessible AEDs, none were available 24 hours per day. Thirty-five (94.6%) were found in usable condition, and 5 (13.5%) were classified as at risk. Two (5.4%) were inoperable. The observed density of publicly usable AEDs was 13.5 AEDs per square mile, with an effective density of 3.7 AEDs per square mile due to limited hours of access. Despite exceeding the recommended AED densit…",
+   "abstract_zh": "",
+   "journal": "Circ Popul Health Outcomes",
+   "date": "2026-09-04",
+   "authors": "Smith TM 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42695142/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42693628",
+   "doi": "10.12701/jyms.2026.43.62",
+   "pmcid": "",
+   "title": "Shockable rhythm as an independent prognostic factor in patients with non-ST elevation undergoing percutaneous coronary intervention after out-of-hospital cardiac arrest: a registry-based cohort study.",
+   "title_zh": "",
+   "abstract": "<h4>Background</h4>Although the timing and indications for coronary angiography (CAG) after out-of-hospital cardiac arrest (OHCA) have been widely studied, the characteristics associated with favorable outcomes in patients with non-ST-elevation (non-STE) undergoing percutaneous coronary intervention (PCI) remain unclear.<h4>Methods</h4>This retrospective cohort study used a citywide, prospectively collected OHCA registry in Daegu, Korea (2018-2022), which included adult patients with non-STE after OHCA who underwent both CAG and PCI. Given the limited number of outcome events relative to the covariates, Firth's penalized logistic regression identified factors independently associated with survival to hospital discharge and favorable neurological outcomes (cerebral performance category 1-2).<h4>Results</h4>Of the 5,026 patients treated by Emergency Medical Services for OHCA, 371 underwent CAG; 258 (69.5%) had no ST elevation on the initial electrocardiogram, and 105 (40.7%) underwent PCI and formed the study cohort. Sixty-nine patients (65.7%) survived to discharge, and 55 (52.4%) had favorable neurological outcomes. Initial shockable rhythm (adjusted odds ratio [aOR], 5.38; 95% confidence interval [CI], 1.77-18.02), prehospital return of spontaneous circulation (ROSC) (aOR, 10.30; 95% CI, 3.62-33.06), and shorter scene time interval (aOR, 0.88 per minute; 95% CI, 0.79-0.98) were independently associated with survival. Initial shockable rhythm (aOR, 11.02; 95% CI, 3.39-43.00) and prehospital ROSC (aOR, 11.69; 95% CI, 3.69-45.03) were independently associated with favorable neurological outcomes.<h4>Conclusion</h4>Among patients with non-STE after OHCA who underwent CAG and PCI, initial shockable rhythm and prehospital ROSC were independently associated with survival and …",
+   "abstract_zh": "",
+   "journal": "J Yeungnam Med Sci",
+   "date": "2026-09-04",
+   "authors": "Shin SJ 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42693628/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42690209",
+   "doi": "10.1016/j.jaccas.2026.110238",
+   "pmcid": "",
+   "title": "Transient Pneumopericardium During Implantation of an Extravascular Implantable Cardioverter-Defibrillator.",
+   "title_zh": "",
+   "abstract": "Extravascular implantable cardioverter-defibrillators (EV-ICDs) use a substernal route to avoid intravascular lead placement, but substernal tunneling carries a risk of pericardial injury not encountered with transvenous systems. A 48-year-old man with ischemic cardiomyopathy (ejection fraction 14%) survived an out-of-hospital cardiac arrest due to monomorphic ventricular tachycardia at 240 beats/min. Cardiac magnetic resonance confirmed an extensive nonviable inferior scar. An EV-ICD was implanted for secondary prevention. Substernal tunneling was complicated by pericardial puncture and pneumopericardium. After lead repositioning, intraoperative defibrillation testing (DFT) failed twice, with subsequent sensing deterioration. Therapies were deactivated. Serial chest radiographs confirmed complete pneumopericardium resorption by day 30 with stable lead position. Repeat DFT at 5 weeks succeeded without reintervention. Device parameters remained normal at 1-year follow-up. Pneumopericardium is an under-recognized complication of substernal EV-ICD implantation that can transiently impair sensing and DFT. Conservative management with deferred re-testing illustrated a safe pathway, avoiding unnecessary system revisions.",
+   "abstract_zh": "",
+   "journal": "JACC Case Rep",
+   "date": "2026-09-03",
+   "authors": "Ollitrault P 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42690209/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
    "pmid": "42528123",
    "doi": "10.1097/xeb.0000000000000277",
    "pmcid": "PMC4021422",
@@ -93,6 +230,237 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42524748/",
    "translation": "",
    "added": "2026-08-02"
+  },
+  {
+   "pmid": "42683377",
+   "doi": "10.29045/14784726.2026.9.11.2.36",
+   "pmcid": "PMC5660655",
+   "title": "Advanced Paramedic Paralysis in ROSC (APPiR) study.",
+   "title_zh": "",
+   "abstract": "Some patients who have an out-of-hospital cardiac arrest (OHCA) achieve a return of spontaneous circulation (ROSC), but many will show no signs of awareness pre-hospital. For a subset of patients who begin to show signs of awareness and distress, advanced paramedic practitioners (APPs) in critical care can administer analgesia and sedation. Additionally, for patients who have already had an endotracheal tube (ETT) placed, APPs may administer a neuromuscular blockade (NMB) agent under a patient group direction (PGD) to paralyse respiratory muscles where there is poor tolerance to the ETT and ventilatory control is required. A retrospective cohort study with quantitative descriptive and inferential statistical analysis was conducted for all occasions where APPs within one ambulance service administered an NMB agent. The study period was one year, from 1 June 2024 to 31 May 2025. PGD compliance was assessed and data were collected that informed the circumstances in which NMB occurred. Furthermore, relevant patient vital signs were scrutinised for the 10-minute period before and after administration to establish possible physiological trends in oxygen saturations, end-tidal carbon dioxide, mean arterial pressure and heart rate. APPs administered NMB to 99 patients. Of those, 85 (85.9%) patients were male and the mean age was 57.6 years. Most patients had a witnessed arrest and bystander CPR. Over half the group presented with a shockable rhythm. Median time to NMB was 71 minutes from OHCA, 40 minutes post ROSC and 28 minutes prior to the arrival at hospital. All APP endotracheal intubation occurred within two attempts. In all cases the PGD indication for NMB was met. There were no statistically significant adverse physiological trends identified in the oxygen saturations, e…",
+   "abstract_zh": "",
+   "journal": "Br Paramed J",
+   "date": "2026-09-01",
+   "authors": "Brown N 等",
+   "tags": [
+    "氣道",
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5660655/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42683377/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42700090",
+   "doi": "10.1097/md.0000000000050530",
+   "pmcid": "",
+   "title": "Experiences and perceptions of lay bystanders responding to out-of-hospital cardiac arrest: A qualitative systematic review.",
+   "title_zh": "",
+   "abstract": "To synthesize the experiences and perceptions of lay bystanders before, during, and after responding to out-of-hospital cardiac arrests. Seven English and Chinese databases were searched from their inception to July 31, 2026, supplemented with citation tracking. Two reviewers independently selected studies, appraised methodological quality using the Joanna Briggs Institute (JBI) critical appraisal checklist for qualitative research, and extracted the findings and supporting illustrations. Unequivocal and credible findings were synthesized using JBI meta-aggregation, and confidence was assessed using confidence in the evidence from reviews of qualitative research. Eight studies involving 209 participants were included. Thirty-three findings were grouped into 12 categories and 4 were synthesized findings concerning the motivators and inhibitors of response, recognition and appraisal of out-of-hospital cardiac arrest, conditions facilitating or impeding cardiopulmonary resuscitation and automated external defibrillator use, and post-event psychological responses and adjustment. Confidence in the evidence from reviews of qualitative research was moderate for the 1st 3 synthesized findings, and low for the 4th. Bystander response is a continuum that extends from event recognition and action to post-event adjustment. Out-of-hospital cardiac arrest systems should provide realistic preparations, clear on-scene support, proportionate information, and psychological support after an event.",
+   "abstract_zh": "",
+   "journal": "Medicine (Baltimore)",
+   "date": "2026-09-01",
+   "authors": "Zhan S 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42700090/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42683050",
+   "doi": "10.29045/14784726.2026.9.11.2.5",
+   "pmcid": "PMC2034723",
+   "title": "Investigating the impact of community first responders on out-of-hospital cardiac arrest outcomes in the North East of England: a retrospective cohort study.",
+   "title_zh": "",
+   "abstract": "Community first responders (CFRs) are integrated within UK ambulance services to deliver early life-saving interventions prior to the arrival of emergency medical services (EMS). Although CFR attendance is associated with earlier cardiopulmonary resuscitation (CPR) and defibrillation, evidence regarding their independent impact on survival following out-of-hospital cardiac arrest (OHCA) remains mixed, and regional data from North East England are limited. The aim of this study was to evaluate the association between CFR attendance and survival outcomes following OHCA attended by a single NHS ambulance service. A retrospective cohort study was conducted using anonymised adult OHCA data from the North East Ambulance Service NHS Foundation Trust for the period between November 2020 and October 2025. The analytic cohort included all cases receiving advanced life support and basic life support - only cases that achieved return of spontaneous circulation represented viable resuscitation attempts. Cases were categorised by CFR attendance. The primary outcome was survival to hospital discharge. Secondary outcomes included OHCA characteristics, bystander interventions and EMS treatments. Multivariable logistic regression was used to adjust for established Utstein predictors and system-level factors. A total of 7916 OHCA cases were included, of which 177 (2.2%) involved CFR attendance. CFR-attended cases were more likely to occur in rural locations and were associated with longer ambulance response times. Public-access defibrillation was more frequent in CFR-attended cases (20.3% vs 12.2%, p = 0.001), while bystander CPR rates were similar between groups. Survival to hospital discharge did not differ significantly between CFR and non-CFR cases (9.6% vs 10.2%, p = 0.797). After ad…",
+   "abstract_zh": "",
+   "journal": "Br Paramed J",
+   "date": "2026-09-01",
+   "authors": "Finney O",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2034723/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42683050/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42679139",
+   "doi": "10.5543/tkda.2026.63490",
+   "pmcid": "",
+   "title": "Late Drug-Eluting Stent Thrombosis Presenting with Out-of-Hospital Cardiac Arrest in a Young Patient with Primary Antiphospholipid Syndrome.",
+   "title_zh": "",
+   "abstract": "Late stent thrombosis is an uncommon but potentially fatal complication following percutaneous coronary intervention. In young patients presenting with recurrent myocardial infarction despite appropriate secondary prevention, underlying prothrombotic disorders should be considered. A 39-year-old man presented with out-of-hospital cardiac arrest nine months after implantation of a 2.75×28 mm drug-eluting stent in the left anterior descending artery for anterior ST-segment elevation myocardial infarction. Coronary angiography demonstrated late thrombotic occlusion of the previously implanted stent with TIMI 0 flow. Successful balloon angioplasty followed by kissing balloon inflation restored TIMI 3 flow in both the left anterior descending artery and the diagonal branch. Because of recurrent myocardial infarction due to late stent thrombosis at a young age, the presence of limited conventional risk factors sufficient to explain the clinical presentation, and no reported history of nonadherence to medical therapy, a systematic laboratory evaluation for thrombophilia and antiphospholipid syndrome was performed. Persistent lupus anticoagulant positivity was demonstrated on repeated testing, whereas anticardiolipin and anti-β2-glycoprotein I antibodies were negative. Following multidisciplinary evaluation by the Departments of Cardiology and Rheumatology, the findings supported a clinical diagnosis of primary antiphospholipid syndrome. Long-term vitamin K antagonist therapy was recommended but declined by the patient. At the four-month follow-up after implantable cardioverter-defibrillator implantation, no recurrent thrombotic events or ICD therapies were observed. Young patients presenting with recurrent myocardial infarction secondary to late stent thrombosis, particularly …",
+   "abstract_zh": "",
+   "journal": "Turk Kardiyol Dern Ars",
+   "date": "2026-09-01",
+   "authors": "Tunçez A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42679139/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42678702",
+   "doi": "10.1001/jamanetworkopen.2026.31408",
+   "pmcid": "",
+   "title": "Rethinking No-Flow Duration in Older Adults With Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "JAMA Netw Open",
+   "date": "2026-09-01",
+   "authors": "Okada Y",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42678702/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42678699",
+   "doi": "10.2478/jccm-2025-0016",
+   "pmcid": "PMC12080534",
+   "title": "No-Flow Duration and Outcomes After Cardiogenic Out-of-Hospital Cardiac Arrest in Older Adults.",
+   "title_zh": "",
+   "abstract": "The burden of cardiogenic out-of-hospital cardiac arrest (OHCA) among older adults is increasing. No-flow time is a key determinant of prognosis, and the aging brain may be increasingly vulnerable to ischemic injury during this interval. To delineate the association between no-flow duration and outcomes in older adults with cardiogenic OHCA using dynamic probability curves. This nationwide, population-based, multicenter retrospective observational cohort study used data from the All-Japan Utstein Registry from January 1, 2010, through December 31, 2023. Participants included adults 65 years or older with witnessed cardiogenic OHCAs treated within Japan's nationwide emergency medical service (EMS) system. Data were analyzed from December 1, 2025, to July 7, 2026. No-flow time, defined as the interval from witnessed arrest to initiation of cardiopulmonary resuscitation by EMS clinicians. The primary outcome was 30-day favorable neurologic outcome, defined as cerebral performance category of 1 or 2. Age-stratified dynamic probability curves were constructed for patients aged 65 to 74 years, 75 to 84 years, 85 to 94 years, and 95 years or older to describe the time-dependent likelihood of outcome according to no-flow duration. For each age group, the no-flow time at which the estimated probability fell below 1% with 95% CIs was identified. Among 1 795 502 registry cases, 259 851 patients met the inclusion criteria. The median patient age was 82 (IQR, 75-88) years, 148 018 (57.0%) were male, and the median no-flow time was 11 (IQR, 8-15) minutes. Overall, 8711 patients (3.4%) achieved a 30-day favorable neurologic outcome. In all patients 65 years or older, the no-flow times at which the estimated probability of favorable neurologic outcome fell below 1% was 11 (95% CI, 11-1…",
+   "abstract_zh": "",
+   "journal": "JAMA Netw Open",
+   "date": "2026-09-01",
+   "authors": "Kishihara Y 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12080534/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42678699/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42677481",
+   "doi": "10.1001/jamacardio.2017.2671",
+   "pmcid": "PMC5710447",
+   "title": "Correlation Between EMS Agency Rates of Survival to Hospital Admission and Hospital Survival Outcomes for Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "Survival to hospital admission for out-of-hospital cardiac arrest is an important resuscitation outcome to gauge emergency medical service (EMS) agency performance. However, its correlation with EMS rates of survival to hospital discharge and favorable neurological survival is unclear. Using the Cardiac Arrest Registry to Enhance Survival (CARES), we identified adults with nontraumatic out-of-hospital cardiac arrests during 2 periods: 2015 through 2019 (before the COVID-19 pandemic) and 2022 through 2024 (after the peak pandemic years). Multivariable hierarchical logistic regression was used to derive EMS agency-level risk-standardized survival rates for hospital admission, hospital discharge, and favorable neurological survival during each period. We then assessed the correlation between EMS agency rates of survival to admission versus discharge and favorable neurological survival using weighted linear regression, and whether the correlations differed by neighborhood income (above versus below median household income) and race and ethnicity (categorized as predominantly White [>80% of residents], majority Black or Hispanic [>50% of residents], or integrated). A total of 544 296 events from 1838 EMS agencies met inclusion criteria (252 137 pre-COVID; 292 159 post-COVID). During the period of 2015 to 2019, EMS rates of survival to admission were strongly correlated with survival to discharge (weighted r=0.68 [95% CI, 0.64-0.72]) and favorable neurological survival (weighted r=0.54 [95% CI, 0.43-0.59]). These correlations were similar during the period of 2022 through 2024 (weighted r=0.63 [95% CI, 0.59-0.66] and weighted r=0.48 [95% CI, 0.44-0.53], respectively). Neighborhood racial and ethnic composition modified the correlation between EMS rates of survival to admissio…",
+   "abstract_zh": "",
+   "journal": "Circulation",
+   "date": "2026-09-01",
+   "authors": "Attachaipanich T 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5710447/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42677481/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42683417",
+   "doi": "10.29045/14784726.2026.9.11.2.29",
+   "pmcid": "PMC7050970",
+   "title": "In patients with cardiopulmonary resuscitation-induced consciousness in cardiac arrest in the pre-hospital setting, does the use of pharmacological interventions impact mortality compared to standard care? A systematic review.",
+   "title_zh": "",
+   "abstract": "Cardiopulmonary resuscitation-induced consciousness (CPRIC) is the term commonly used to refer to signs of life displayed by patients during resuscitation. This phenomenon presents a challenge, as these signs of life can interfere with resuscitative efforts. International resuscitation guidelines currently do not recommend a specific treatment strategy. This systematic review aimed to ascertain whether pharmacological management of adult cardiac arrest patients with CPRIC in the pre-hospital setting had an impact on mortality rates compared to standard care. The review also aimed to identify any association between use of specific pharmacological agents and mortality. Studies that reported on adult cardiac arrest patients presenting with CPRIC who received pharmacological management and were resuscitated in the pre-hospital setting were included. The literature search excluded studies that did not provide mortality data. The search was conducted using PubMED, CINAHL and Embase. A narrative synthesis approach was used to report the results. Two studies were identified by the literature search. Both articles were Australian retrospective observational cohort studies that included a total of 39,569 patients, of which 164 presented with CPRIC. Patients with CPRIC were found to be more likely to survive than those without. Patients who were managed with medications had a lower survival rate than those who were not. Due to limited and heterogeneous data, a meta-analysis was not conducted. The evidence produced included a significant number of confounding factors, limiting both internal and external validity of this review. Overall, the confidence in the results is low and the findings cannot be generalised to clinical practice. This review did, however, highlight the need for…",
+   "abstract_zh": "",
+   "journal": "Br Paramed J",
+   "date": "2026-09-01",
+   "authors": "Prokop N 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7050970/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42683417/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42674240",
+   "doi": "10.1016/j.resuscitation.2026.111286",
+   "pmcid": "",
+   "title": "Cerebral Tissue Oxygen Saturation at Defibrillation and Return of Spontaneous Circulation in Out-of-Hospital Cardiac Arrest With a Shockable Rhythm.",
+   "title_zh": "",
+   "abstract": "We examined the association between cerebral tissue oxygen saturation (SctO2) at each patient's first defibrillation after in-hospital monitoring began and return of spontaneous circulation (ROSC) after that defibrillation in patients requiring continued resuscitation after out-of-hospital cardiac arrest (OHCA). We included adult patients with out-of-hospital cardiac arrest who underwent SctO2 monitoring during ongoing CPR and received in-hospital defibrillation for ventricular fibrillation or pulseless ventricular tachycardia. The first monitored defibrillation per patient was analyzed using multivariable Firth penalized logistic regression. All 194 monitored defibrillations were analyzed secondarily using a logistic generalized linear mixed-effects model (GLMM) with a patient-level random intercept. Both models adjusted for site. Nineteen patients achieved ROSC after the first monitored defibrillation. Median SctO2 was 48.8% [interquartile range, 47.2-53.6] with ROSC and 38.1% [33.8-41.8] without ROSC. After adjusting for site, arrest-to-defibrillation time, and epinephrine within 2 min, the odds ratio (OR) was 1.48 for each 1% increase in SctO2 (95% confidence interval [CI], 1.22-1.80; P<0.001). The area under the receiver operating characteristic curve was 0.961 (95% CI, 0.917-0.991). At an SctO2 cut-off of 44.5%, the sensitivity was 94.7% (18/19; 95% CI, 74.0%-99.9%) and the specificity was 89.7% (61/68; 95% CI, 79.9%-95.8%). In the adjusted GLMM of all 194 defibrillations (41 followed by ROSC), the association remained consistent (OR, 1.56; 95% CI, 1.34-1.82; P<0.001). In this selected population, higher SctO2 at defibrillation was associated with ROSC. This indirect marker and exploratory cutoff need external validation and should not delay guideline-directed def…",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-08-31",
+   "authors": "Kano H 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42674240/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42669918",
+   "doi": "10.1161/jaha.126.050730",
+   "pmcid": "",
+   "title": "Bystander Cardiopulmonary Resuscitation and Cerebral Oximetry in Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "J Am Heart Assoc",
+   "date": "2026-08-30",
+   "authors": "King JA 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42669918/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42665089",
@@ -158,7 +526,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1016/j.jacasi.2026.07.036",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42663366/",
    "translation": "",
    "added": "2026-08-31"
@@ -181,15 +549,61 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/10903127.2026.2717758?needAccess=true",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42664376/",
    "translation": "",
    "added": "2026-08-31"
   },
   {
+   "pmid": "42681606",
+   "doi": "10.3109/0142159x.2014.909588",
+   "pmcid": "PMC3613304",
+   "title": "Aligning training with clinical reality: linking case-mix and self-reported confidence to entrustable professional activities in physician-staffed EMS.",
+   "title_zh": "",
+   "abstract": "Emergency medical services (EMS) physicians must manage a broad spectrum of high-acuity prehospital emergencies. However, current training pathways in Germany are not explicitly competency-based and provide limited structured exposure to low-frequency, high-stakes scenarios. Entrustable professional activities (EPAs) offer a framework to align training with real-world clinical demands. This study aimed to identify key prehospital tasks suitable for an EPA-based curriculum. We conducted a multi-method descriptive study combining (1) a retrospective analysis of 4,078 prehospital EMS physician records (Nuremberg, 2017-2021) to assess case-mix and procedural frequencies and (2) an online survey of 134 bavarian EMS physicians assessing self-reported confidence across emergency domains. Tasks were categorized on the basis of frequency and confidence levels and mapped to candidate EPAs. Nontraumatic emergencies were dominated by cardiovascular and neurological conditions, whereas traumatic cases involved primarily extremity injuries. The most frequent interventions were intravenous access, oxygen administration, and ECG acquisition; invasive procedures were rare. Physicians self-reported high perceived confidence in resuscitation, airway management, and analgesia and lower perceived confidence in paediatric, neonatal, obstetric, and mass-casualty scenarios. Physicians with an anaesthesiology background descriptively reported higher perceived confidence across several domains; no inferential testing was performed. Tasks characterized by either high frequency with low confidence or low frequency with high stakes were identified as key targets for EPA development. These findings identify patterns of clinical exposure and self-perceived confidence in the studied EMS context and su…",
+   "abstract_zh": "",
+   "journal": "BMC Emerg Med",
+   "date": "2026-08-28",
+   "authors": "Engelen C 等",
+   "tags": [
+    "氣道"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3613304/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42681606/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42681604",
+   "doi": "10.1080/10903127.2018.1511765",
+   "pmcid": "PMC12449257",
+   "title": "Drones providing live video to dispatch centers during time-critical incidents.",
+   "title_zh": "",
+   "abstract": "Early triage of emergency calls at dispatch centres relies mainly on verbal information, which may not reflect the complexity and severity of a situation, limiting dispatchers situational awareness and early decision-making. Real-time live-video could potentially be provided by drones before the arrival of emergency medical services and fire department. The aim was to evaluate feasibility and operational value of automated beyond visual line of sight (BVLOS) drones delivering early live-video to emergency dispatch centres during time-critical incidents. This prospective interventional feasibility study was conducted in the region of western Sweden between 7th May-7th November 2025. One drone system with automated external defibrillator and a high-resolution camera was integrated into regional medical/fire dispatch centers, covering a 141 km2 suburban area (population approx 63 000) enabling real-time videofeed during emergency 112-calls. The drone was dispatched to consecutive alerts meeting predefined criteria (out-of-hospital cardiac arrest, traffic accidents, fires). Outcomes included time delays, characteristics of drone- and video transmission together with dispatcher-perceived value assessed through surveys. Of 169 alerts, the drone system was operational in 120 (71%). Within this operational population, the drone was deployed in 56/120 alerts (47%). Eleven alerts were subsequently cancelled following updated dispatch information, leaving 45 completed alerts in which the drone arrived on scene and delivered live video to the dispatch centres. The drone arrived first or was the only resource on scene in 44/45 completed alerts (98%), with a median dispatch-to-arrival time of 4:24 min compared with 8:50 min for responding ground units (p < 0.001). Video was transferr…",
+   "abstract_zh": "",
+   "journal": "BMC Emerg Med",
+   "date": "2026-08-28",
+   "authors": "Kristiansson M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12449257/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42681604/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
    "pmid": "42655899",
    "doi": "10.12659/ajcr.952977",
-   "pmcid": "",
+   "pmcid": "PMC3828053",
    "title": "Management Challenges of Interfering Cardiopulmonary Resuscitation-Induced Consciousness in the Prehospital Setting: A Case Report.",
    "title_zh": "",
    "abstract": "BACKGROUND Cardiopulmonary resuscitation-induced consciousness (CPRIC) is a rare phenomenon in which patients in cardiac arrest demonstrate signs of consciousness while undergoing cardiopulmonary resuscitation (CPR). Only a few cases of this phenomenon are reported in the literature. Previous studies estimate that CPRIC occurs in 0.23-0.9% of all cardiac arrests, with prevalence increasing over recent years. It has been proposed that the etiology of this phenomenon is the result of preserved cerebral perfusion during high-quality CPR. CASE REPORT A 52-year-old woman presented with witnessed out-of-hospital cardiac arrest after a bout of chest pain. During CPR, resuscitation was stopped multiple times due to signs of consciousness despite the patient being in ventricular fibrillation. Throughout the resuscitation attempt, the patient grunted, yelled, demonstrated purposeful movements, and opened her eyes. These actions resulted in considerable pauses in chest compressions, delays in routine advanced cardiac life support interventions, and psychological distress to the emergency medical services clinicians. After multiple defibrillations, the patient was successfully resuscitated and became oriented enough to answer questions and hold meaningful discussion. She was transported directly to the cardiac catheterization lab, where she underwent percutaneous coronary intervention to correct a 100% occlusive in-stent thrombosis of the mid-left anterior descending artery. CONCLUSIONS This case describes challenges health care professionals might face when CPRIC occurs. While sedation was considered, widespread protocols for sedation in CPRIC patients do not exist. More research is needed to determine the prevalence of CPRIC in the United States, as well as best practices for man…",
@@ -204,10 +618,33 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3828053/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42655899/",
    "translation": "",
    "added": "2026-08-31"
+  },
+  {
+   "pmid": "42686458",
+   "doi": "10.1016/j.carrev.2026.08.018",
+   "pmcid": "",
+   "title": "Impact of operator and institutional annual case volume on percutaneous coronary intervention clinical outcomes.",
+   "title_zh": "",
+   "abstract": "Percutaneous coronary intervention (PCI) is one of the most frequently performed procedures and is being undertaken in increasingly complex patient populations. International studies have suggested an association between operator or institutional procedural volume and PCI outcomes, largely reflecting differences in experience and performance. All adult procedures registered in the Victorian Cardiac Outcomes Registry undergoing PCI in Victoria, Australia between 1 January 2015 and 31 December 2024 were included. Operators were classified as low (<50 PCI/year), medium (50-99), or high (≥100), and institutions as low (<200), medium (200-399), or high (≥400) annual PCI volume. Multivariable logistic regression clustered at the hospital level assessed associations between operator volume and in-hospital mortality. Across 34 institutions and 157 operators, 117,237 PCI procedures were analysed. High-volume operators performed 72.0% of all procedures, compared with 21.9% by medium-volume and 6.1% by low-volume operators. Similarly, high-volume institutions accounted for 71.2% of PCI, with 21.8% and 7.0% performed at medium- and low-volume centres, respectively. High-volume operators and institutions managed greater proportions of high-risk presentations (STEMI, out-of-hospital cardiac arrest, cardiogenic shock) and demonstrated comparable adjusted outcomes. Key PCI quality indicators such as radial access, coronary imaging use, and faster door-to-balloon times were more common among high-volume operators and institutions. After multivariable adjustment, neither operator nor institutional volume was independently associated with in-hospital mortality. In contemporary Australian PCI practice, important differences in PCI care metrics were observed between high- and low-volume ope…",
+   "abstract_zh": "",
+   "journal": "Cardiovasc Revasc Med",
+   "date": "2026-08-27",
+   "authors": "Batchelor RJ 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42686458/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42644556",
@@ -256,6 +693,29 @@
    "added": "2026-08-31"
   },
   {
+   "pmid": "42699755",
+   "doi": "10.1186/s12891-019-2423-5",
+   "pmcid": "PMC6346525",
+   "title": "Radiological assessment of traumatic bone injuries secondary to motorcycle accidents in Ghana: a multi-center cross-sectional study.",
+   "title_zh": "",
+   "abstract": "Motorcycle accidents are a leading cause of traumatic injuries, including bone fractures, dislocations, and soft tissue damage. Despite the growing concern about motorcycle-related injuries, there is a paucity of research. This study assessed traumatic bone injuries secondary to motorcycle accidents in Ghana. This multi-center quantitative study employed a cross-sectional design to examine plain X-ray reports of 1736 patients with traumatic bone injuries due to motorcycle accidents from January 2020 to December 2023. Data collected were analyzed using SPSS version 25. Statistical significance was set at p-value ≤ 0.05. The prevalence rate of traumatic bone injuries due to motorcycle accidents was 82.9%, and the mortality rate was 10.3%. The tibia/fibula (43.3%), femur (20.6%), and the skull (9.3%) were the most fractured bones, whilst dislocations frequently occurred at the ankle, shoulder, and elbow joints. Fractures of the skull (67.3%, p=0.041) and spine (69.0%, p=0.002) were more common among the passengers. Passengers disproportionately sustained more fractures (50.9%) and dislocations (57.8%) than motorcycle riders. The mortality rates among patients with spine/neck and skull injuries were 85.3% and 65.0%, respectively (p<0.001). The observed increasing annual trend in traumatic bone injury cases underscores a growing burden on emergency departments and highlights the urgent need for strengthened emergency medicine systems, including rapid triage, timely imaging, and coordinated trauma care. This trend also reinforces the importance of targeted motorcycle injury prevention strategies and policy interventions, alongside improved pre-hospital and emergency response services, to reduce both the incidence and severity of motorcycle-related injuries in Ghana.",
+   "abstract_zh": "",
+   "journal": "Afr J Emerg Med",
+   "date": "2026-08-26",
+   "authors": "Gorleku PN 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6346525/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699755/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
    "pmid": "42640630",
    "doi": "10.1097/yic.0000000000000638",
    "pmcid": "",
@@ -273,7 +733,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.17605/osf.io/3rqys",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42640630/",
    "translation": "",
    "added": "2026-08-31"
@@ -369,7 +829,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.6084/m9.figshare.33324902",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42636407/",
    "translation": "",
    "added": "2026-08-31"
@@ -440,6 +900,29 @@
    "url": "https://doi.org/10.3389/fpubh.2026.1871225",
    "translation": "",
    "added": "2026-08-31"
+  },
+  {
+   "pmid": "42685531",
+   "doi": "10.1016/j.ajem.2026.08.043",
+   "pmcid": "",
+   "title": "Outcomes among patients with out-of-hospital cardiac arrest who activated an ECPR pathway and achieved ROSC before cannulation.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) remains a leading cause of death worldwide, with low survival and poor neurological outcomes despite advances in resuscitation care. The Minnesota Mobile Resuscitation Consortium (MMRC) is a metropolitan-wide hub-and-spoke extracorporeal cardiopulmonary resuscitation (ECPR) program that directs selected patients with OHCA to expert Cannulation Hospitals. Whether patients who achieve prehospital return of spontaneous circulation (ROSC) also benefit from care within such a system remains unknown. We conducted a retrospective descriptive study of patients with OHCA meeting entry criteria for the MMRC protocol but achieving prehospital ROSC and transported to three expert ECMO centers between September 2020 and December 2025. Patients with cardiac arrest in the emergency department or the catheterization laboratory as well as patients with missing survival data were excluded. The primary and secondary outcomes were survival to hospital discharge and functionally favorable survival (CPC 1 or 2). Ninety-four patients met inclusion criteria in the MMRC cohort. Patients were predominantly male (73.4%) and mean age was 55.5 years. Seventy-nine patients (84%, 95% CI: 75-90.8) survived to hospital discharge and 70 (74.5%, 95% CI: 64.4-82.9) had a CPC score of 1 or 2 at hospital discharge. At 90 and 180 days, 61 and 54 patients, respectively, had a CPC score of 1 or 2. Only five patients underwent secondary cannulation for ECMO, of whom three survived to hospital discharge. Patients with OHCA who achieved prehospital ROSC and were treated within a metropolitan hub-and-spoke ECPR system had an 84% survival rate to hospital discharge, with 74.45% achieving favorable neurological outcome (CPC 1-2), despite infrequent subsequent ECMO use.",
+   "abstract_zh": "",
+   "journal": "Am J Emerg Med",
+   "date": "2026-08-24",
+   "authors": "Jaeger D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42685531/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42634272",
@@ -601,6 +1084,29 @@
    "added": "2026-08-23"
   },
   {
+   "pmid": "42694417",
+   "doi": "10.1016/j.hlc.2022.08.010",
+   "pmcid": "PMC1665419",
+   "title": "Ozone and possible heat effects on out-of-hospital cardiac arrest: a time-series study.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) is a time-critical emergency with high mortality. Short-term environmental exposures, including temperature and air pollution, may trigger acute cardiovascular events, but their independent and lagged effects in northern Chinese cities remain unclear. We conducted a time-series study of 7,996 OHCA cases recorded by Tianjin's prehospital emergency system from July 2023 to June 2024. Daily OHCA counts were linked with meteorological and air pollution data. A distributed lag non-linear model with a quasi-Poisson link estimated non-linear and lagged effects of daily mean temperature (lag 0-14). Six pollutants (PM2.5, PM10, NO2, SO2, CO, O3) were examined in single- and two-pollutant models using lag0-1 exposures, adjusting for meteorological and temporal covariates. Daily OHCA averaged 21.9 cases. Temperature showed a monotonic increase in cumulative risk, with a minimum risk temperature of -1.9 °C. High temperatures showed a possible short-term association\" peaking at lag 1 (RR ≈1.57 at the 95th percentile), whereas low temperatures showed no significant effect. Confidence intervals included unity, indicating limited statistical certainty. Ozone was the only pollutant consistently associated with OHCA. Each IQR increase in lag0-1 O3 corresponded to a 15.3% higher risk. In sex-stratified analyses, the effect was comparable in men (RR = 1.22, 95% CI: 1.08-1.39) and women (RR = 1.22, 95% CI: 1.04-1.43). Heat-related risks appeared stronger in women (RR = 3.16) than in men (RR = 1.58), though estimates were imprecise. Age-specific analyses were limited by sparse data, but in the ≥75-year group ozone showed a positive trend. Interaction analyses suggested ozone may amplify heat effects, with a significant interaction (p = 0.043). Lag-respon…",
+   "abstract_zh": "",
+   "journal": "Front Public Health",
+   "date": "2026-08-20",
+   "authors": "Pan SG 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1665419/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42694417/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
    "pmid": "42615855",
    "doi": "10.1080/10903127.2026.2717533",
    "pmcid": "",
@@ -668,6 +1174,29 @@
    "url": "https://doi.org/10.3390/ecm3030027",
    "translation": "",
    "added": "2026-08-31"
+  },
+  {
+   "pmid": "42701411",
+   "doi": "10.1016/j.resplu.2025.101046",
+   "pmcid": "PMC4116642",
+   "title": "Structured Evaluation and Treatment of cardiac arrest via the ABCDE approach (SETA) - Rethinking high-performance CPR and cause-finding during Advanced Life Support.",
+   "title_zh": "",
+   "abstract": "The European Resuscitation Council (ERC) Guidelines 2025 continue to summarize the causes of cardiac arrest that should be sought during advanced life support (ALS) as \"4Hs and 4Ts\". While well established, this list-based mnemonic does not map onto the airway-breathing-circulation-disability-exposure (ABCDE) sequence that emergency teams use for every other patient assessment, and it excludes causes that are clinically treatable but not classically \"reversible\" in the prehospital phase. We present SETA (Structured Evaluation and Treatment of cardiac arrest via the ABCDE approach), a concept developed within the Emergency Medical Service Vienna that restructures both cause-finding during cardiopulmonary resuscitation (CPR) and evaluation of high-performance CPR around the ABCDE sequence, embeds protocol-linked actions at each step, and is designed to run within ongoing chest compressions without interrupting them. We outline its rationale, its relationship to existing pit-crew and ABCDE-based resuscitation models, and the prospective evaluation now needed before considered for wider use.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-19",
+   "authors": "Gonzo P 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4116642/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42701411/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42612901",
@@ -783,6 +1312,52 @@
    "added": "2026-08-31"
   },
   {
+   "pmid": "42701655",
+   "doi": "10.1161/cir.0000000000001375",
+   "pmcid": "PMC12029030",
+   "title": "Distribution of clinically identified reversible causes in emergency department and out-of-hospital cardiac arrest: a retrospective cohort study.",
+   "title_zh": "",
+   "abstract": "Rapid identification of potentially reversible causes is essential during cardiac arrest resuscitation. The American Heart Association 5Hs and 5Ts framework is widely used as a structured cognitive aid during resuscitation. Emergency department cardiac arrest (EDCA) occurs in a distinct clinical environment and may involve different patterns of clinically identified reversible causes than out-of-hospital cardiac arrest (OHCA). We aimed to compare the distribution of clinically identified reversible causes between EDCA and OHCA. We conducted a retrospective cohort study of adult cardiac arrest patients who received cardiopulmonary resuscitation in a tertiary emergency department between 2018 and 2024. Patients were classified as EDCA or OHCA. Reversible causes were classified using predefined operational definitions based on contemporaneous clinical documentation and available diagnostic information during resuscitation, representing clinically identified or suspected reversible causes rather than definitive etiologic diagnoses. The primary analysis compared the distribution of clinically identified reversible causes between EDCA and OHCA. Secondary exploratory analyses used Firth's penalized logistic regression with prespecified confounding adjustment. Among 910 patients, 275 (30.2%) had EDCA and 635 (69.8%) had OHCA. Hypoxia was the most frequently identified cause but occurred less often in EDCA (46.6% vs. 57.2%; adjusted odds ratio [aOR], 0.61; 95% CI, 0.45-0.83). Hypovolemia was identified more frequently in EDCA (33.1% vs. 23.2%; aOR 1.80, 95% CI 1.22-2.65). Cardiac tamponade was also identified more frequently in EDCA (2.9% vs. 0.6%; aOR 5.14, 95% CI 1.52-17.40). No statistically significant adjusted differences were observed for the remaining reversible causes. A…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-18",
+   "authors": "Wongtanasarasin W 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12029030/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42701655/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42701529",
+   "doi": "10.1016/j.ajem.2020.10.054",
+   "pmcid": "PMC12000968",
+   "title": "Practice variability of epinephrine administration in pediatric out-of-hospital cardiac arrest in the United States.",
+   "title_zh": "",
+   "abstract": "Pediatric out-of-hospital cardiac arrests (pOHCA) are low frequency, high acuity events for Emergency Medical Services (EMS). The survival rate is low, with only 10% of children surviving, and few survivors having favorable neurologic outcomes. Optimal prehospital management of pOHCA includes rapid epinephrine administration, yet factors contributing to its administration are not well understood. Our study objective was to evaluate the frequency of epinephrine administration in pOHCA. Our secondary objective was to characterize the demographic and clinical characteristics associated with epinephrine administration in pediatric OHCA in the United States. In this retrospective, observational study, we analyzed data from the National Emergency Medical Services Information System (NEMSIS) dataset for the year 2021. We identified pediatric patients ages ≥1 day-old to <18 years-old from \"9-1-1\" activations that were treated by advanced life support (ALS) clinicians. OHCA events were identified by performance of cardiopulmonary resuscitation (CPR) or defibrillation. We used descriptive statistics to evaluate the frequency of epinephrine administration and assess demographic and clinical characteristics in this population. Multivariable logistic regression model was utilized to find characteristics associated with epinephrine administration. In 2021, 8495 pOHCA events (median [IQR] age: 3.0 [0.3-13.0] years; 58.5% males) were managed by an ALS unit in the United States. Two out of every five (40.2%) pOHCA events did not receive epinephrine. Epinephrine use was more common in younger age groups (1 day-1 year OR, 1.25 [95% CI, 1.07-1.46]; 1-5 years OR, 1.19 [95% CI, 1.00-1.38]; 6-12 years OR, 1.59 [95% CI, 1.24-1.79]; referent: 13-17 years), urban population settings (OR, 2.06 [9…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-18",
+   "authors": "Kadish CB 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12000968/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42701529/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
    "pmid": "42609002",
    "doi": "10.1177/21537658261480396",
    "pmcid": "",
@@ -873,6 +1448,30 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42649819/",
    "translation": "",
    "added": "2026-08-31"
+  },
+  {
+   "pmid": "42676471",
+   "doi": "10.1186/s12871-024-02560-3",
+   "pmcid": "PMC11106944",
+   "title": "Effect of laryngeal mask airway versus endotracheal intubation on survival in out-of-hospital cardiac arrest: a meta-analysis of randomized controlled trials.",
+   "title_zh": "",
+   "abstract": "To compare the effectiveness and safety of laryngeal mask airway (LMA) versus endotracheal intubation (ETI) on resuscitation outcomes in patients with out-of-hospital cardiac arrest (OHCA). Randomized controlled trials (RCTs) were searched in PubMed, Embase, the Cochrane Library, Web of Science, CNKI, Wanfang, VIP, and CBM from database inception to May 31, 2025. The methodological quality and risk of bias of the included RCTs were evaluated with the Cochrane ROB2 tool. We employed RevMan 5.3 and TSA software for all statistical analyses, including meta-analysis, sensitivity analysis, and trial sequential analysis (TSA). The certainty of the evidence was graded according to the GRADE approach. The primary outcomes included airway establishment time and CPR success rate, and the secondary outcomes included first-attempt intubation success rate, mortality, survival rate, left ventricular ejection fraction, and adverse events. Nineteen RCTs (11,982 patients) were included. Compared with ETI, LMA was associated with a significantly shorter airway establishment time (MD: -86.95 s; 95% CI: -103.00, -70.90; p < 0.00001), higher first-attempt success rate (RR: 1.44; 95% CI: 1.32, 1.58; p < 0.00001), improved CPR success rate (RR: 1.44; 95% CI: 1.25, 1.67; p < 0.00001), and LVEF (SMD: 1.57; 95% CI: 0.65, 2.48; p < 0.00001). No significant differences were observed in survival rate (RR: 0.98; 95% CI: 0.88, 1.09; p = 0.69), nor mortality (RR: 1.00; 95% CI: 0.99, 1.01; p = 0.69). LMA was associated with a lower rate of vocal cord injury (RR: 0.11; 95% CI: 0.03, 0.47; p = 0.003), although this finding is based on a small number of events and should be interpreted cautiously. The quality of the GRADE evidence ranged from very low to high. Compared with ETI, LMA demonstrates significa…",
+   "abstract_zh": "",
+   "journal": "Front Public Health",
+   "date": "2026-08-17",
+   "authors": "Zhang D 等",
+   "tags": [
+    "氣道",
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11106944/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42676471/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42605111",
@@ -988,6 +1587,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42603601/",
    "translation": "",
    "added": "2026-08-16"
+  },
+  {
+   "pmid": "42699575",
+   "doi": "10.1016/j.jacc.2017.11.014",
+   "pmcid": "PMC5868960",
+   "title": "Observational study: Temporal dynamics of lipoprotein(a) after out-of-hospital cardiac arrest: The Biobank Working Group.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) is a major cause of death in the USA and Europe, with survival rates around 10%. Lipoprotein(a) [Lp(a)] is an established cardiovascular risk factor, but its temporal profile following OHCA is unknown. In this retrospective study at a tertiary cardiac arrest center, 50 adult patients with OHCA of presumed cardiac origin were included and stratified by 6-month neurological outcome (CPC 1-2 vs. CPC 3-5). Longitudinal Lp(a) concentrations were analyzed using a linear mixed-effects model with fixed effects for time point, neurological outcome, and their interaction. Exploratory logistic regression assessed associations between Lp(a) at ROSC and neurological outcome. 26 patients had a favorable outcome, and 22 had an unfavorable outcome (two patients were excluded after analysis due to problems with the sample). Baseline characteristics were similar, except for longer low-flow duration (p = 0.005), higher cummulative epinephrine dosage (p = 0.025) and lower pH (p = 0.013) in the unfavorable group. Absolute Lp(a) concentrations at ROSC did not differ between groups (p = 0.646) and were not associated with outcome. In the mixed-effects model, both timepoint (p < 0.0001) and the timepoint × outcome interaction (p = 0.020) were significantly associated with Lp(a) concentrations. Lp(a) remained relatively stable in patients with a favorable outcome, whereas it declined significantly over 48 h in those with an unfavorable outcome. Lp(a) exhibits a time-dependent trajectory after OHCA that differs by neurological outcome. While baseline levels are not predictive, patients with unfavorable outcomes show a significant decline over time, suggesting a dynamic response possibly linked to disease severity.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-15",
+   "authors": "Kogler D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5868960/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699575/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42599044",
@@ -1315,6 +1936,50 @@
    "added": "2026-08-31"
   },
   {
+   "pmid": "42699599",
+   "doi": "10.1136/bmj.i6",
+   "pmcid": "PMC4724785",
+   "title": "One termination of resuscitation rule to guide them all? When external validation meets system heterogeneity in a clinical prediction rule: a young ERC journal club article.",
+   "title_zh": "",
+   "abstract": "This journal club article was part of the Young European Resuscitation Council Masterclass 2025-2026. It reviews the paper \"Performance of Universal TOR rule for out-of-hospital cardiac arrest in the Pan-Asian Resuscitation Outcomes Study\" by Onoe et al. (2025).",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-12",
+   "authors": "Herrera-Castillo L 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724785/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699599/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
+   "pmid": "42699587",
+   "doi": "10.1093/ehjdh/ztag043",
+   "pmcid": "PMC13001639",
+   "title": "Wearable saving lives: a case report.",
+   "title_zh": "",
+   "abstract": "Unwitnessed cardiac arrests account for approximately half of all out-of-hospital cardiac arrests (OHCAs) and are associated with poor survival due to delayed recognition. Sudden physical collapse is a key characteristic of cardiac arrest and may be detected using accelerometer-based fall detection algorithms incorporated into commercial wearable devices. We report a case of unwitnessed OHCA in which smartwatch-based fall detection triggered automated alerts, resulting in timely initiation of cardiopulmonary resuscitation and favourable outcome. A 69-year-old man suffered an unwitnessed OHCA while running alone. Wearing an Apple Watch with fall detection activated, his collapse triggered automated alerts to emergency contacts and emergency medical services (EMS). Family members rapidly reached the patient, found him unresponsive, and initiated CPR approximately 6-7 min after collapse. EMS arrived shortly thereafter and documented ventricular fibrillation as the initial rhythm. Following advanced life support, return of spontaneous circulation was achieved. Hospital investigations revealed severe two-vessel coronary artery disease with an aberrant right coronary artery with interarterial course and prior infarctions in the RCA and LAD territories. The patient underwent coronary artery bypass grafting and received an implantable cardioverter-defibrillator for secondary prevention. The patient was discharged home 29 days later with complete neurological recovery. This case illustrates the potential of wearable devices to serve as digital witness in otherwise unwitnessed cardiac arrests. It further highlights the promise of dedicated wearable cardiac arrest detection technologies that may reduce delays in recognition and treatment, thereby potentially improving survival and…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-12",
+   "authors": "Jansen CE 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13001639/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699587/",
+   "translation": "",
+   "added": "2026-09-06"
+  },
+  {
    "pmid": "42596016",
    "doi": "10.1542/peds.112.3.677",
    "pmcid": "PMC1343276",
@@ -1541,6 +2206,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42656551/",
    "translation": "",
    "added": "2026-08-31"
+  },
+  {
+   "pmid": "42699251",
+   "doi": "10.1016/j.jsxm.2020.08.013",
+   "pmcid": "PMC8481359",
+   "title": "PRECEPT-OHCA: prehospital evaluation of confidence and practice in the treatment of out-of-hospital cardiac arrest across Australia, the United Kingdom, and New Zealand: a cross-sectional study protocol.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) has poor survival. Resuscitation guidelines recommend consideration of reversible causes, commonly termed the \"4 Hs and 4 Ts\", but prehospital constraints may limit clinicians' ability to identify or exclude them. This study will assess clinicians' confidence in identifying reversible causes, team composition, and perceived barriers to improving OHCA outcomes. This international, multicentre, cross-sectional survey will recruit prehospital clinicians across Australia, New Zealand and the United Kingdom. It will be disseminated through prehospital and emergency medicine organisations using email links and QR codes. The questionnaire assesses respondent characteristics, team composition, equipment and medication availability, and confidence in ruling in and ruling out each reversible cause using a five-point Likert scale. Structured and free-text items examine service practices and barriers. From an estimated population of 54,874 clinicians, at least 382 responses are required. The primary outcome is clinicians' perceived confidence in identifying reversible causes. Secondary outcomes include service-level standard operating procedures, use of clinical adjuncts, and perceived barriers. Analyses will include descriptive statistics, Mann-Whitney U, Kruskal-Wallis and chi-squared tests, with thematic content analysis of free-text responses. The study will describe international variation in prehospital OHCA practice and assess how adjuncts, including point-of-care ultrasound, may support identification of reversible causes. Self-reported confidence may not reflect diagnostic accuracy or clinical performance. Ethics approval was granted by the Southern Adelaide Local Health Network Human Research Ethics Committee [2025/HRE00367] and the U…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-08-08",
+   "authors": "Naeem S 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8481359/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699251/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42566757",
@@ -1934,6 +2621,28 @@
    "url": "https://doi.org/10.1186/s13054-026-06196-2",
    "translation": "",
    "added": "2026-08-31"
+  },
+  {
+   "pmid": "42701469",
+   "doi": "10.1097/pec.0000000000003165",
+   "pmcid": "PMC11810532",
+   "title": "Clinical application of point-of-care ultrasound during cardiopulmonary resuscitation: a systematic review and meta-analysis.",
+   "title_zh": "",
+   "abstract": "Point-of-care ultrasound (PoCUS) is now more commonly being utilized in cardiopulmonary resuscitation to offer immediate evaluation of cardiac motion and to direct management. However, the evidence is still heterogeneous. Therefore, the purpose of this systematic literature review and meta-analysis is to assess the clinical utility of PoCUS in terms of its effects on resuscitation outcomes. A systematic review and meta-analysis were performed by searching MEDLINE, EMBASE, Cochrane Central, Web of Science, and Scopus databases. Studies on adult patients with in-hospital cardiac arrest or out-of-hospital cardiac arrest (OHCA) were included following predefined Population, Intervention, Comparison, Outcomes, and Study Design (PICOS) criteria. Two reviewers independently screened, extracted data, and appraised quality using Risk of Bias 2 (RoB 2) tool for randomized trials and the Risk of Bias in Non-randomized Studies of Interventions (ROBINS-I) tools. Subgroup and sensitivity analyses were performed to assess robustness and the presence of publication bias was evaluated. Pooled results of all included studies involving patient populations showed that PoCUS during cardiopulmonary resuscitation (CPR) increased the rate of the return of spontaneous circulation (ROSC) (43% vs. 28%). Survival to hospital discharge was also greater in the PoCUS group (19 % vs. 12 %). Subgroup and sensitivity analyses confirmed the robustness of the results, and no significant publication bias was found. This systematic review and meta-analysis indicates that performing PoCUS during CPR is associated with better clinical outcomes, including increased ROSC and survival to hospital discharge, further highlighting the potential advantages of PoCUS to assist in cardiac arrest management as well as m…",
+   "abstract_zh": "",
+   "journal": "Quant Imaging Med Surg",
+   "date": "2026-08-04",
+   "authors": "He Q",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11810532/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42701469/",
+   "translation": "",
+   "added": "2026-09-06"
   },
   {
    "pmid": "42557553",
@@ -21701,7 +22410,7 @@
   {
    "pmid": "41558743",
    "doi": "10.1136/emermed-2024-214733",
-   "pmcid": "",
+   "pmcid": "PMC11318549",
    "title": "What factors delay initiation of bystander CPR in out-of-hospital cardiac arrest? Results from an analysis of 200 recorded ambulance calls.",
    "title_zh": "",
    "abstract": "Cardiopulmonary resuscitation (CPR) is often not initiated promptly enough in out-of-hospital cardiac arrest, even when call-handlers provide instructions. Identifying the critical, potentially modifiable, barriers to CPR is essential. Our aim was to identify factors associated with delays (1) positioning patient flat and (2) initiating CPR in recordings of cardiac arrest calls and to explore potentially modifiable behavioural factors. Retrospective analysis of 200 call recordings to the Scottish Ambulance Service January 2019-December 2020 during which dispatcher-assisted CPR instructions were provided. Potential barriers were coded inductively. Log rank tests were used to explore differences in 'time to position patient flat' and 'time to initiate CPR' depending on the presence/absence of potential barriers identified. A random sample of 200 calls were selected from 11 275 potentially eligible calls. Patients in those calls were mostly male (61%), most aged 40-80s; callers were mostly female spouses. Time to position patient flat: median 40 s (IQR: 15.5-82.0), time to initiate CPR: median 50 s (IQR: 36-92). Between 1 and 11 potential barriers were identified in calls (median=4, IQR:2-6).The most common barriers identified were communication (48%), emotion (45.5%) and physical challenges (38.5%). Various physical challenges, concern patient too heavy, concern that it was too late/futile, concern about physical ability, concern about doing harm and caller being 'upset' were significantly associated with delays to positioning the patient flat. Callers 'not knowing how' to do CPR; expressing concerns about doing harm, expressing anger and various physical challenges including concerns about ability were associated with delays in initiating CPR. Many significant barriers a…",
