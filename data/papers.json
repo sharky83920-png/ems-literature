@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28",
+ "updated": "2026-10-05",
  "papers": [
   {
    "pmid": "42657578",
@@ -88,10 +88,358 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1742-6723.70355",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42772891/",
    "translation": "",
    "added": "2026-09-28"
+  },
+  {
+   "pmid": "42823224",
+   "doi": "10.1016/j.hlc.2026.05.017",
+   "pmcid": "",
+   "title": "External Validation of a Post-Cardiac Arrest Risk Score (SLANT) for In-Hospital Mortality in Patients Receiving Targeted Temperature Management.",
+   "title_zh": "",
+   "abstract": "Despite improvements in cardiopulmonary resuscitation and post-cardiac arrest care, in-hospital mortality among survivors of out-of-hospital cardiac arrest (OHCA) remains high, particularly in Asia. The SLANT score was developed to predict outcomes in patients with comatose OHCA receiving targeted temperature management (TTM), but its performance outside the original derivation cohort remains uncertain. We aimed to externally validate the SLANT score for predicting in-hospital mortality in an East Asian population. We conducted a multicentre retrospective cohort study across three tertiary hospitals in Taiwan between 2016 and 2023. Adult patients with OHCA who achieved sustained return of spontaneous circulation, remained comatose, and received TTM were included. The SLANT score-comprising initial non-shockable rhythm, post-TTM leukocyte abnormality, total adrenaline dose ≥5 mg, absence of bystander cardiopulmonary resuscitation, and resuscitation duration ≥20 minutes-was calculated using original definitions. The outcome was in-hospital mortality. Discrimination was assessed using the area under the receiver operating characteristic curve (AUC), and calibration was evaluated with calibration plots. Among 451 eligible patients, 300 (66.5%) died during hospitalisation. The SLANT score demonstrated good discrimination for in-hospital mortality (AUC 0.746; 95% confidence interval 0.696-0.796), with acceptable calibration, particularly in moderate- to high-risk ranges. A score threshold ≥14 provided the optimal balance between sensitivity (65.7%) and specificity (78.2%), with a positive predictive value of 85.7%. In this East Asian cohort, the SLANT score showed reasonable discrimination and calibration for predicting in-hospital mortality. These findings support its potent…",
+   "abstract_zh": "",
+   "journal": "Heart Lung Circ",
+   "date": "2026-10-01",
+   "authors": "Sung CW 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42823224/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "41440371",
+   "doi": "10.1097/sih.0000000000000905",
+   "pmcid": "",
+   "title": "\"I Don't Speak English Well.\" Do Language Barriers Affect Automated External Defibrillator Use? A Randomized Simulation Study With Spanish-Speaking Laypeople.",
+   "title_zh": "",
+   "abstract": "Early defibrillation significantly improves survival following out-of-hospital cardiac arrest. Public access automated external defibrillators (AEDs) facilitate rapid shock delivery, enhancing survival rates and neurological outcomes. Language barriers may impede the effectiveness of these devices, particularly in multilingual environments. This study aimed to evaluate AED operation skills and time during a simulated cardiac arrest scenario, comparing native language instructions (Spanish: AEDnative) with foreign language instructions (English: AEDforeign). A randomized pilot study was conducted with 50 Spanish-speaking university students (42% female, median age: 21 years) with no prior AED training and a minimum B1 level of foreign language proficiency (English). Participants were randomly assigned to either the AEDnative or AEDforeign group. The simulated cardiac arrest scenario was performed on a mannequin using a multilingual AED trainer. AED performance, response times, language proficiency, and demographic data were recorded. Participant actions were video-recorded and analyzed using observational methodology. Both groups achieved high completion rates (>70%) in most AED operation steps. However, the AEDnative group performed significantly better in two critical safety actions: ensuring no one touched the victim before shock (96% vs. 12%) and initiating CPR after shock delivery (83% vs. 12%). No differences were found in the time to pad placement, but the AEDforeign group delivered the shock significantly faster after pad placement (19 s vs. 33 s; P = 0.016). AED use remains feasible, even in a nonnative language; however, foreign-language instructions may compromise performance safety and delay or omit postshock CPR initiation.",
+   "abstract_zh": "",
+   "journal": "Simul Healthc",
+   "date": "2026-10-01",
+   "authors": "Santos-Folgar M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41440371/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42821826",
+   "doi": "10.1080/10903127.2026.2740139",
+   "pmcid": "",
+   "title": "Supporting Mental Health in EMS Clinicians: A NAEMSP Position Statement and Resource Document.",
+   "title_zh": "",
+   "abstract": "Emergency medical services (EMS) clinicians operate in environments characterized by repeated trauma exposure, operational unpredictability, shift work, moral distress, and cumulative occupational stress. A substantial body of evidence demonstrates elevated rates of post-traumatic stress symptoms, depression, anxiety, substance use, sleep disturbance, burnout, and suicide among EMS clinicians and other public safety professionals compared to the general public. The implications extend beyond individual well-being, affecting workforce sustainability, clinical performance, and high quality patient care. Mental health in EMS is therefore not solely an individual concern, but a systems issue. Therefore, the National Association of EMS Physicians (NAEMSP) recommends that:Organizational leadership should recognize EMS clinician mental health as foundational to workforce sustainability and safe patient care.EMS clinician mental health awareness, management, and treatment options should be a core part of EMS education.EMS systems should take a multi-faceted approach to mental health, with an emphasis on ensuring access to confidential and culturally competent resources for EMS clinicians and other public safety professionals including telecommunicators, law enforcement officers and firefighters.EMS systems should engage in quality improvement to identify and improve practices affecting EMS clinician mental health.EMS systems should achieve meaningful and sustainable improvements in EMS clinician mental health through legislative advocacy and building strong partnerships with local, regional and national agencies including public health and research institutions.",
+   "abstract_zh": "",
+   "journal": "Prehosp Emerg Care",
+   "date": "2026-10-01",
+   "authors": "Lulla A 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42821826/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42814427",
+   "doi": "10.1001/jamasurg.2025.4716",
+   "pmcid": "PMC12590387",
+   "title": "Racial Disparities in Prehospital Interventions Among Injured Patients.",
+   "title_zh": "",
+   "abstract": "Recent studies suggest racial disparities exist in prehospital interventions among injured patients. Further evaluation is needed to understand how other social determinants of health may influence these findings and if these disparities translate to differences in outcomes. To evaluate the association between race and ethnicity and receiving prehospital interventions, how these associations change based on neighborhood social determinants of health, and if these interventions are associated with patient outcomes. This is a retrospective cohort study of the Linking Investigations in Trauma and Emergency Medical Services Task Order 1 database from 2017 through 2021. Patients included were 18 years or older with an injury severity score higher than 9 and had race and ethnicity data available. Data were linked to the Distressed Communities Index (DCI). These data were analyzed from January 2025 to June 2025. Associations between race and prehospital interventions were evaluated, including prehospital blood products, prehospital needle decompression, prehospital airway, prehospital intubation, and prehospital tourniquet placement. The study team also evaluated if receiving prehospital interventions was associated with 24-hour and in-hospital mortality. A total of 18 280 patients meeting inclusion criteria were identified, of which 4327 self-identified as Black, 11 140 as White, and 2813 as other race. Patients of other race were more likely to receive prehospital blood products (492 [4.4%]) and prehospital intubation (882 [7.9%]) compared with Black patients (101 [2.3%] and 171 [4.0%], respectively). White patients were more likely to receive prehospital airway (1018 [9.1%]) and intubation (882 [7.9%]) compared with Black patients (250 [5.8%] and 171 [4.0%], respectively). …",
+   "abstract_zh": "",
+   "journal": "JAMA Surg",
+   "date": "2026-09-30",
+   "authors": "Byrd T 等",
+   "tags": [
+    "止血帶"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12590387/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42814427/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42813214",
+   "doi": "10.20408/jti.2025.0230",
+   "pmcid": "",
+   "title": "Impact of the emergency medical services crew size (2 vs. ≥3 personnel) on prehospital performance and survival in severe trauma: a nationwide cohort study in Korea.",
+   "title_zh": "",
+   "abstract": "<h4>Purpose</h4>Timely and coordinated prehospital interventions are critical to improving outcomes in patients with severe trauma. In Korea, national discussions are underway to expand emergency medical services (EMS) crews from the standard two-person configuration to three, yet nationwide evidence supporting this policy remains limited. This study aimed to evaluate whether EMS crew size (2 vs. ≥3 personnel) is associated with differences in prehospital care performance and survival outcomes among patients with severe trauma, accounting for potential confounding factors, including the COVID-19 period.<h4>Methods</h4>We conducted a retrospective cohort analysis of EMS dispatches linked with trauma registry data in Korea from January 2018 to December 2023. Adults (≥18 years) with field-classified severe trauma were included. The main exposure was EMS crew size. Primary outcomes were scene time ≤10 minutes, advanced airway management among unresponsive patients, and intravenous (IV) access in hypotensive patients (systolic blood pressure ≤90 mmHg). The secondary outcome was survival to hospital discharge. Multivariable logistic regression analyses were performed, and results adjusted for potential confounders are reported.<h4>Results</h4>Among 78,203 severe trauma patients, 47,594 (60.9%) were treated by ≥3-person crews. After adjustment, larger crews were significantly associated with improved IV access (adjusted odds ratio [aOR], 1.47; 95% confidence interval [CI], 1.31-1.66) and higher odds of achieving on-scene time ≤10 minutes (aOR, 1.09; 95% CI, 1.05-1.13). Advanced airway management also demonstrated borderline statistical significance (aOR, 1.13; 95% CI, 1.00-1.28). Overall survival to hospital discharge was 89.0%. Although survival was slightly higher in the two…",
+   "abstract_zh": "",
+   "journal": "J Trauma Inj",
+   "date": "2026-09-30",
+   "authors": "Lee SH 等",
+   "tags": [
+    "氣道",
+    "外傷",
+    "EMS教育"
+   ],
+   "sources": [
+    "europepmc",
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.20408/jti.2025.0230",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42813214/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42815293",
+   "doi": "10.1016/j.jss.2026.08.054",
+   "pmcid": "",
+   "title": "Differences in Prehospital Assessment by Language Barrier Among Blunt Trauma Patients: A National Emergency Medical Services Study.",
+   "title_zh": "",
+   "abstract": "Language barriers may impede Emergency Medical Services (EMS) evaluation and treatment of trauma patients, potentially leading to misdiagnosis and poorer outcomes. We examined whether patient-provider language barriers were associated with differences in prehospital evaluation and management of blunt trauma patients. A retrospective review of EMS activations was conducted using the ImageTrend Collaborate dataset. Blunt trauma patients evaluated by EMS nationwide from 2022 to 2023 were included. Data were categorized into language barrier (LB) and no language barrier (NLB) groups, with LB defined as cases where EMS providers documented an LB with the patient. Univariate and bivariate analyses were conducted using Stata, version 19.0. Among 1,220,982 blunt trauma patients, 24,857 (2%) had a documented LB. LB patients were more likely to be male (53.5% versus 47.4%, P < 0.05), younger (44 versus 58 mean age, P < 0.05), and Hispanic (58.9% versus 7.6%). LB patients were more frequently injured in motor vehicle collisions (25.6% versus 17.1%, P < 0.05), whereas NLB patients were most frequently injured in falls (29.5% versus 19.9%, P < 0.05). A slightly greater proportion of LB patients presented with low Glasgow Coma Scale scores (3-8) compared with NLB patients (5.2% versus 4.2%, P < 0.05). LB patients were more likely to be treated and transported to the hospital (80.3% versus 75.1%, P < 0.05) and less likely to have pain scores documented (60.6% versus 63.6%, P < 0.05). The mean on-scene time was similar between groups (17.0 versus 17.4 min). Patient-provider LBs in blunt trauma patients were associated with differences in demographic characteristics, injury mechanisms, and prehospital assessment patterns. Further research is needed to better characterize associations be…",
+   "abstract_zh": "",
+   "journal": "J Surg Res",
+   "date": "2026-09-30",
+   "authors": "Khedr S 等",
+   "tags": [
+    "外傷",
+    "EMS教育"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc",
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42815293/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42810288",
+   "doi": "10.1016/j.puhe.2026.106515",
+   "pmcid": "",
+   "title": "Effect modification of greenness on the associations between air pollutants and out-of-hospital cardiac arrest: Evidence from a multi-city individual-level case-crossover study in China.",
+   "title_zh": "",
+   "abstract": "The aim of this study was to examine the effect modification by greenness on the associations between short-term exposure to air pollutants and the risk of out-of-hospital cardiac arrest (OHCA). An individual-level time-stratified case-crossover study. We conducted a multi-city individual-level time-stratified case-crossover study including 62,915 OHCA cases in China, from 2020 to 2023. Short-term exposures to air pollutants were assigned based on the onset date and location for each case. Greenness (normalized difference vegetation index, NDVI, and enhanced vegetation index, EVI) was evaluated at case locations using annual maximum values. Effect modification by greenness was assessed using conditional logistic regression with linear interaction terms between air pollutants and greenness. Short-term exposure to air pollutants exhibited significant associations with OHCA, and greenness modified these associations. For 0.1-unit increase in NDVI250m, the percent changes in the odds of OHCA per 10 μg/m3 increase in pollutants were -1.62% (95% CI: -2.84% to -0.39%, Pinteraction = 0.010) for PM2.5, -1.13% (95% CI: -2.01% to -0.24%, Pinteraction = 0.013) for PM10, and -0.74% (95% CI: -1.34% to -0.13%, Pinteraction = 0.018) for O3. For 0.1-unit increase in EVI250m, the corresponding percent change was -2.47% (95% CI: -4.77% to -0.11%, Pinteraction = 0.040) per 0.1 mg/m3 increase in CO. These interactions were consistently reproduced for PM2.5 and PM10 at coarser resolutions (500-m and 1000-m) and across alternative lag periods. Subgroup analyses observed significant greenness modifying effects among older (≥65 years) and cardiac etiology cases, and no significant heterogeneity was detected across age, etiology or any other examined subgroups. Short-term exposure to air polluta…",
+   "abstract_zh": "",
+   "journal": "Public Health",
+   "date": "2026-09-29",
+   "authors": "Yu B 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810288/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42809516",
+   "doi": "10.1080/10903127.2026.2741269",
+   "pmcid": "",
+   "title": "The cost-effectiveness and health equity of prehospital treatment strategies for out-of-hospital cardiac arrest patients: a systematic review.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) remains a major public health challenge, associated with substantial mortality and significant costs for health care system. This systematic review aimed to (i) synthesise economic evaluations of prehospital treatment strategies for OHCA from ambulance attendance through to hospital discharge; (ii) assess the methodological quality and reporting of the included studies; and (iii) evaluate the reporting of health equity-relevant data. We searched Medline, Embase, Scopus, EconLit, and CINAHL databases for records from database inception to 12 June 2026. The QHES and CHEERS checklists were used to assess the quality and reporting standards of included studies, and the review was reported according to the PRISMA checklist. The completeness of reporting health equity outcomes was reviewed using the PROGRESS (Place of residence, Race, Occupation, Gender, Religion, Education, Socioeconomic status and Social capital) - Plus framework. Ten economic evaluations met eligibility criteria. Most studies were cost-utility analyses (n = 8, 80%) and used Markov models (n = 6, 60%). Most evaluations were 'very good quality' ( ≥80%) (n = 6, 60%). Early defibrillation and advanced life support (ALS) delivered by trained emergency medical technicians were cost-effective compared with no intervention, emergency physician-led ALS, standard emergency medical services or paramedic care (ICER range from £11,407 to USD $56,700 per QALY gained). Prehospital extracorporeal cardiopulmonary resuscitation (ECPR) was more cost-effective than in-hospital ECPR strategies (ICER range from AUD $27,323 to $44,000 per QALY gained). Termination-of-resuscitation (TOR) strategies were cost-effective compared with no TOR or other TOR strategies, including basic life support …",
+   "abstract_zh": "",
+   "journal": "Prehosp Emerg Care",
+   "date": "2026-09-29",
+   "authors": "Jang K 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42809516/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42810797",
+   "doi": "10.1186/s13012-017-0688-3",
+   "pmcid": "PMC5791040",
+   "title": "Prehospital trauma systems in low- and middle-income countries (LMICs): a qualitative systematic review protocol.",
+   "title_zh": "",
+   "abstract": "Trauma-related morbidity and mortality has been shown to be disproportionately high in low- and middle-income countries (LMICs). Weak or fragmented prehospital systems are one of the aspects contributing significantly to the burden. Therefore, a clearer understanding of the barriers in prehospital trauma care is essential to guide improvements in care capacity for emergency situations in resource-limited settings. Abstract and full-text screening will be done using Covidence across different databases (Medline, Embase, Cochrane, EBSCO and Web of Science) and data extraction will be done using Microsoft Excel. Full texts will also be exported into NVivo for qualitative coding in order to perform thematic analysis. The databases will be searched up to 31 March 2026 and the search will be updated <3 months before manuscript submission. Ethics approval is not required as we are performing a secondary analysis on published peer-reviewed literature. Findings will be published in a peer-reviewed journal and presented as posters or oral presentations at relevant conferences in hopes that the results will inform healthcare professionals, policy makers, and researchers to develop targeted strategies to improve prehospital care in LMICs. In accordance with the guidelines, our systematic review protocol was registered with the International Prospective Register of Systematic Reviews on 24 July 2025 (registration number CRD420251112090).",
+   "abstract_zh": "",
+   "journal": "BMJ Open",
+   "date": "2026-09-29",
+   "authors": "An L 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5791040/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810797/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "",
+   "doi": "10.1186/s12873-026-01801-7",
+   "pmcid": "",
+   "title": "Prehospital emergency medical services in Somalia: ambulance use, access barriers, and factors associated with ambulance arrival among emergency patients at a tertiary referral hospital in Mogadishu",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "BMC Emergency Medicine",
+   "date": "2026-09-29",
+   "authors": "Mohamed Mukhtar Mohamed 等",
+   "tags": [
+    "外傷",
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.1186/s12873-026-01801-7",
+   "url": "https://doi.org/10.1186/s12873-026-01801-7",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42802688",
+   "doi": "10.1097/pec.0000000000003707",
+   "pmcid": "",
+   "title": "Pediatric Death in the Emergency Department: Qualitative Insights From Physicians' Experiences.",
+   "title_zh": "",
+   "abstract": "To explore pediatric emergency medicine (PEM) physician perspectives on the death of a child in the emergency department (ED) to identify key lessons learned and areas for improvement in care and provider support. We conducted a 5-year review of PEM physicians' experiences after the death of a child at a single urban pediatric ED. Qualitative thematic analysis was performed on questionnaire responses regarding the resuscitation, debrief, overall support, and opportunities for improvement. Twenty-two PEM physicians provided questionnaire responses to 34 deaths, with no difference in the distribution of number of deaths, sex, or clinical experience between questionnaire respondents and nonrespondents. Six key themes were identified from 34 questionnaire responses: (1) Physicians expressed confidence in the medical aspects of pediatric resuscitation but acknowledged a lack of prehospital information and deliberated airway management. (2) Most physicians found it helpful to have multidisciplinary providers with diverse expertise present during the resuscitation, emphasizing clear leadership and crowd control. (3) Family involvement and communication were crucial during a child's death. (4) Legal and administrative tasks after the death of a child can be burdensome, serving as possible barriers to completing other essential duties. (5) Continued support during and after the death of a child required significant staffing and was essential for resuming ED operations. (6) Staff debriefings occurred frequently and were highly valued, yet encountered challenges in implementation. PEM physicians highlight that leadership, multidisciplinary collaboration, communication with families, and debriefing are vital components surrounding the death of a child in the ED. Future studies shou…",
+   "abstract_zh": "",
+   "journal": "Pediatr Emerg Care",
+   "date": "2026-09-28",
+   "authors": "Lee JY 等",
+   "tags": [
+    "氣道"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42802688/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42806261",
+   "doi": "10.1371/journal.pone.0317599",
+   "pmcid": "11741650",
+   "title": "Automated Derivation of Cerebral Performance Category at Hospital Discharge After Cardiac Arrest Using Natural Language Processing and Machine Learning.",
+   "title_zh": "",
+   "abstract": "Clinical notes in the electronic health record (EHR) contain rich information that may be leveraged for automated prognostication using natural language processing (NLP) and machine learning. We evaluated the performance and potential biases of an NLP-based machine learning model for deriving cerebral performance category (CPC) for comatose patients following cardiac arrest using EHR clinical notes. We conducted a retrospective cohort study of adult patients who were comatose after in-hospital or out-of-hospital cardiac arrest across three academic hospitals in the USA. Neurological outcomes were assessed at hospital discharge, with CPC scores of 1-3 indicating good outcomes and 4-5 indicating poor outcomes. An NLP-based logistic regression model was trained on 249 patients using all clinical notes throughout hospitalization. Model performance was evaluated on a holdout set of 108 patients. Performance was also evaluated on the holdout set using only notes documented within the first 24 h of hospitalization. Using all clinical notes, the model achieved an overall accuracy of 81%, with an area under the receiver operating characteristic curve (AUROC) of 0.90 and an area under the precision-recall curve (AUPRC) of 0.89. When restricted to notes documented within the first 24 h of hospitalization, model accuracy decreased to 74%, with AUROC of 0.83 and AUPRC of 0.83. The model demonstrated higher precision in predicting poor neurological outcomes, particularly among patients who underwent withdrawal of life-sustaining therapy. An NLP-based machine learning model demonstrated high accuracy in deriving CPC for comatose patients after cardiac arrest using EHR clinical notes. Clinical documentation within 24 h after cardiac arrest contained substantial prognostic signals about…",
+   "abstract_zh": "",
+   "journal": "Neurocrit Care",
+   "date": "2026-09-28",
+   "authors": "Furlow S 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/11741650/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42806261/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42805668",
+   "doi": "10.29045/14784726.2022.09.7.2.31",
+   "pmcid": "PMC9662158",
+   "title": "trIAje project: protocol for a retrospective cohort study to optimise AI-assisted telephone triage of time-sensitive conditions in emergency medical services.",
+   "title_zh": "",
+   "abstract": "Emergency telephone triage must rapidly recognise cardiac arrest, severe respiratory distress, chest pain and stroke, yet current systems struggle to balance under- and over-triage. trIAje will evaluate present performance and develop an artificial intelligence (AI) model to improve triage in an emergency medical system (EMS). A retrospective cohort will include all 2020-2024 calls initially coded as unconsciousness, cardiac arrest, respiratory difficulty, non-traumatic chest pain or suspected stroke. Dispatch records, mobile electronic health records and the population health registry will be linked and anonymised. Structured variables and dispatcher free text will be pre-processed; natural language processing (NLP) methods will convert text into numeric representations for modelling. Supervised machine-learning algorithms (logistic regression, tree-based ensembles, gradient boosting, support-vector machines and neural networks) will be trained with k-fold cross-validation and evaluated on a held-out test set. The reference standard is final clinical severity (field or hospital diagnosis and/or intensive care unit (ICU) admission). Performance metrics include sensitivity, specificity, predictive values, under- and over-triage rates and area under the receiver operating characteristic (ROC) curve. Feature-importance and SHAP (Shapley Additive Explanations) analyses will identify the most informative questions and caller expressions. Sex-stratified evaluation will detect disparities; sex-specific adjustments will be applied if needed. The Andalusian Biomedical Research Ethics Committee has approved the study (SICEIA-2025-001391); data are anonymised under Spanish Law 14/2007 and the General Data Protection Regulation (GDPR), so consent is waived. Findings will be publish…",
+   "abstract_zh": "",
+   "journal": "BMJ Open",
+   "date": "2026-09-28",
+   "authors": "Luque-Hernández MJ 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9662158/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42805668/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42803114",
+   "doi": "10.1177/00031348261493537",
+   "pmcid": "",
+   "title": "Pelvic Binders in Pelvic Ring Trauma: Reassessing Mortality as an Endpoint in a Systematic Review and Meta-Analysis.",
+   "title_zh": "",
+   "abstract": "Pelvic binders are widely used in the prehospital and early trauma setting with the goal of fracture stabilization and limiting hemorrhage. Despite their widespread adoption, their clinical impact when assessed using traditional outcome measures such as mortality remains uncertain. Accordingly, this systematic review was undertaken to evaluate the association between pelvic binder use and mortality in patients with pelvic fractures. PubMed, Scopus, MEDLINE, and the Cochrane Central Register of Controlled Trials were methodically queried for articles from January 1, 2000, to September 30, 2025. These databases were searched for studies evaluating the association between pelvic binder use and mortality in patients with pelvic fractures. A meta-analysis was subsequently performed. Out of a total of 364 studies, 16 studies (6591 participants) addressing the association between pelvic binder use and mortality in patients with pelvic fractures were identified and included in the analysis. When pooling the 5 studies that adjusted for confounding (4264 participants), there was no significant association between pelvic binder use and a reduction in mortality [OR (95% CI): 0.90 (0.73-1.10)]. This also remained true when pooling the unadjusted analyses (2327 participants) [OR (95% CI): 1.31 (0.86-1.99)] or all analyses [OR (95% CI): 1.20 (0.86-1.67)]. The use of pelvic binders was not associated with a reduction in mortality in pooled analyses of adjusted, unadjusted, or all available studies. These findings should be interpreted in the context of pelvic binders as temporizing interventions in damage-control trauma care, suggesting that mortality alone may be an insufficient endpoint for evaluating their clinical utility.",
+   "abstract_zh": "",
+   "journal": "Am Surg",
+   "date": "2026-09-28",
+   "authors": "Forssten MP 等",
+   "tags": [
+    "外傷",
+    "骨盆固定"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42803114/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42804156",
+   "doi": "10.1097/mej.0000000000001380",
+   "pmcid": "",
+   "title": "Patient safety incidents reported by patients and witnesses in prehospital emergency medical services: a multicentre prospective study.",
+   "title_zh": "",
+   "abstract": "BACKGROUND AND IMPORTANCE Patient safety incidents - events or circumstances that could have resulted, or did result, in unnecessary harm to a patient, and referred to hereafter as incidents - fall into four categories: reportable circumstances, near misses, no-harm incidents, and harmful incidents ('adverse events'). In prehospital emergency medical services (EMS), most research has addressed only harmful incidents, leaving the other three categories poorly characterized. OBJECTIVES The primary objective was to determine the frequency of incidents reported by patients and witnesses after prehospital EMS care. DESIGN Multicenter prospective study, following the Strengthening the Reporting of Observational Studies in Epidemiology statement. SETTINGS AND PARTICIPANTS The eight provincial EMS services of Andalusia, Spain (April 2021-March 2022). Recruitment was consecutive. Eligible participants were patients transported to the hospital by EMS teams, or a witness if not possible, interviewed by telephone 15-20 days after the episode (the EMS attendance and hospital transport). OUTCOME MEASURES AND ANALYSIS The primary outcome was incident reporting frequency; secondary outcomes were reported harm, sociodemographic characteristics, and a single-item safety self-rating (a four-point scale: 'very safe', 'safe', 'fairly safe', or 'unsafe'). Rather than relying on spontaneous or passive reporting, data were collected through a systematic, structured telephone interview in which participants were explicitly asked whether four specific incidents - error, fall, harm or injury, or another incident described in their own words - had occurred. Frequencies were reported with confidence intervals (CIs); secondary associations used bivariable analyses and, for sociodemographic character…",
+   "abstract_zh": "",
+   "journal": "European journal of emergency medicine",
+   "date": "2026-09-28",
+   "authors": "J. Péculo-Carrasco 等",
+   "tags": [
+    "外傷",
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42804156/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42799981",
@@ -108,7 +456,8 @@
     "氣道"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/3710391/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42799981/",
@@ -130,9 +479,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1097/cce.0000000000001494",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42789538/",
    "translation": "",
    "added": "2026-09-28"
@@ -152,9 +502,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://smw.ch/index.php/smw/article/download/4761/6700",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42801457/",
    "translation": "",
    "added": "2026-09-28"
@@ -174,7 +525,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790860/",
@@ -196,7 +548,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790859/",
@@ -218,9 +571,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02379-8/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790858/",
    "translation": "",
    "added": "2026-09-28"
@@ -240,7 +594,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790857/",
@@ -262,9 +617,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02382-8/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790855/",
    "translation": "",
    "added": "2026-09-28"
@@ -284,7 +640,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790854/",
@@ -306,7 +663,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790792/",
@@ -328,9 +686,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1016/j.jcrc.2026.155749",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790103/",
    "translation": "",
    "added": "2026-09-28"
@@ -350,9 +709,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.tandfonline.com/doi/pdf/10.1080/14017431.2026.2725365?needAccess=true",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42788874/",
    "translation": "",
    "added": "2026-09-28"
@@ -372,12 +732,35 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42788838/",
    "translation": "",
    "added": "2026-09-28"
+  },
+  {
+   "pmid": "",
+   "doi": "10.12669/pjms.42.10.16649",
+   "pmcid": "",
+   "title": "The effects of common emergency call system applications in pre-hospital emergency medical services from a lean management perspective: The case of Ordu province, Turkiye",
+   "title_zh": "",
+   "abstract": "Objective: To evaluate the impact of a centralized Common Emergency Call Center (CECC) system on prehospital emergency medical services (EMS) efficiency through the lens of Lean Management principles. Methodology: This retrospective, longitudinal study analyzed secondary data from Ordu province, Turkey, comparing a 36-month pre-CECC period (2018-2020) with a 48-month post-CECC period (2021-2024). The dataset comprised 2,346,774 calls and 721,897 cases. Key performance indicators, selected as proxies for lean waste (communication, time, transport), were compared using independent samples t-tests. Results: Following CECC implementation, significant improvements were observed (p<0.001). The call-per-incident ratio, a proxy for communication waste, decreased by 49.0% (from 4.63 to 2.36). Time-based waste was reduced, with respond time of ambulance teams falling by 36.9% and ambulance mobilization time by 23.7%. Transportation waste, measured by distance per incident, decreased by 15.1%. On-time arrival rates improved significantly in both urban (93.9% to 98.4%) and rural (82.2% to 89.2%) areas. These gains were achieved without a statistically significant increase in the patient load coefficient. Conclusion: The centralized CECC system, acting as a structural lean intervention, significantly reduced operational waste and improved efficiency in prehospital EMS. This centralized CECC model offers a scalable blueprint for health systems seeking to enhance emergency care delivery.",
+   "abstract_zh": "",
+   "journal": "Pakistan Journal of Medical Sciences",
+   "date": "2026-09-25",
+   "authors": "Erdem Gundemir 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://pjms.org.pk/index.php/pjms/article/download/16649/11715",
+   "url": "https://doi.org/10.12669/pjms.42.10.16649",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42784740",
@@ -394,12 +777,80 @@
     "氣道"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42784740/",
    "translation": "",
    "added": "2026-09-28"
+  },
+  {
+   "pmid": "42808211",
+   "doi": "10.1097/mej.0000000000001379",
+   "pmcid": "",
+   "title": "Utility and outcomes of prehospital vasopressors infusion in trauma patients: a systematic review.",
+   "title_zh": "",
+   "abstract": "Traumatic hemorrhagic shock (THS) remains a leading cause of potentially preventable mortality in the prehospital setting. The role of prehospital vasopressors (PhVP) before definitive hemorrhage control during prehospital trauma management remains uncertain. We aimed to evaluate the utility and association between PhVP use and clinical outcomes in trauma patients presenting with hypotension or at risk of the THS. A systematic review of observational studies was conducted and studies were retrieved through MEDLINE/PubMed and CENTRAL databases search between 2015 and 2026. Studies participants were adult trauma patients with hypotension or at risk of THS receiving continuous infusion of PhVP compared with those who received prehospital standard care alone. Outcomes included all-cause in-hospital mortality, massive blood transfusion use, and trauma-induced coagulopathy (TIC). Risk of bias, study selection, and certainty of evidence were independently evaluated, followed by qualitative synthesis. Among 678 records identified, five retrospective studies (31 849 patients) were eligible. A total of 1443 patients received PhVP, with substantial variation in exposure across studies. Two studies reported no significant association between PhVP and mortality after adjustment, while another two showed a significant association. A military study revealed significantly lower adjusted survival [adjusted odds ratio (aOR): 0.32, 95% confidence interval (CI): 0.18-0.56]. One study showed a significant association between PhVP and massive blood transfusion use (aOR: 4.97, 95% CI: 1.24-19.91) and TIC (aOR: 3.05, 95% CI: 1.58-5.90). Current evidence on the utility and outcomes of PhVP in trauma is limited to very low-certainty observational data. Only one study showed a significant associa…",
+   "abstract_zh": "",
+   "journal": "Eur J Emerg Med",
+   "date": "2026-09-24",
+   "authors": "El-Menyar A 等",
+   "tags": [
+    "止血帶"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42808211/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42782255",
+   "doi": "10.1080/10903127.2026.2739424",
+   "pmcid": "",
+   "title": "Prehospital Minithoracostomy versus Chest Drainage for Emergency Pleural Decompression in Major Trauma.",
+   "title_zh": "",
+   "abstract": "OBJECTIVES Prehospital pleural decompression is life-saving in patients with suspected tension pneumothorax or other life-threatening thoracic pressure pathology after major trauma. Although prehospital minithoracostomy (PHMT) is increasingly adopted by physician-led helicopter emergency medical services (HEMS), comparative evidence with prehospital chest drainage (PHCD) remains limited. METHODS We conducted a retrospective observational cohort study of consecutive adult trauma patients undergoing prehospital pleural decompression within a physician-led HEMS between January 2018 and December 2024, managed with PHMT or PHCD according to clinical judgment. The primary outcome, scene time, was analyzed using Bayesian robust Student-t regression; recorded complications and survival were analyzed using Bayesian beta-binomial models, with posterior risk differences and credible intervals. RESULTS Ninety-four patients were included (66 PHMT; 28 PHCD). After excluding two implausible zero-minute scene-time records, the posterior median difference in scene time was -5.9 minutes (95% credible interval [CrI], -13.8 to 1.7; 94.0% probability PHMT was shorter). Complication status was evaluable in 50/66 PHMT and 10/28 PHCD patients. Recorded complications occurred in 0/50 evaluable PHMT and 6/10 evaluable PHCD patients (risk difference -58.7 percentage points, 95% CrI -83.9 to -29.3; probability >99.9% that recorded complications were less frequent with PHMT). Prehospital survival was lower with PHMT, reflecting greater baseline severity, whereas no clear differences were observed at 1, 30, or 90 days. CONCLUSIONS Prehospital minithoracostomy was not associated with longer scene time and was associated with fewer recorded complications than PHCD. Because allocation was non-randomize…",
+   "abstract_zh": "",
+   "journal": "Prehospital Emergency Care",
+   "date": "2026-09-24",
+   "authors": "S. Tomasino 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42782255/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "",
+   "doi": "10.3390/bs16101747",
+   "pmcid": "",
+   "title": "Self-Rated Health and Burnout Dimensions Among Prehospital Emergency Medical Services Physicians: A Cross-Sectional Study",
+   "title_zh": "",
+   "abstract": "This study examined associations between self-rated health (SRH) and burnout dimensions among prehospital emergency physicians. This cross-sectional study included a convenience sample of 151 physicians from one emergency medical service in Belgrade, Serbia. Burnout was assessed using the Maslach Burnout Inventory–Human Services Survey and SRH using a single SF-36 general-health item. Ordinal models examined three ordered SRH categories (excellent/very good, good, and fair/poor), with burnout dimensions entered separately and jointly, adjusting for age, sex, professional qualification, and chronic disease. Binary sensitivity analyses compared fair/poor with excellent/very good/good health. Higher emotional exhaustion was associated with less favourable SRH in the separate adjusted ordinal model (OR per 10-point increase: 1.31; 95% CI 1.04–1.64). After mutual adjustment for burnout dimensions, the estimate remained similar but was less precise (OR 1.30; 95% CI 0.96–1.75). Evidence was also inconclusive in the adjusted binary analysis. Depersonalisation and reduced personal accomplishment showed no clear adjusted associations with SRH. Unadjusted associations of shift work and daily working hours with SRH were inconclusive. Emotional exhaustion may be associated with physicians’ perceived health, although the evidence varied across models. The cross-sectional design precludes conclusions about direction or causality; longitudinal studies are needed.",
+   "abstract_zh": "",
+   "journal": "Behavioral Science",
+   "date": "2026-09-24",
+   "authors": "Veroslava V. Stankovic 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.3390/bs16101747",
+   "url": "https://doi.org/10.3390/bs16101747",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42776976",
@@ -416,7 +867,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42776976/",
@@ -441,7 +893,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.sciencedirect.com/science/article/pii/S2352556826001645/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42772413/",
    "translation": "",
    "added": "2026-09-28"
@@ -459,7 +911,8 @@
    "authors": "Özlem Bek Yağmur",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -507,12 +960,35 @@
     "外傷"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10790519/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42786484/",
    "translation": "",
    "added": "2026-09-28"
+  },
+  {
+   "pmid": "42771198",
+   "doi": "10.1007/s00383-026-06650-w",
+   "pmcid": "",
+   "title": "Prevalence of hypothermia prior to trauma center arrival and associated mortality in pediatric traumatic brain injury patients",
+   "title_zh": "",
+   "abstract": "Hypothermia is a component of the trauma “lethal triad” but often goes untreated. The prevalence of prehospital hypothermia in pediatric traumatic brain injury (TBI) patients is unknown. We aimed to examine how frequently hypothermia occurred during prehospital care by emergency medical services (EMS), at outside transferring hospitals (OSH), and during interfacility transport (IF) prior to trauma center arrival. This was a retrospective cohort study of patients < 18 years old treated for TBI and admitted to the intensive care unit at a level 1 pediatric trauma center. Body temperature was categorized as normal (≥ 36 °C), mild (34–36 °C), moderate (32–34 °C), or severe (< 32 °C) hypothermia using EMS, OSH, IF, and arrival ED measurements. Among 171 patients, 40.4% experienced prehospital hypothermia. Mortality was higher in hypothermic patients (49.3%) compared with normothermic patients (15.7%; p < 0.001). Hypothermia was more frequent in children < 2 years (55.1%), non-accidental trauma (42%), and transfers (66.7%). Temperature was undocumented in 84.6% of EMS, 28.1% of IF, and 33.3% of OSH encounters. Patients without documented temperatures often arrived at the trauma center with temperatures below 34 °C. Prehospital hypothermia is common and strongly associated with mortality in pediatric TBI, yet frequently unassessed. Routine prehospital temperature monitoring should be prioritized.",
+   "abstract_zh": "",
+   "journal": "Pediatric surgery international (Print)",
+   "date": "2026-09-22",
+   "authors": "T. Bell 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://link.springer.com/content/pdf/10.1007/s00383-026-06650-w.pdf",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42771198/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42766009",
@@ -527,7 +1003,8 @@
    "authors": "Katharina Tscherny 等",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -550,7 +1027,8 @@
    "authors": "Sang A. Yoon 等",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -652,6 +1130,28 @@
    "added": "2026-09-28"
   },
   {
+   "pmid": "",
+   "doi": "10.58904/p.v4i2.290",
+   "pmcid": "",
+   "title": "Pattern and trend of trauma related deaths in the Emergency Medicine department of Tikur Anbessa Specialized teaching hospital, 2014-2016",
+   "title_zh": "",
+   "abstract": "Background: Trauma is a major global public health problem, accounting for approximately 10% of all deaths worldwide. Although timely prehospital care has been shown to reduce trauma-related mortality, such services remain limited in many low- and middle-income countries, including Ethiopia. Data on trauma-related deaths and prehospital care are limited. This study assessed the patterns of trauma-related deaths presenting to the Emergency Department (ED) of Tikur Anbessa Specialized Hospital (TASH). Methods: A retrospective descriptive study was conducted at the ED of TASH. Medical records and trauma sheets of all eligible trauma-related deaths occurring between April 2014 and September 2016 were reviewed. Patients who arrived alive at the ED and subsequently died from traumatic injuries, excluding burns and poisoning, were included. Data were analyzed using SPSS version 20. Descriptive statistics were summarized using frequencies, percentages, means, tables, and figures. Results: Males accounted for most trauma-related deaths (84.8%, 80.6%, and 83.9%) across the three study periods. Trauma-related deaths represented 17.6%, 13.9%, and 10.9% of all ED deaths, respectively. Only 45.6%, 27.8%, and 25.8% of patients arrived within six hours of injury. Motor vehicle accidents were the leading mechanism of injury (65.2%, 55.6%, and 80.6%), followed by assault and falls. Blunt trauma was the predominant injury type, and blunt head injury was the most common anatomical injury. The mean Revised Trauma Score ranged from 5.02 ± 1.77 to 5.43 ± 1.90. Head injury was the leading cause of death, followed by sepsis/multiple organ failure syndrome, hemorrhagic shock, and respiratory failure. Conclusion: Trauma-related deaths predominantly affected males of productive age. Delayed presen…",
+   "abstract_zh": "",
+   "journal": "Pan African Journal of Emergency Medicine and Critical Care",
+   "date": "2026-09-20",
+   "authors": "N. Mesfin 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://journal.esep.org.et/index.php/esep/article/download/290/87",
+   "url": "https://doi.org/10.58904/p.v4i2.290",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
    "pmid": "42752809",
    "doi": "10.55460/j.spec.oper.med.2026.odl7-80m5",
    "pmcid": "",
@@ -676,7 +1176,7 @@
   {
    "pmid": "42796046",
    "doi": "10.3390/jcm15187274",
-   "pmcid": "",
+   "pmcid": "PMC10101268",
    "title": "Comparative Effectiveness of Amiodarone Versus Lidocaine as Antiarrhythmic Therapy for Cardiac Arrest with Shockable Rhythms: A Systematic Review and Meta-Analysis.",
    "title_zh": "",
    "abstract": "Background: Amiodarone and lidocaine are antiarrhythmic agents recommended for advanced cardiac life support in shockable ventricular arrhythmias during cardiac arrest, yet their comparative effectiveness in in-hospital (IHCA) and out-of-hospital cardiac arrest (OHCA) remains uncertain. Methods: From 930 records identified in PubMed, ScienceDirect, Embase, and Cochrane Library, 14 studies were included. Outcomes were analyzed using random-effects meta-analysis in R with IHCA and OHCA subgroup analyses. Bayesian meta-analysis using the bayesmeta package assessed result credibility. Results: Amiodarone did not improve return of spontaneous circulation (R0SC) compared with lidocaine (Risk ratio (RR) 0.96, p = 0.40). In IHCA, amiodarone was associated with lower survival to hospital discharge (RR 0.88, p < 0.0001), lower 24 h survival (RR 0.93, p < 0.0001), worse neurological recovery (RR 0.83, p < 0.0001), and longer arrest duration (Mean difference (MD) 7.46 min, p = 0.002). Termination of shockable rhythms favored lidocaine only after sensitivity analysis (RR 0.51, p = 0.02). In OHCA, amiodarone did not improve survival to discharge (RR 0.93, p = 0.44), while return of spontaneous circulation favored lidocaine after sensitivity analysis (RR 0.88, p = 0.002). No consistent benefit was observed across outcomes. Bayesian analysis showed overlapping credible intervals and low probabilities of benefit, indicating no clear superiority. Conclusions: No survival difference was observed between amiodarone and lidocaine arrest. Although lidocaine showed more favorable in-hospital outcomes, long-term survival was similar, suggesting agents may be selected based on availability and practice.",
@@ -688,9 +1188,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10101268/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42796046/",
    "translation": "",
    "added": "2026-09-28"
@@ -850,7 +1351,8 @@
    ],
    "sources": [
     "pubmed",
-    "europepmc"
+    "europepmc",
+    "semanticscholar"
    ],
    "oa_pdf": "https://doi.org/10.6084/m9.figshare.33906925",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42752339/",
@@ -879,6 +1381,51 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42774224/",
    "translation": "",
    "added": "2026-09-28"
+  },
+  {
+   "pmid": "42823954",
+   "doi": "10.1128/cmr.00053-10",
+   "pmcid": "PMC3122495",
+   "title": "Gastrointestinal mucormycosis with no classical immunosuppression and the potential for Qat leaves chewing as an unidentified risk factor: a case report.",
+   "title_zh": "",
+   "abstract": "Gastrointestinal mucormycosis is a rare, life-threatening invasive fungal infection that is often diagnosed late because of nonspecific clinical and endoscopic findings. Khat or Qat (Catha edulis) leaves may harbor environmental fungi, including Mucor species, and chronic chewing may contribute to gastrointestinal mucosal injury. However, a possible association between Qat use and gastrointestinal mucormycosis has not been established. We report a case of a 60-year-old man with diet-controlled type 2 diabetes mellitus and long-standing Qat chewing who was admitted after an out-of-hospital cardiac arrest secondary to acute myocardial infarction. He had no history of malignancy, transplantation, neutropenia, or immunosuppressive therapy. Return of spontaneous circulation was achieved after 34 min of cardiopulmonary resuscitation, followed by temporary venoarterial extracorporeal membrane oxygenation. On hospital day 14, coffee-ground material was observed through the nasogastric tube, accompanied by a decline in hemoglobin from 14.0 to 9.5 g/dL. Esophagogastroduodenoscopy revealed a fungating, ulcerated lesion involving the gastric fundus and body. Histopathological examination demonstrated extensive necrosis, angioinvasion, and broad, ribbon-like, pauci-septate fungal hyphae with irregular branching, consistent with gastric mucormycosis. Intravenous liposomal amphotericin B was initiated at 8 mg/kg/day. Gastrointestinal bleeding resolved without surgery. Repeat endoscopy one month later showed marked healing, and follow-up biopsy revealed no residual fungal elements. The patient completed six weeks of antifungal therapy and achieved clinical and histopathological resolution. Fungal culture and molecular identification were not performed, precluding species-level confirma…",
+   "abstract_zh": "",
+   "journal": "Front Med (Lausanne)",
+   "date": "2026-09-17",
+   "authors": "Alanazi FS 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122495/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42823954/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "",
+   "doi": "10.1186/s12887-026-07710-9",
+   "pmcid": "",
+   "title": "Hospital-treated pediatric trauma in Saudi Arabia: a systematic review with limited prehospital-linked evidence on injury mechanisms, anatomical patterns, severity, and clinical outcomes",
+   "title_zh": "",
+   "abstract": "Pediatric trauma is a major source of preventable morbidity, mortality, disability, and long-term health loss. Saudi evidence is distributed across emergency departments, trauma registries, intensive care, burn services, anatomical specialty cohorts, and emergency medical services. This review primarily synthesized hospital-treated pediatric trauma evidence and separately characterized the much smaller prehospital-linked evidence stream. The review followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidance. Searches covered seven databases, Google Scholar supplementary screening, reference lists, and the Saudi Digital Library from inception to 29 June 2026. Two reviewers independently completed screening, extraction, and design-specific Joanna Briggs Institute risk-of-bias assessment, with adjudication by a third reviewer. The review was not prospectively registered. Pooling was permitted only for outcomes with comparable source populations, definitions, and denominator units. Eighty-three unique imported records were identified; 14 duplicates were removed, 69 records were screened, 38 full-text reports were assessed, and 32 Saudi clinical reports were included after a citation-level corpus audit. Six full-text reports were excluded for non-Saudi setting, non-separable adult data, absent auditable denominator, drowning-only scope, or a non-clinical unidentified survey entry. Of the 32 included reports, one report (3.1%) was a direct national emergency medical services dataset; the remaining evidence was hospital-, registry-, or specialty-based, with selected hospital cohorts contributing limited transport-related variables rather than stand-alone prehospital pathway evaluation. Road traffic injury was prominent in severe-care and …",
+   "abstract_zh": "",
+   "journal": "BMC Pediatrics",
+   "date": "2026-09-17",
+   "authors": "Maher Alsulami 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.1186/s12887-026-07710-9",
+   "url": "https://doi.org/10.1186/s12887-026-07710-9",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42748287",
@@ -986,7 +1533,9 @@
    "authors": "Clemens Möllenhoff 等",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "外傷",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -1036,7 +1585,7 @@
    "sources": [
     "pubmed"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.3390/jcm15187095",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42795866/",
    "translation": "",
    "added": "2026-09-28"
@@ -1053,11 +1602,13 @@
    "date": "2026-09-11",
    "authors": "Magill CF 等",
    "tags": [
-    "止血帶"
+    "止血帶",
+    "外傷"
    ],
    "sources": [
     "pubmed",
-    "europepmc"
+    "europepmc",
+    "semanticscholar"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42725789/",
@@ -1214,11 +1765,13 @@
    "date": "2026-09-11",
    "authors": "Myers V 等",
    "tags": [
-    "OHCA"
+    "OHCA",
+    "EMS教育"
    ],
    "sources": [
     "pubmed",
-    "europepmc"
+    "europepmc",
+    "semanticscholar"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42725800/",
@@ -1284,7 +1837,8 @@
    "authors": "Janika Briegel 等",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -1339,6 +1893,72 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42728612/",
    "translation": "",
    "added": "2026-09-13"
+  },
+  {
+   "pmid": "42825123",
+   "doi": "10.1016/j.resplu.2026.101486",
+   "pmcid": "PMC9488941",
+   "title": "Prehospital management and outcomes of traumatic cardiac arrest in older adults: a French nationwide registry study.",
+   "title_zh": "",
+   "abstract": "Traumatic cardiac arrest (TCA) carries an overall poor prognosis, yet the impact of advanced age on prehospital management and outcomes remains poorly characterised. Whether older patients with TCA present distinct clinical profiles or respond differently to resuscitation compared with younger adults is largely unknown. We conducted a multicenter cohort study using data from the French National Out-of-Hospital Cardiac Arrest Registry (RéAC). All adult patients (≥18 years) with out-of-hospital TCA were included. Patients were categorised as adults (18-64 years) or older adults (≥65 years). The primary outcome was return of spontaneous circulation (ROSC). Secondary outcomes included survival at hospital admission (D0), 30-day survival (D30), and favourable neurological outcome (Cerebral Performance Category 1-2 at D30). Univariate and multivariable logistic regression analyses were performed. A pre-specified subgroup analysis stratified older patients into three age categories (65-74, 75-84, ≥85 years). Among 5595 patients (4249 younger adults; 1346 older adults [24.1%]), older patients more often achieved ROSC (22.5% vs 18.6%; OR 1.22, 95%CI 1.03-1.45) but were less likely to survive to 30 days (0.5% vs 1.2%; OR 0.34, 95%CI 0.15-0.81). Survival at hospital admission did not differ after adjustment (16.1% vs 13.3%; OR 1.14, 95%CI 0.95-1.38). Older patients more often sustained a fall (52.2% vs 28.5%) and less often sustained thoracic injuries (43.8% vs 59.6%). They received fewer trauma-specific prehospital interventions, most notably thoracostomy (15.2% vs 23.9%) and fluid resuscitation (28.3% vs 37.4%). In this large French registry study, older patients with TCA achieved return of spontaneous circulation more often than younger adults but were less likely to survive to…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-10",
+   "authors": "Benhamed A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9488941/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42825123/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42825116",
+   "doi": "10.1016/j.resplu.2026.101485",
+   "pmcid": "PMC4959439",
+   "title": "Association of a smartphone-based CPR assistance system with prehospital outcomes in out-of-hospital cardiac arrest: a pre-post observational study in Bangkok.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) remains a major public health challenge. Smartphone-based systems may facilitate early bystander response; however, their real-world associations with patient outcomes following implementation within emergency medical service (EMS) systems remain uncertain. This study aimed to evaluate the association between system-level implementation of the MySOS application and prehospital and clinical outcomes among patients with OHCA in Bangkok. We conducted a retrospective uncontrolled before-after observational study of patients with OHCA in Bangkok, Thailand, between December 2022 and May 2024. Patients were classified according to the pre- and post-implementation periods of the MySOS application. Inverse probability of treatment weighting (IPTW) and weighted multivariable regression were used to account for measured differences between the study periods. Given the temporal definition of exposure and absence of confirmed patient-level application use, findings were interpreted as associations rather than causal effects. Among 615 patients, 340 (55.3%) were included in the pre-implementation period and 275 (44.7%) in the post-implementation period. The post-implementation period was associated with a higher probability of return of spontaneous circulation (ROSC) (adjusted RD 6.28%, 95% CI 1.69-10.86; p = 0.007), although the corresponding RR was not statistically significant (RR 1.21, 95% CI 0.78-1.89). Differences in death at the scene were also observed between study periods (adjusted RD 14.70%, 95% CI 9.14-20.27; p < 0.001). No statistically significant differences were observed in 24-h survival, survival to hospital admission, or survival to hospital discharge. The post-implementation period of the MySOS system was associated with a high…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-10",
+   "authors": "Thepmanee D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4959439/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42825116/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42820047",
+   "doi": "10.1177/135581969900400410",
+   "pmcid": "PMC5993836",
+   "title": "Adaptation of the CONOCES-BLS scale to citizens: evidence of content validity and preliminary psychometric evaluation.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest constitutes a high-priority health emergency. The evidence underlines the importance of early actions of bystanders through the activation of the emergency system, basic cardiopulmonary resuscitation, and defibrillation. Nevertheless, basic life support training in the general population is irregular, and limitations exist on the availability of validated instruments to assess knowledge in this area. To adapt the CONOCES-BLS scale for use in the adult general population and to obtain initial evidence supporting its content validity through expert consensus, followed by a preliminary psychometric evaluation. Methodological study on the adaptation and content validity and preliminary test of the instrument in three phases. In the first, the items were adapted to the context of an adult citizen. Then, content validity was assessed through a Delphi panel, and lastly, a pilot test was conducted for the initial psychometric analysis. The content validity showed high levels of agreement, >0.90 in every item, and K* coefficients between 0.91 and 1, providing initial evidence supporting the content validity of the adapted instrument. All the items were considered essential, although item ES12 was less clear (0.71). In the psychometric analysis, the scale obtained a Cronbach's alpha of 0.82, demonstrating an adequate internal consistency. Items with a lower contribution to the construct were identified, especially ES2 and ES5. The adapted CONOCES-BLS-Citizens scale provides initial evidence supporting its content validity for assessing BLS knowledge in the adult general population. As the first instrument specifically adapted for this purpose, it may support the evaluation of community BLS knowledge. Further studies are needed to strengthen the psyc…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-10",
+   "authors": "Marín-Maicas P 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5993836/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42820047/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42707865",
@@ -1494,7 +2114,7 @@
    "sources": [
     "pubmed"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.3390/jcm15186978",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42795751/",
    "translation": "",
    "added": "2026-09-28"
@@ -1523,6 +2143,28 @@
    "added": "2026-09-28"
   },
   {
+   "pmid": "42825111",
+   "doi": "10.1016/j.resplu.2026.101484",
+   "pmcid": "PMC1732402",
+   "title": "Differences in the rates of bystander cardiopulmonary resuscitation for out-of-hospital cardiac arrest resulting in favourable neurological outcomes according to the regional deprivation index.",
+   "title_zh": "",
+   "abstract": "Variability in the provision of bystander cardiopulmonary resuscitation (BCPR) may influence neurological outcomes in patients with out-of-hospital cardiac arrest (OHCA) according to regional socioeconomic factors. We aimed to investigate the association between BCPR and neurological outcomes of OHCA and whether these associations differ across regions with different levels of deprivation. Using data collected from the Korean National OHCA Registry between 2013 and 2023, adults (≥18 years of age) with OHCA of presumed cardiac origin were identified. The main exposure variable was BCPR and the regional deprivation index. The primary outcome was a favourable neurological outcome, defined as a Cerebral Performance Category score of 1 or 2. Multivariate logistic regression was used to evaluate the associations between BCPR and favourable neurological outcomes and to assess the interaction between BCPR and regional deprivation index. Of 184,727 individuals who experienced OHCA, 112,728 (61.0%) received BCPR. There were differences in the rate of BCPR according to regional deprivation group: high, 57.9%; moderate, 59.9%; and low, 62.6%. In total, 10,669 (5.8%) patients experienced favourable neurological outcomes. Multivariable models revealed different associations between BCPR and favourable neurological outcomes according to regional deprivation level: high, adjusted odds ratio (OR) 1.56 (95% confidence interval [CI] 1.23-1.99); moderate, 1.31 (95% CI 1.19-1.44); and low, 1.34 (95% CI 1.23-1.45). The magnitude of the association showed a significant interaction (p < 0.01). Although high-deprivation regions had lower BCPR rates, the association between BCPR and favourable neurological outcomes was stronger in high-deprivation regions than in moderate- and low-deprivation re…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-09",
+   "authors": "Song KJ 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1732402/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42825111/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
    "pmid": "42711685",
    "doi": "10.1186/s12245-026-01353-4",
    "pmcid": "PMC13555962",
@@ -1544,6 +2186,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42711685/",
    "translation": "",
    "added": "2026-09-13"
+  },
+  {
+   "pmid": "42820032",
+   "doi": "10.1016/j.resplu.2026.101482",
+   "pmcid": "PMC11574695",
+   "title": "Association between destination hospital level and outcomes in out-of-hospital cardiac arrest patients under a dispatch-guided transport system: a population-based study in Nagoya, Japan.",
+   "title_zh": "",
+   "abstract": "The relationship between destination hospital level and outcomes in out-of-hospital cardiac arrest (OHCA) patients remains controversial. To examine the association between transport to critical care medical centers and outcomes, we analyzed all city-wide data from Nagoya City, where the initial hospital request is made without consideration of initial cardiac rhythm. This retrospective cohort study included 12,663 OHCA patients in Nagoya City between April 2019 and March 2025. Patients were classified by destination hospital: critical care medical center (n = 11,149) or other hospital (n = 1514). Favorable one-month neurological outcomes and one-month survival were evaluated. Inverse probability of treatment weighting (IPTW) evaluated associations between destination hospital level and outcomes. Refractory shockable rhythm was explored. In the critical care medical center and other hospital groups, favorable one-month neurological outcome rates were 1.9% versus 1.7% (P = 0.683), and survival rates were 4.1% versus 4.5% (P = 0.494). IPTW showed no association between destination hospital level and favorable neurological outcomes overall or by rhythm. Transport to critical care medical centers was associated with lower one-month survival in patients with non-shockable rhythm (odds ratio, 0.66; 95% confidence interval, 0.46-0.95). Exploratory analysis showed higher one-month survival among patients with refractory shockable rhythm transported to critical care medical centers (19.7% vs. 3.3%), although the estimate was imprecise. Under a dispatch-guided transport system, transport to critical care medical centers was not associated with favorable neurological outcomes in either rhythm group. These findings do not establish a preferred transport strategy, although selected …",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-08",
+   "authors": "Kato A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11574695/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42820032/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42707770",
@@ -1704,6 +2368,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42733931/",
    "translation": "",
    "added": "2026-09-20"
+  },
+  {
+   "pmid": "",
+   "doi": "10.53365/nrfhh.1258",
+   "pmcid": "",
+   "title": "Medical Administration, Ophthalmologists, Medical Nurse, Radiology, Medical Education, Paramedics, and Pharmacy Collaboration for Comprehensive Emergency Eye Care and Patient Safety",
+   "title_zh": "",
+   "abstract": "Ophthalmic emergencies comprise a diverse group of conditions in which delayed recognition, inappropriate initial management, or fragmented referral may result in irreversible visual impairment and, in selected cases, serious systemic complications. Ocular trauma, chemical injuries, acute angle-closure glaucoma, retinal vascular disorders, orbital infections, open-globe injuries, intraocular foreign bodies, and neuro-ophthalmic emergencies illustrate the range of conditions requiring timely and coordinated care. Emergency eye care therefore extends beyond the work of the ophthalmologist and depends on effective interaction among prehospital services, emergency nursing, diagnostic imaging, pharmacy, clinical education, and healthcare administration. Collaboration among Medical Administration, Ophthalmologists, Medical Nurse, Radiology, Medical Education, Paramedics, and Pharmacy provides a multidisciplinary framework that can connect the entire emergency eye-care pathway, beginning at the scene of injury or onset of symptoms and continuing through triage, specialist assessment, diagnostic investigation, pharmacological management, surgical intervention when required, monitoring, discharge, and follow-up. Paramedics frequently represent the first professional point of contact and are responsible for recognizing potentially vision-threatening conditions, protecting the injured eye, providing appropriate initial supportive care, and communicating essential prehospital information. Medical Nurses contribute through rapid triage, pain and symptom assessment, monitoring, preparation for examination and procedures, medication administration, patient education, and coordination of care. Ophthalmologists provide specialist evaluation and determine definitive medical or surgical m…",
+   "abstract_zh": "",
+   "journal": "Natural Resources for Human Health",
+   "date": "2026-09-05",
+   "authors": "Shaya Murayki A. Alruwaili",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://doi.org/10.53365/nrfhh.1258",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42697466",
@@ -1909,6 +2595,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42755812/",
    "translation": "",
    "added": "2026-09-20"
+  },
+  {
+   "pmid": "42689915",
+   "doi": "10.1080/10903127.2026.2723329",
+   "pmcid": "",
+   "title": "Predicting the Prehospital Blood Transfusion Need in a Large Metropolitan Center.",
+   "title_zh": "",
+   "abstract": "OBJECTIVES Prehospital blood transfusion (PHBT) has been associated with reduced mortality for trauma patients in hemorrhagic shock. However, there are currently no standardized prehospital criteria to identify patients who may benefit from PHBT. We designed this study to assess the positive predictive value (PPV) of a set of PHBT criteria to identify patients requiring emergent transfusion within four hours of emergency department (ED) arrival. METHODS We conducted an observational retrospective cohort study of all trauma patients ≥ 15 years-old who were transported by emergency medical services (EMS) between November 1st, 2021 and September 30th, 2023 to a trauma center prior to the implementation of PHBT protocols in LAC. We retrospectively applied the PHBT criteria: systolic blood pressure (SBP) < 70mmHg, a simultaneous reading of SBP < 90 mmHg and heart rate (HR) ≥ 110 beats per minute (BPM), or EMS-witnessed traumatic arrest. We excluded patients with cardiac arrest prior to EMS arrival, isolated head injury, or ground-level fall as the only mechanism of injury. Our primary outcome was the PPV of the PHBT criteria as a whole as well as each individual PHBT criterion for emergent transfusion need, which we defined as the proportion of trauma patients requiring in-hospital transfusion within four hours of ED arrival. RESULTS Of the 25,473 trauma patients, 905 met one or more PHBT criterion with no exclusion. These patients were primarily male (76%, n = 688) with a median age of 35 (IQR 27-47) and most suffered blunt trauma (68%, n = 618). Overall, 475 (52%) received blood within four hours of hospital arrival. The PHBT criterion of SBP < 90 mmHg and HR ≥ 110 BPM was found to have the highest PPV (56%, 95% CI 52-60%) for in-hospital transfusion within four hours. PPV…",
+   "abstract_zh": "",
+   "journal": "Prehospital Emergency Care",
+   "date": "2026-09-03",
+   "authors": "Jonathan Warren 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42689915/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42528123",
@@ -2179,7 +2887,8 @@
    "authors": "Khalad Msabh S. Alhazmi",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -2258,6 +2967,50 @@
    "added": "2026-09-28"
   },
   {
+   "pmid": "42793629",
+   "doi": "10.3390/healthcare14183091",
+   "pmcid": "",
+   "title": "Hygiene Knowledge and Digital Health Literacy in Emergency Medical Services in Germany: A Cross-Sectional Study of EMS Personnel and Emergency Physicians with Relevance for the Development of Training Programmes",
+   "title_zh": "",
+   "abstract": "Highlights What are the main findings? WHO-based hand hygiene knowledge among EMS personnel and emergency physicians was generally moderate to good, whereas the extended hygiene knowledge test on basic hygiene measures, PPE use, and MDRO management indicated knowledge gaps in additional areas. Digital health literacy differed between EMS personnel and emergency physicians, particularly in dimensions related to information searching, evaluating reliability, determining relevance, and protecting privacy. What are the implications of the main findings? The findings may support the development and implementation of targeted hygiene and infection prevention training for EMS personnel, with particular attention to PPE use, MDRO management, and indication-based decision-making. Future training and evaluation approaches should go beyond knowledge assessment and include additional learning dimensions, such as practical skills, clinical decision-making, attitudes, and observed hygiene behaviour. Abstract Background: Effective hygiene and infection prevention are essential for patient and staff safety in EMS. This study assessed hygiene and infection prevention knowledge among EMS personnel and emergency physicians in Thuringia, Germany. Specifically, it examined knowledge of WHO recommendations on hand hygiene, standard infection prevention measures, appropriate use of personal protective equipment (PPE), and the management of patients with confirmed multidrug-resistant organisms (MDROs). In addition, associations with digital health literacy, job satisfaction, teamwork, and patient safety were explored to inform future training needs in EMS. Methods: A quantitative cross-sectional study was conducted using an online questionnaire between June and September 2025. A total of 72 EM…",
+   "abstract_zh": "",
+   "journal": "Healthcare",
+   "date": "2026-09-01",
+   "authors": "Veit Kinne 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.3390/healthcare14183091",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42793629/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "",
+   "doi": "10.1016/j.amj.2026.08.007",
+   "pmcid": "",
+   "title": "Flight Physician Training and Workforce Sustainability Within an Integrated Emergency Department–Intensive Care Unit–Helicopter Emergency Medical Services Staffing Model: A Rural Helicopter Emergency Medical Services Experience in Japan",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Air Medical Journal",
+   "date": "2026-09-01",
+   "authors": "Shinsuke Tanizaki 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://doi.org/10.1016/j.amj.2026.08.007",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
    "pmid": "42674240",
    "doi": "10.1016/j.resuscitation.2026.111286",
    "pmcid": "",
@@ -2315,7 +3068,8 @@
    "date": "2026-08-31",
    "authors": "Lorenzo Galli 等",
    "tags": [
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "外傷"
    ],
    "sources": [
     "semanticscholar"
@@ -2576,6 +3330,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42729144/",
    "translation": "",
    "added": "2026-09-13"
+  },
+  {
+   "pmid": "42664368",
+   "doi": "10.1080/10903127.2026.2726541",
+   "pmcid": "",
+   "title": "Prehospital Blood Transfusion for Medical Causes of Hemorrhage: A Case Series.",
+   "title_zh": "",
+   "abstract": "OBJECTIVES Much attention has been given to prehospital blood use for trauma, but evidence is lacking for non-traumatic hemorrhage. Therefore, we sought to evaluate the epidemiology of patients receiving prehospital whole blood for nontraumatic hemorrhage. METHODS We conducted a retrospective observational study of patients receiving prehospital blood transfusions for non-traumatic hemorrhagic shock within two fire-based emergency medical services (EMS) systems, between February 20, 2024, and April 23, 2026. Patients were included if blood products were administered for a non-traumatic cause of hemorrhagic shock. Exclusion criteria included cardiac arrest and blood transfusion prior to EMS arrival. Data collected from electronic patient care records included demographics, scene type, blood product administered, operational time intervals, and physiologic parameters. Shock index was calculated at patient-level by dividing heart rate (HR) by systolic blood pressure (SBP) at initial EMS assessment, immediately prior to transfusion, and emergency department (ED) arrival. RESULTS Of 163 blood transfusions, 50 (30.7%) were administered for non-traumatic hemorrhagic shock. After exclusions, 47 patients were included. Mean age was 66 years, and 55% were male. Gastrointestinal bleeding (GI) was the most common source (49%), followed by unspecified hemorrhagic shock (43%) and obstetric/gynecologic hemorrhage (4.3%). Most encounters occurred in private residences (57%) or rehabilitation/skilled nursing facilities (32%). Mean heart rate decreased from 102 at initial EMS assessment to 96 on ED arrival, while mean systolic blood pressure increased from 83 mmHg to 106 mmHg. Mean shock index decreased from 1.34 to 1.01. CONCLUSIONS Our two-system observational study found just under a …",
+   "abstract_zh": "",
+   "journal": "Prehospital Emergency Care",
+   "date": "2026-08-28",
+   "authors": "A. Cornelius 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42664368/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42655899",
@@ -5468,7 +6244,8 @@
     "氣道",
     "脊椎運動限制",
     "EMS教育",
-    "止血帶"
+    "止血帶",
+    "外傷"
    ],
    "sources": [
     "semanticscholar"
@@ -5502,6 +6279,50 @@
    "url": "https://doi.org/10.4103/jehp.jehp_187_26",
    "translation": "",
    "added": "2026-09-13"
+  },
+  {
+   "pmid": "42618392",
+   "doi": "10.1016/j.ajem.2026.08.018",
+   "pmcid": "",
+   "title": "Prevalence and effects of resiliency training and mental health correlates among emergency medical services professionals.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "American Journal of Emergency Medicine",
+   "date": "2026-08-01",
+   "authors": "Jackson D. Déziel 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42618392/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
+   "pmid": "42096946",
+   "doi": "10.1016/j.ajem.2026.04.038",
+   "pmcid": "",
+   "title": "Extended-Release Buprenorphine Administration by Emergency Medical Services Paramedics: A Case Series.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "American Journal of Emergency Medicine",
+   "date": "2026-08-01",
+   "authors": "P. Comber 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42096946/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42536775",
@@ -5616,6 +6437,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42535562/",
    "translation": "",
    "added": "2026-08-09"
+  },
+  {
+   "pmid": "42532009",
+   "doi": "10.26635/6965.7373",
+   "pmcid": "",
+   "title": "Epidemiology, clinical characteristics and outcomes of patients with severe traumatic brain injury treated by emergency medical services in New Zealand: a retrospective observational study.",
+   "title_zh": "",
+   "abstract": "AIM This study aimed to characterise the epidemiology, clinical features and outcomes of adults with severe traumatic brain injury (sTBI) managed by emergency medical services (EMS) in New Zealand. Objectives included describing demographics, event and clinical characteristics, estimating national incidence, and 30-day mortality. METHODS This retrospective observational study analysed EMS data from the Aotearoa New Zealand Paramedic Care Collection (ANZPaCC) between 1 January 2020 and 31 December 2022. Patients aged ≥16 years with head injury and a Glasgow Coma Scale score ≤8 were included. Descriptive statistics and age-standardised incidence rates were calculated by sex, ethnicity, age, rurality and socio-economic deprivation. RESULTS EMS attended 630 sTBI patients over 3 years; most were male (n=430, 68.3%) and of European/Other ethnicity (n=398, 63.2%). sTBI incidence was higher among Māori than non-Māori (44.5-68.7 versus 28.6-35.6 per 100,000 person-years). Younger adults (≤45 years) had the highest rates. sTBIs in urban areas (n=485, 77%) and the most deprived quintile (n=213, 33.8%) were over-represented. Falls (n=217, 34.4%) and road traffic incidents (n=196, 31.0%) were the leading mechanisms. Thirty-day mortality was 37.8% (n=238). CONCLUSION EMS working diagnoses of sTBI provide a valuable perspective on patient needs at the point of injury, capturing cases that may be missed in hospital-based datasets yet still influence transport decisions, destination selection and tertiary healthcare capacity. The data indicate that sTBI disproportionately affects Māori, younger adults, individuals living in socio-economically deprived areas and urban populations, highlighting health inequities and the need for targeted interventions, informed service planning and furthe…",
+   "abstract_zh": "",
+   "journal": "The New Zealand medical journal",
+   "date": "2026-07-31",
+   "authors": "Ben Jones 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://openrepository.aut.ac.nz/bitstreams/e194c929-2bb3-464b-a4f0-b619a46f8832/download",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42532009/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42530919",
@@ -6558,7 +7401,8 @@
    "tags": [
     "止血帶",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -9471,7 +10315,8 @@
    "date": "2026-07-01",
    "authors": "Holly O’Byrne 等",
    "tags": [
-    "EMS教育"
+    "EMS教育",
+    "外傷"
    ],
    "sources": [
     "semanticscholar"
@@ -10713,6 +11558,30 @@
    "added": "2026-07-02"
   },
   {
+   "pmid": "42802961",
+   "doi": "10.26444/aaem/216872",
+   "pmcid": "",
+   "title": "Simulation-based training to enhance emergency response in low-resource settings - a model for paramedic education in Ghana.",
+   "title_zh": "",
+   "abstract": "Despite targeted investments in acute care in Ghana, significant challenges persist, including limited medical supplies, shortages of trained personnel, and restricted access to medications. A key barrier to effective prehospital care is the lack of formal education among paramedics. To address this gap, the Paramedics for Africa 3 programme was implemented between July - December 2020, aimed at improving emergency medical knowledge and skills among healthcare providers. A pre-post intervention design was used to evaluate the impact of the training. A total of 268 participants, including paramedics, hospital staff, and outpatient clinic workers, were enrolled. Each completed a 50-question multiple-choice test covering anatomy, diagnostics, and medical procedures. The programme included hands-on activities, simulation-based scenarios, and case-based learning. Statistical analysis was used to assess changes in test performance. Baseline test scores ranged from 14% - 76% (median: 40%), increasing post-training to 32% -100% (median: 76%; p < 0.001). The most notable improvements were observed in trauma care and resuscitation. Emergency service staff demonstrated the most significant gains (p = 0.03). No statistically significant differences were found in terms of age, gender, education, or residence. The programme led to a significant improvement in participants' knowledge of emergency medicine. The positive impact of simulation-based learning highlights the importance of expanding such educational models in resource-limited healthcare settings.",
+   "abstract_zh": "",
+   "journal": "Ann Agric Environ Med",
+   "date": "2026-06-18",
+   "authors": "Zieliński E 等",
+   "tags": [
+    "外傷",
+    "EMS教育"
+   ],
+   "sources": [
+    "pubmed",
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://www.aaem.pl/pdf-216872-141372?filename=Simulation-based-training.pdf",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42802961/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
    "pmid": "42355891",
    "doi": "10.3329/nimcj.v6i1.23159",
    "pmcid": "PMC12249823",
@@ -11014,7 +11883,7 @@
     "europepmc",
     "semanticscholar"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1080/10903127.2026.2687828",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42301893/",
    "translation": "",
    "added": "2026-07-02"
@@ -12299,7 +13168,8 @@
    ],
    "sources": [
     "pubmed",
-    "europepmc"
+    "europepmc",
+    "semanticscholar"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42331488/",
@@ -12451,6 +13321,28 @@
    "url": "https://doi.org/10.47482/acmr.1897910",
    "translation": "",
    "added": "2026-07-02"
+  },
+  {
+   "pmid": "",
+   "doi": "10.25258/ijddt.16.44s.104",
+   "pmcid": "",
+   "title": "Disaster Zone Management and Educational Framework in Major Incident Response: A Systematic Review of Evidence, Operational Frameworks, and Training Implications for Emergency Medical Services",
+   "title_zh": "",
+   "abstract": "Background: Major incidents are events in which the number, severity, or logistical demands of casualties exceed immediately available resources. Effective management requires coordinated command systems, validated triage protocols, organized casualty clearing operations, structured transport coordination, and hazard-aware zonal management. Despite widespread adoption of operational frameworks, a comprehensive systematic synthesis spanning all operational domains— including zonal management and educational implications—has not been conducted. Objectives: To systematically review and synthesise the evidence base underpinning major incident management across seven operational domains: incident classification and surge, command and control, first responder roles, triage systems, casualty clearing post operations, ambulance flow and transport, and zonal management in hazardous incidents, as well as the educational frameworks supporting these competencies. Methods: A systematic search was conducted in PubMed, MEDLINE (Ovid), EMBASE, CINAHL, Cochrane Library, Scopus, and the WHO Global Health Library, supplemented by grey literature. Eligibility criteria included peer-reviewed studies, systematic reviews, validated clinical guidelines, and operational frameworks addressing major incident management, mass casualty triage, EMS preparedness, or disaster education published from January 2000 to March 2026. Two independent reviewers performed title/abstract and full-text screening. Data were extracted using a standardised form and synthesised narratively. Study quality was appraised using AGREE II (guidelines), AMSTAR-2 (systematic reviews), and the NIH quality assessment tools (primary studies). Evidence quality was graded using a GRADE-informed approach. Results: Thirty-five pri…",
+   "abstract_zh": "",
+   "journal": "International Journal of Drug Delivery Technology",
+   "date": "2026-06-02",
+   "authors": "Vasantharajan V 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.25258/ijddt.16.44s.104",
+   "url": "https://doi.org/10.25258/ijddt.16.44s.104",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42273535",
@@ -15701,7 +16593,8 @@
    "date": "2026-05-08",
    "authors": "R. Strum 等",
    "tags": [
-    "止血帶"
+    "止血帶",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -16452,6 +17345,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42069626/",
    "translation": "",
    "added": "2026-07-02"
+  },
+  {
+   "pmid": "",
+   "doi": "10.12968/jpar.2026.18.5.cpd1",
+   "pmcid": "",
+   "title": "Compassion under lights: navigating grief and ethics in emergency medical services",
+   "title_zh": "",
+   "abstract": "Paramedics frequently encounter death, trauma and acute emotional distress, yet the relational and ethical dimensions of these experiences are often shaped more by informal learning than formal education. This article explores how the hidden curriculum within emergency medical services influences professional identity, emotional regulation and approaches to death notification. It examines the tension between operational efficiency and compassionate care, highlighting the role of emotional labour, moral distress and compassion fatigue. Through reflection and evidence-informed discussion, this article emphasises the importance of conscious communication, presence and ethical awareness in supporting patients and families during moments of profound loss.",
+   "abstract_zh": "",
+   "journal": "Journal of Paramedic Practice",
+   "date": "2026-05-02",
+   "authors": "Joe Frankland",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://doi.org/10.12968/jpar.2026.18.5.cpd1",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "41108189",
@@ -17239,6 +18154,28 @@
    "added": "2026-08-23"
   },
   {
+   "pmid": "42046005",
+   "doi": "10.1186/s12873-026-01594-9",
+   "pmcid": "",
+   "title": "Readiness for prehospital point-of-care ultrasound among EMS personnel in a system where ultrasound is not yet implemented: a national cross-sectional survey",
+   "title_zh": "",
+   "abstract": "Point-of-care ultrasound (POCUS) is increasingly used in emergency and critical care for rapid, radiation-free bedside imaging. However, its integration into prehospital emergency medical services (EMS) remains inconsistent, particularly in paramedic-based systems where physician support is limited. This study evaluated the knowledge, attitudes, and readiness of EMS personnel toward adopting POCUS in a national prehospital system where ultrasound has not yet been implemented. A descriptive, cross-sectional survey was conducted between March and August 2023 among prehospital EMS professionals working in Türkiye’s national emergency medical services system, where prehospital ultrasound is not routinely implemented. A 27-item online questionnaire assessed demographics, previous ultrasound training and use, perceived diagnostic applications, and barriers to field implementation. Quantitative data were analyzed descriptively and compared using chi-square tests, while qualitative responses underwent thematic analysis. A total of 156 EMS professionals participated, most being paramedics (73.1%) working in urban settings (58.3%). Only 21.2% had prior ultrasound training and 22.4% hands-on experience. Nevertheless, 95.5% expressed willingness to receive training, and 90.4% reported interest in using POCUS during prehospital care. The most prioritized applications were intra-abdominal hemorrhage (96.2%), pneumothorax (82.7%), aortic aneurysm (85.3%), and cardiac tamponade (80.1%). Key barriers included lack of equipment, limited training opportunities, and lack of clear regulatory guidelines and defined scope of practice for EMS personnel regarding ultrasound use. EMS personnel in a paramedic-based prehospital system demonstrated high readiness but limited exposure to POCUS. Stru…",
+   "abstract_zh": "",
+   "journal": "BMC Emergency Medicine",
+   "date": "2026-04-27",
+   "authors": "Ertuğ Günsoy 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.1186/s12873-026-01594-9",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42046005/",
+   "translation": "",
+   "added": "2026-10-05"
+  },
+  {
    "pmid": "42035469",
    "doi": "10.1093/milmed/usag202",
    "pmcid": "",
@@ -17882,6 +18819,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42012582/",
    "translation": "",
    "added": "2026-07-02"
+  },
+  {
+   "pmid": "42014990",
+   "doi": "10.1186/s12873-026-01592-x",
+   "pmcid": "",
+   "title": "Cross-sectional study of workplace violence prevention training among emergency medical services personnel and students",
+   "title_zh": "",
+   "abstract": "Workplace violence (WPV) in emergency medical services (EMS) has become a part of everyday life, constituting an occupational safety risk for paramedics. This study aimed to explore EMS personnel and students’ experiences and expectations regarding WPV prevention training. A cross-sectional study using data collected via social media. The survey included structured and open-ended questions that were analyzed by using descriptive statistics and inductive content analysis. A total of 124 EMS personnel responded, with 93% having received WPV prevention training during their studies or at work. Key topics included anticipation, planning and preparedness (92%), occupational safety (87%), and situational awareness (84%). Less covered topics were organizational reporting (41%), filing a criminal report (30%), and screening previous risk information (14%). Among those who had received training, 90% found it useful, citing benefits like improved preparedness, situation management, safety, and a sense of security. As the result of a qualitative analysis, the main category Consistent training to reinforce safe practices and resilience was created. This category consisted of three sub- categories: Consistency, Safe working practices, and Attention to psychological resilience and recovery. Training appears to be well-structured, but it seems to lack uniformity and does not fully meet the needs of EMS personnel and students. In particular, the portion of the training related to aftercare in WPV situations seems to receive insufficient attention. Further research is needed to determine how WPV prevention training should be developed. The knowledge gained from this study can be utilized in educational institutes and EMS organizations to support the development of WPV prevention trainin…",
+   "abstract_zh": "",
+   "journal": "BMC Emergency Medicine",
+   "date": "2026-04-21",
+   "authors": "Tia Windahl 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.1186/s12873-026-01592-x",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42014990/",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "42125736",
@@ -18558,7 +19517,8 @@
     "OHCA"
    ],
    "sources": [
-    "europepmc"
+    "europepmc",
+    "pubmed"
    ],
    "oa_pdf": "https://figshare.com/articles/journal_contribution/The_impact_of_direct_pre-hospital_conveyance_of_patients_with_out-of-hospital_cardiac_arrest_and_a_shockable_rhythm_to_a_regional_cardiac_arrest_centre/32190444",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41983283/",
@@ -20170,7 +21130,8 @@
    "authors": "Thiagarajan AB 等",
    "tags": [
     "止血帶",
-    "外傷"
+    "外傷",
+    "EMS教育"
    ],
    "sources": [
     "pubmed",
@@ -20252,6 +21213,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/41913308/",
    "translation": "",
    "added": "2026-07-02"
+  },
+  {
+   "pmid": "",
+   "doi": "10.35616/jemsm.2025.00185",
+   "pmcid": "",
+   "title": "Emergency medical services medical directors in Korea: system operations and training status",
+   "title_zh": "",
+   "abstract": "This study reviewed the structure, workforce, training pathways",
+   "abstract_zh": "",
+   "journal": "Journal of EMS Medicine",
+   "date": "2026-03-30",
+   "authors": "P. H. Kim 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "http://www.jemsmed.org/upload/pdf/jemsm-2025-00185.pdf",
+   "url": "https://doi.org/10.35616/jemsm.2025.00185",
+   "translation": "",
+   "added": "2026-10-05"
   },
   {
    "pmid": "41906182",
@@ -22133,7 +23116,8 @@
    "tags": [
     "氣道",
     "脊椎運動限制",
-    "止血帶"
+    "止血帶",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -22424,7 +23408,8 @@
     "止血帶",
     "OHCA",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -22717,7 +23702,7 @@
    "sources": [
     "semanticscholar"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30A2EDD63FE61EF5B5CAA11A21B91333/S1049023X26103732a.pdf/div-class-title-awareness-of-occupational-hazards-among-students-of-emergency-medical-services-div.pdf",
    "url": "https://doi.org/10.1017/s1049023x26103732",
    "translation": "",
    "added": "2026-09-13"
@@ -23200,7 +24185,7 @@
    "sources": [
     "semanticscholar"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1186/s13049-026-01583-8",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41723483/",
    "translation": "",
    "added": "2026-08-23"
@@ -23476,7 +24461,8 @@
     "止血帶",
     "OHCA",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -24455,7 +25441,7 @@
    "sources": [
     "semanticscholar"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1097/rc9.0000000000000099",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41837083/",
    "translation": "",
    "added": "2026-08-23"
@@ -24733,7 +25719,8 @@
     "止血帶",
     "OHCA",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -25816,7 +26803,7 @@
    "sources": [
     "semanticscholar"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13580040/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41563125/",
    "translation": "",
    "added": "2026-08-23"
@@ -26888,7 +27875,8 @@
    "tags": [
     "止血帶",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -26910,7 +27898,8 @@
    "date": "2026-01-05",
    "authors": "F. Oginga 等",
    "tags": [
-    "止血帶"
+    "止血帶",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -27419,7 +28408,8 @@
    "tags": [
     "止血帶",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
@@ -57755,7 +58745,9 @@
    "authors": "Ümit Alper Özcan 等",
    "tags": [
     "止血帶",
-    "氣道"
+    "氣道",
+    "外傷",
+    "EMS教育"
    ],
    "sources": [
     "semanticscholar"
