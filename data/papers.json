@@ -1,6 +1,207 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-18",
  "papers": [
+  {
+   "pmid": "42887280",
+   "doi": "10.1016/j.jss.2026.09.016",
+   "pmcid": "",
+   "title": "Implementing a Portable, Simulation-Based Trauma Curriculum for Rural Hospitals: Planning Pilot Year.",
+   "title_zh": "",
+   "abstract": "Trauma patients receiving care in rural settings face higher mortality rates than those at tertiary referral centers. Rural hospitals experience significant gaps in trauma care from limited access to specialists, procedural training, and standardized team-based education. In Georgia, over 20% of trauma patients come from rural areas where high-fidelity trauma training is limited. To address these disparities, we developed a trauma simulation curriculum for rural Georgia trauma providers. A mixed-methods needs assessment was conducted to identify training needs reported by rural trauma providers. A modular simulation curriculum was created to address common deficiencies in procedural skills, interdisciplinary communication, and trauma system activations. The pilot curriculum was presented at a rural trauma conference by a multidisciplinary team, including interactive lectures and hands-on procedural skills stations (airway management, hemorrhage control, and chest trauma). The needs assessment revealed training gaps in airway management, tube thoracostomy, cervical collar placement, hemorrhage control, and transfusion guidelines. The curriculum consisted of didactics and simulation sessions grounded in educational strategies (Cognitive Learning Theory, Cognitive Theory of Multimedia Learning, and Simulation-Based Learning). Participants included rural providers from emergency medical services, nursing, respiratory therapy, and physicians. Learners reported high satisfaction with interactive didactics, hands-on simulation, and interdisciplinary learning. We developed a multidisciplinary rural trauma simulation curriculum. Early implementation and participant feedback guided iterative refinement, optimizing didactic content, assessment methods, and simulation tasks. This i…",
+   "abstract_zh": "",
+   "journal": "J Surg Res",
+   "date": "2026-10-16",
+   "authors": "Moore G 等",
+   "tags": [
+    "止血帶",
+    "氣道",
+    "外傷"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42887280/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42886574",
+   "doi": "10.1080/10903127.2026.2750457",
+   "pmcid": "",
+   "title": "Prehospital Risk Stratification for Early Transfusion in Pediatric Trauma: A National Trauma Data Bank Analysis.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Prehospital Emergency Care",
+   "date": "2026-10-16",
+   "authors": "John Su 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42886574/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42872556",
+   "doi": "10.22037/aaem.v11i1.2012",
+   "pmcid": "PMC10197907",
+   "title": "Influencing factors analysis and prediction model development for ROSC in adult non-traumatic OHCA: a retrospective study based on pre-hospital emergency settings.",
+   "title_zh": "",
+   "abstract": "Cardiac arrest is a major global public health problem. This study aimed to explore factors influencing return of spontaneous circulation (ROSC) and develop a prediction model for out-of-hospital cardiac arrest (OHCA) patients. We retrospectively collected electronic medical records of adult non-traumatic OHCA patients at Tianjin Emergency Medical Center from January 1, 2023 to December 31, 2024. The primary outcome was sustained ROSC up to emergency department arrival and handover to receiving-hospital staff. Multivariable mixed-effects logistic regression with clinician ID as random intercept adjusted clustering bias; predictors with p < 0.05 formed the nomogram. Patients were randomly split 7:3 for training and internal testing. Discrimination was assessed by ROC-AUC (acceptable threshold >0.7). We performed 1000 bootstrap resampling to correct C-index against overfitting. Calibration curves and decision curve analysis (DCA) further evaluated predictive consistency and net clinical benefit. Among 9,386 included cases, 678 (7.2%) achieved ROSC. Mixed-effects regression identified independent ROSC predictors: public location (aOR = 1.285, 95% CI:1.038-1.592), 06:00-12:00 onset (aOR = 1.308, 95% CI:1.018-1.682), prolonged emergency response time (aOR = 0.971, 95% CI:0.945-0.999), extended onset-to-ambulance intervals (5-10 min: aOR = 0.758;10-30 min: aOR = 0.578;>30 min:aOR = 0.498 vs ≤5 min), no OHCA occurred at emergency call (aOR = 1.540, 95% CI:1.048-2.262), male attending physicians (aOR = 1.255, 95% CI:1.077-1.464), longer physician practice years (aOR = 1.043, 95%CI: 1.022-1.065), intermediate physician title (aOR = 1.236, 95% CI:1.047-1.459), shockable initial rhythm (aOR = 2.850, 95% CI:2.390-3.397), endotracheal intubation (aOR = 2.294, 95% CI:1.936-2.718), ep…",
+   "abstract_zh": "",
+   "journal": "Ann Med",
+   "date": "2026-10-14",
+   "authors": "Zhang Q 等",
+   "tags": [
+    "氣道",
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10197907/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42872556/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42876952",
+   "doi": "10.1002/ams2.70168",
+   "pmcid": "PMC4808686",
+   "title": "Sports-Related Out-of-Hospital Cardiac Arrest due to External Causes, Including Commotio Cordis, at Schools in Japan.",
+   "title_zh": "",
+   "abstract": "To describe the characteristics and outcomes of sports-related out-of-hospital cardiac arrest (OHCA) due to external causes, including commotio cordis, during school-supervised sports activities in Japan's elementary schools, junior high schools, high schools, and technical colleges. OHCA data (2008-2022) were obtained from the Stop and Prevent cardIac aRrest, Injury, and Trauma in Schools (SPIRITS)-a nationwide database of OHCAs occurring under school supervision across Japan. We identified sports-related OHCAs with external causes and summarized patients' characteristics, bystander interventions, available response intervals, and survival outcomes. We identified 30 sports-related OHCA cases due to external causes. The most frequently played sports were soccer/futsal (n = 8), baseball (n = 8), and swimming (n = 4). The leading etiology was commotio cordis (n = 15), followed by drowning (n = 8). Among the 15 cases meeting our operational definition of commotio cordis, automated external defibrillator (AED) pads were applied in 14 (93%), shocks were delivered in 13 (87%), and 12 (80%) achieved a favorable neurological outcome. Among other external causes (n = 15), ventricular fibrillation occurred in 4/15 (27%), AED pads were applied in 7/15 (47%), shocks were rare (1/15, 7%), and 1/15 (7%) achieved favorable neurological outcomes. Nationwide case-level reconstruction revealed distinct mechanism-to-response pathways. Although these descriptive data cannot establish the causal effects of the public access defibrillation programs or other interventions on outcomes, they highlight potentially actionable, mechanism-specific opportunities for emergency response and prevention.",
+   "abstract_zh": "",
+   "journal": "Acute Med Surg",
+   "date": "2026-10-14",
+   "authors": "Kiyohara K 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4808686/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42876952/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42867902",
+   "doi": "10.1556/2060.2026.00960",
+   "pmcid": "",
+   "title": "From call to home: The role of dispatcher-assisted CPR in patient survival.",
+   "title_zh": "",
+   "abstract": "Dispatcher-assisted cardiopulmonary resuscitation (DA-CPR) is a key strategy to reduce no-flow time in out-of-hospital cardiac arrest (OHCA), yet its impact on long-term survival remains various across emergency medical systems. We aimed to evaluate the association between DA-CPR and resuscitation outcomes in a nationwide cohort of OHCA patients presenting with an initial shockable rhythm. We conducted a retrospective observational study including all adult OHCA cases with ventricular fibrillation or pulseless ventricular tachycardia (VF/VT) in which resuscitation was carried out by emergency medical services in Hungary during 2019, 2022, and 2023. Patients were stratified according to whether DA-CPR was ongoing upon ambulance arrival, or initiated by the ambulance crew. Primary outcomes were return of spontaneous circulation (ROSC) and hospital admission with sustained circulation. Utstein-style consensus reporting guidelines were followed. A total of 3,674 VF/VT OHCA cases were included, of whom 1,744 (47.5%) received DA-CPR. Patients in the DA-CPR group had significantly higher rates of ROSC (92.0% vs. 12.4%), hospital admission with sustained circulation (90.8% vs. 11.7%), 30-day survival (54.6% vs. 7.1%), and one-year survival (45.8% vs. 6.2%) compared with those without DA-CPR (all P < 0.001). DA-CPR occurrence increased over time, while declined in 2022 followed by partial recovery in 2023. In this nationwide cohort of OHCA patients with shockable rhythms, dispatcher-assisted CPR was strongly associated with improved early resuscitation success and long-term survival. These findings support DA-CPR as a critical system-level intervention and highlight the importance of centralised protocols and continuous performance monitoring.",
+   "abstract_zh": "",
+   "journal": "Physiol Int",
+   "date": "2026-10-13",
+   "authors": "Molnár F 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42867902/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42870300",
+   "doi": "10.1016/j.accpm.2022.101029",
+   "pmcid": "PMC9170852",
+   "title": "Documenting graft outcome to substantiate the organ-donation rationale after out-of-hospital cardiac arrest due to aneurysmal subarachnoid haemorrhage.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Crit Care",
+   "date": "2026-10-13",
+   "authors": "Chardon N 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9170852/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42870300/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42869641",
+   "doi": "10.1136/emermed-2026-216227",
+   "pmcid": "",
+   "title": "Paramedic perspectives on organ donation after out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Emerg Med J",
+   "date": "2026-10-13",
+   "authors": "Lawson B 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42869641/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42862803",
+   "doi": "10.1136/bmjopen-2023-075961",
+   "pmcid": "PMC11168120",
+   "title": "Knowledge, willingness, and self-efficacy in CPR: A two-phase study of prevalence and preliminary peer-led workshop in a Malaysian tertiary institution.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest remains a major public health concern, and early cardiopulmonary resuscitation (CPR) by bystanders is crucial for improving survival outcomes. University students represent an important target population for CPR education because they are socially active, highly accessible, and capable of disseminating lifesaving knowledge within the wider community. However, inadequate CPR knowledge, low willingness to perform CPR, and poor self-efficacy remain common among university students in Malaysia. This two-phase study aims to determine the prevalence of self-reported CPR-related knowledge, willingness, and self-efficacy among students in a Malaysian tertiary institution (Phase 1) and to explore the preliminary changes in these outcomes following a peer-led CPR workshop (Phase 2). In Phase 1, a cross-sectional survey was conducted at a tertiary institute in Selangor, Malaysia using a validated questionnaire on knowledge, attitudes, behavioral intention, and self-efficacy (KABSE) (N = 431). In Phase 2, a two-hour peer-led workshop, delivered by medical students, targeted students without CPR training in the past two years, and pre-post KABSE changes were measured (N = 33). Phase 1 baseline findings revealed CPR knowledge and self-efficacy levels were relatively lower than attitudes and willingness to perform CPR. Females showed higher knowledge and attitudes, while males reported greater self-efficacy. Older and married participants demonstrated better attitudes, and those with a healthcare-related background had higher knowledge, attitudes, and self-efficacy, though similar behavioral intention. Higher scores were also linked to AED awareness, AED usage capability, and recent CPR training. Statistical analysis revealed significant associations amo…",
+   "abstract_zh": "",
+   "journal": "PLoS One",
+   "date": "2026-10-12",
+   "authors": "Lee SK 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11168120/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42862803/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42862678",
+   "doi": "10.4103/aca.aca_323_25",
+   "pmcid": "",
+   "title": "Anesthetic Challenges in Interarterial Right Coronary Artery Anomaly from the Left Sinus of Valsalva: A Case Report.",
+   "title_zh": "",
+   "abstract": "Coronary artery anomalies are rare but clinically significant malformations, particularly when involving an interarterial course, which predisposes to ischemia and sudden cardiac death. We report the case of a previously healthy 22-year-old man who suffered out-of-hospital cardiac arrest associated with recreational inhalant use. Imaging revealed an anomalous right coronary artery originating from the left sinus of Valsalva with interarterial trajectory. Surgical reimplantation was performed under tailored anesthetic management emphasizing hemodynamic stability. The patient recovered uneventfully. This case discusses and highlights anesthetic priorities and the potential role of external triggers in vulnerable coronary anatomy.",
+   "abstract_zh": "",
+   "journal": "Ann Card Anaesth",
+   "date": "2026-10-12",
+   "authors": "Coelho IS 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42862678/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
   {
    "pmid": "42856048",
    "doi": "10.1177/00031348261494137",
@@ -16,9 +217,10 @@
     "骨盆固定"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1177/00031348261494137",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42856048/",
    "translation": "",
    "added": "2026-10-12"
@@ -60,7 +262,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42855036/",
@@ -82,9 +285,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02394-4/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42855035/",
    "translation": "",
    "added": "2026-10-12"
@@ -104,9 +308,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02399-3/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42855034/",
    "translation": "",
    "added": "2026-10-12"
@@ -126,7 +331,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/12125806/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42853471/",
@@ -148,9 +354,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1016/j.jaccas.2026.110634",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42853170/",
    "translation": "",
    "added": "2026-10-12"
@@ -170,7 +377,8 @@
     "外傷"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42853261/",
@@ -200,6 +408,28 @@
    "added": "2026-10-12"
   },
   {
+   "pmid": "42853283",
+   "doi": "10.1007/s00068-026-03346-7",
+   "pmcid": "",
+   "title": "Prehospital severity and in-hospital mortality in trauma patients managed by the Friuli-Venezia Giulia helicopter emergency medical service: a 6-year retrospective cohort study",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "European Journal of Trauma and Emergency Surgery",
+   "date": "2026-10-09",
+   "authors": "S. Tomasino 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42853283/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
    "pmid": "42849561",
    "doi": "10.1016/j.resuscitation.2026.111340",
    "pmcid": "",
@@ -214,9 +444,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02387-7/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42849561/",
    "translation": "",
    "added": "2026-10-12"
@@ -236,9 +467,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.heartandlung.org/article/S0147-9563(26)00254-2/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42849295/",
    "translation": "",
    "added": "2026-10-12"
@@ -258,7 +490,8 @@
     "外傷"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/9208248/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42848131/",
@@ -282,10 +515,32 @@
    "sources": [
     "pubmed"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/apa.70791",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42847919/",
    "translation": "",
    "added": "2026-10-12"
+  },
+  {
+   "pmid": "42891070",
+   "doi": "10.1093/braincomms/fcag378",
+   "pmcid": "PMC7455355",
+   "title": "Correlation of blood biomarkers with microstructural brain injury in survivors of out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "In-hospital mortality among resuscitated out-of-hospital cardiac arrest (OHCA) patients remains high. Identifying patients who will benefit from intensive care while avoiding prolonged, potentially unnecessary treatments is essential. Blood-based biomarkers provide a novel method for evaluating brain injury. The ability of glial fibrillary acidic protein (GFAP), neurofilament light chain (NfL), neuron-specific enolase (NSE) and total-tau (t-tau) to measure white and grey matter injury is unestablished in comatose OHCA survivors treated with targeted temperature management (TTM) or xenon combined with TTM. We examined correlations between the biomarkers and white and grey matter injury assessed with diffusion tensor imaging (DTI). This was a randomized, single-blind, phase 2 clinical drug trial involving two multipurpose intensive care units in Finland. It was conducted between August 2009 and March 2015. One hundred and ten comatose OHCA patients aged 24 to 76 years were randomly assigned to either inhaled xenon treatment combined with 24-h TTM (33°C) (n = 55, xenon group) or TTM alone (n = 55, control group). MRI data were available from 96 patients, with a median imaging time of 53 h (interquartile range, 47-64 h) after OHCA. Biomarker data were obtained from 105 patients. In the control group of 48 patients, after adjusting for age, sex and site, a disruption of white matter microintegrity as measured by decreased fractional anisotropy (FA) of DTI, the primary endpoint of the trial, showed a significant negative correlation with NfL at 24, 48 and 72 h (ρ = -0.28 to -0.37; P < 0.05), NSE at 48 and 72 h (ρ = -0.30 to -0.35; P < 0.05) and t-tau only at 72 h (ρ = -0.30; P < 0.05). In the xenon group (n = 48), these correlations were absent at all timepoints. The NfL-FA p…",
+   "abstract_zh": "",
+   "journal": "Brain Commun",
+   "date": "2026-10-08",
+   "authors": "Laaksonen MV 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7455355/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42891070/",
+   "translation": "",
+   "added": "2026-10-18"
   },
   {
    "pmid": "42843615",
@@ -302,7 +557,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42843615/",
@@ -324,9 +580,10 @@
     "外傷"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.painmanagementnursing.org/article/S1524-9042(26)00316-4/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42844129/",
    "translation": "",
    "added": "2026-10-12"
@@ -346,7 +603,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838865/",
@@ -368,9 +626,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02396-8/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838501/",
    "translation": "",
    "added": "2026-10-12"
@@ -390,7 +649,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838500/",
@@ -412,9 +672,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02390-7/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838499/",
    "translation": "",
    "added": "2026-10-12"
@@ -434,9 +695,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.2139/ssrn.7364247",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838497/",
    "translation": "",
    "added": "2026-10-12"
@@ -456,7 +718,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838496/",
@@ -478,9 +741,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02388-9/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838495/",
    "translation": "",
    "added": "2026-10-12"
@@ -500,9 +764,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.sciencedirect.com/science/article/pii/S0002870326002851/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42838476/",
    "translation": "",
    "added": "2026-10-12"
@@ -522,7 +787,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42837514/",
@@ -566,7 +832,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624713/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42833702/",
@@ -576,7 +843,7 @@
   {
    "pmid": "42832921",
    "doi": "10.1016/j.jacadv.2026.103293",
-   "pmcid": "",
+   "pmcid": "PMC12441630",
    "title": "Increased Out-of-Hospital Cardiac Arrest Risk in Cancer: Evidence From 800,000 Patients and 3.7 Million Controls.",
    "title_zh": "",
    "abstract": "Although cancer patients face an increased risk of cardiovascular disease, their risk of out-of-hospital cardiac arrest (OHCA) remains poorly characterized. The objective of the study was to investigate the hazard of OHCA among patients with cancer and identify clinical factors associated with increased hazard compared with cancer-free controls. This population-based, matched cohort study included adults (≥18 years) diagnosed with cancer from 2010 to 2022, matched 1:5 on age, sex, and region, to cancer-free controls. Using 7 national registers, we assessed the hazard of OHCA for all cancers combined and across subgroups, including cancer site, metastasis status, and cardiovascular risk factors, using Cox proportional hazards models and model-based estimates of cumulative incidence. A total of nearly 800,000 patients with cancer and 3,700,000 controls were included. Cancer was associated with a 55% higher hazard of OHCA (adjusted HR: 1.55; 95% CI: 1.50-1.60), than controls. The greatest excess hazards were observed in lung, gastrointestinal, and neurological cancers. The association was strongest within the first year after cancer diagnosis, but remained increased throughout follow-up. Lung and neurological cancers were associated with the greatest short-term hazards, approximately 6-fold higher than controls, whereas lung cancer and multiple myeloma showed the highest long-term excess hazards, approximately 2- to 3-fold higher. Patients with cancer had a higher hazard of OHCA than cancer-free controls. Cancer site, time since diagnosis, and metastasis status were key factors associated with the hazard of OHCA. These findings may help inform tailored cardiovascular risk assessment, preventive strategies, shared decision-making, and end-of-life planning in oncology care.",
@@ -588,12 +855,35 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12441630/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42832921/",
    "translation": "",
    "added": "2026-10-12"
+  },
+  {
+   "pmid": "42826344",
+   "doi": "10.1097/ta.0000000000005162",
+   "pmcid": "",
+   "title": "Examining potentially preventable mortality in trauma: What can we do better?",
+   "title_zh": "",
+   "abstract": "BACKGROUND Trauma systems have undergone substantial evolution over the past several decades. However, we have yet to achieve the National Academies of Sciences, Engineering, and Medicine goal of zero preventable deaths from injury. In this study, we examined preventable deaths within advanced trauma systems to identify opportunities for further improvement. METHODS Task Order One, coordinated within the Linking Investigators in Trauma and Emergency Medical Services Network (LiTES) that included over 30 emergency medical service (EMS) agencies transporting to eight level 1 trauma centers in the United States, created an extensive database of severely injured trauma patients. A potentially preventable mortality (PPM) program was developed. Cause of death was reported by study site primary investigators (PIs), cases were selected for review by a prespecified list of prehospital patient/injury characteristics and cause of death. Reports were generated by the data coordination center and reviewed by the LiTES Executive Operating Committee and the site PI. RESULTS Of 2,618 deaths, 391 were reviewed based on established criteria. Of these, 99 (25.3%) were determined to be PPM. For reviewed cases, presenting physiology was similar between PPM and non-PPM patients. Higher proportions of PPM compared with non-PPM were seen in patients who were male, black or African American, with a mechanism of firearm injury or other penetrating injury. The most common cause of PPM was uncontrolled hemorrhage (53%) followed by multiple organ failure (19%), ARDS/primary respiratory failure (9.1%), and coagulopathy (6.1%). Deaths due to uncontrolled hemorrhage and coagulopathy occurred earliest during care. CONCLUSIONS In this study, we found that approximately one of our reviewed deaths from in…",
+   "abstract_zh": "",
+   "journal": "Journal of Trauma and Acute Care Surgery",
+   "date": "2026-10-02",
+   "authors": "Alexandra M. P. Brito 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42826344/",
+   "translation": "",
+   "added": "2026-10-18"
   },
   {
    "pmid": "42657578",
@@ -745,7 +1035,8 @@
    "date": "2026-10-01",
    "authors": "Lulla A 等",
    "tags": [
-    "EMS教育"
+    "EMS教育",
+    "外傷"
    ],
    "sources": [
     "pubmed",
@@ -1085,6 +1376,28 @@
    "added": "2026-10-05"
   },
   {
+   "pmid": "42881632",
+   "doi": "10.3390/healthcare14193193",
+   "pmcid": "",
+   "title": "Insomnia Severity and Its Demographic and Health-Related Correlates Among Paramedic Students in Saudi Arabia: A Cross-Sectional Study.",
+   "title_zh": "",
+   "abstract": "Background: Sleep disturbances among healthcare students can negatively affect academic performance and future clinical decision-making. However, limited evidence exists on insomnia among Emergency Medical Services (EMS) students, a group exposed to unique academic and operational stressors. This study assessed insomnia severity and its demographic and health-related correlates among paramedic students in Saudi Arabia. Methods: A cross-sectional study was conducted among 238 EMS students in Saudi Arabia. Insomnia severity was assessed using the Insomnia Severity Index (ISI). Descriptive statistics summarized insomnia levels, and bivariate tests and multiple linear regression were used to examine group differences and predictors in SPSS. Results: The mean ISI score was 11.8 ± 5.3, indicating subthreshold insomnia among paramedic students. Higher insomnia severity was observed among single students than among married students (12.1 vs. 7.4, p = 0.005), among students at private universities (19.3 vs. 11.6, p = 0.001), and among those with chronic medical or diagnosed mental illness (p < 0.05). No significant differences were found by gender, region, academic level, or dormitory residence (p > 0.05). Regression analysis showed that marital status and university type were significant predictors of insomnia symptom severity. Conclusions: Insomnia is common among EMS students and may have implications for both student well-being and future clinical performance. Addressing sleep health within EMS education may support better academic outcomes and safer healthcare delivery.",
+   "abstract_zh": "",
+   "journal": "Healthcare (Basel)",
+   "date": "2026-09-28",
+   "authors": "Alobaydullah A 等",
+   "tags": [
+    "EMS教育"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42881632/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
    "pmid": "42799981",
    "doi": "10.1007/s11606-012-2264-5",
    "pmcid": "3710391",
@@ -1286,7 +1599,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.2139/ssrn.6926465",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42790854/",
    "translation": "",
    "added": "2026-09-28"
@@ -1496,6 +1809,94 @@
    "url": "https://doi.org/10.3390/bs16101747",
    "translation": "",
    "added": "2026-10-05"
+  },
+  {
+   "pmid": "42893205",
+   "doi": "10.1016/j.resplu.2026.101504",
+   "pmcid": "PMC12148607",
+   "title": "Prehospital extracorporeal cardiopulmonary resuscitation for refractory out-of-hospital cardiac arrest: a protocol for the Rapid prehospital ACcess to ECPR in Prague (RACE Prague) single-arm pilot feasibility study.",
+   "title_zh": "",
+   "abstract": "The benefit of extracorporeal cardiopulmonary resuscitation (ECPR) in refractory out-of-hospital cardiac arrest (OHCA) is strongly time dependent, yet in established in-hospital ECPR systems, including Prague, the median collapse-to-flow time has remained around 60 min or more, dominated by intra-arrest transport. Evidence for prehospital ECPR remains limited, particularly its comparison with in-hospital ECPR. RACE Prague evaluates whether dispatching a mobile cannulation team to the scene shortens this interval within the same ECPR system. Single-centre, prospective, interventional, single-arm pilot feasibility study. Twenty adults aged 18-70 years with witnessed refractory OHCA (three unsuccessful defibrillations and/or ≥10 min of resuscitation in pulseless electrical activity), receive prehospital percutaneous femoro-femoral veno-arterial extracorporeal membrane oxygenation (ECMO) from a mobile ECPR team. The primary endpoint (time from estimated collapse to ECMO flow ≥2.0 L/min) is tested hierarchically against the historical Prague OHCA in-hospital ECPR cohort (target shortening ≥15 min) and a contemporaneous in-hospital ECPR cohort at the same centre. Secondary endpoints include 30-day survival with favourable neurological outcome assessed blind, decomposition of prehospital pathway intervals, cannulation success, and pre-specified safety endpoints. Enrolment proceeds without prior consent under ethics-approved emergency-research provisions, with deferred consent thereafter. RACE Prague is testing the effect of cannulation location on the time to extracorporeal support and will provide essential evidence on the feasibility of prehospital ECPR.Trial registration:ClinicalTrials.govNCT06789978; Ethics Committee of the General University Hospital in Prague, reference …",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-24",
+   "authors": "Rob D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12148607/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42893205/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42893053",
+   "doi": "10.1016/j.resplu.2024.100615",
+   "pmcid": "PMC10973654",
+   "title": "Health system readiness for out-of-hospital-cardiac-arrest management in resource limited settings: A mixed-method study from rural and suburban Sindh, Pakistan.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital-cardiac-arrest requires a robust emergency response system for survival. In low-resource settings like suburban and rural Sindh in Pakistan, little is known about the readiness of healthcare systems and communities. The aim of this study was to comprehensively assess the system-readiness for out-of-hospital-cardiac-arrest management in rural and suburban areas of Sindh, Pakistan by studying out-of-hospital and in-hospital elements of chain of survival in these areas. A triangulation mixed-methods design was used. The study was conducted in seven hospitals in the suburban and rural areas of upper, central and southern parts of the province of Sindh, Pakistan. Quantitative data from exit interviews (n = 163) using the Patient Satisfaction Questionnaire-18 and a facility readiness checklist (n = 7 hospitals) were analysed using descriptive statistics. Qualitative data were collected through focus group discussions with community members and ambulance crew, in-depth interviews with emergency room doctors and nurses, and key informant interviews with emergency room supervisors and cardiologists and were analysed using thematic analysis. Exit interviews with 163 patients showed that the lowest proportions satisfied were for communication (26.4%), financial aspects (31.3%), accessibility and convenience (32.5%), technical quality of emergency room staff (40.5%), and time spent with doctors (47.2%). Among the seven facilities assessed, defibrillators were available in two, but neither was functional; epinephrine was available in four, pulse oximeters in three, and endotracheal tubes in three, while laryngeal mask airways were unavailable in all facilities. Qualitative data from 12 focus group discussions, 15 in-depth interviews, and three key informant interview…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-24",
+   "authors": "Ali Baig MN 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10973654/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42893053/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42891020",
+   "doi": "10.1016/j.resplu.2026.101503",
+   "pmcid": "PMC9869944",
+   "title": "Neuroprotective effect of early remote ischaemic post-conditioning after out-of-hospital cardiac arrest (RIPOST-CA): study protocol for a randomised, single-blinded, monocentric, controlled trial.",
+   "title_zh": "",
+   "abstract": "Hypoxic-ischaemic brain injury is the leading cause of death and long-term disability after out-of-hospital cardiac arrest and is driven by the ischaemia-reperfusion syndrome, for which no specific treatment exists. Remote ischaemic post-conditioning (brief, repeated cycles of limb ischaemia and reperfusion delivered with a pneumatic cuff), is protective across ischemia-reperfusion conditions. We aim to assess whether early conditioning reduces hypoxic-ischaemic brain injury after out-of-hospital cardiac arrest. This single-centre, single-blinded, randomised (1:1) controlled trial with blinded assessment of the outcome, enrols 48 comatose adults resuscitated from out-of-hospital cardiac arrest. Participants receive standard post-resuscitation care with three sham cuff sessions, or standard care plus three sessions of conditioning (thigh cuff, four cycles of 5-min inflation at 200 mmHg alternating with 5-min deflation), the first within 4 h of return of spontaneous circulation and repeated at the 12th and 24th hour. Randomisation is stratified by initial rhythm (shockable versus non-shockable). The primary endpoint is the change in serum neurofilament light chain between the 6th and 72nd hour after return of spontaneous circulation. Secondary endpoints include daily Sequential Organ Failure Assessment scores (days 1-3), serum neuron-specific enolase and protein S100-B kinetics, in-intensive care unit mortality by cause, and a favourable neurological outcome (modified Rankin Scale 0-3) at intensive care unit discharge and at 90 days. RIPOST-CA is the first randomised trial to evaluate early remote ischemic post-conditioning on brain-injury biomarkers after out-of-hospital cardiac arrest. Its results could inform larger clinical trials of this simple, non-invasive interven…",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-24",
+   "authors": "Chelly J 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9869944/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42891020/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
+   "pmid": "42871632",
+   "doi": "10.1016/j.resplu.2026.101501",
+   "pmcid": "PMC5908564",
+   "title": "Intra-arrest strategies to treat cardiac arrest due to a non-opioid toxicological causes in adults and children: a systematic review.",
+   "title_zh": "",
+   "abstract": "To summarise evidence on the effectiveness of specific alterations to standard advanced life support during ongoing cardiopulmonary resuscitation in adults and children with cardiac arrest due to a presumed toxicological cause. We searched MEDLINE (OVID platform), Embase (OVID platform), and Cochrane CENTRAL from inception to 22nd July 2026 for relevant observational and interventional studies with a control group. We excluded studies focussed specifically on opioid toxicity. Two authors independently screened studies for inclusion. Our primary outcome was 30-day survival. We assessed risk of bias using the Cochrane recommended tools and certainty of evidence using the GRADE system. We identified four observational studies, of which none specifically focused on children and three included fewer than 100 patients. Studies examined general toxicological causes (n = 2), smoke inhalation and cyanide poisoning (n = 1), and beta-blocker and calcium-channel blocker overdose (n = 1). All studies were at critical risk of bias.Across the four studies, nine interventions were reported. Whilst some interventions were associated with either benefit or harm, estimates of effect were very imprecise and challenging to interpret. The largest study (1545 patients) reported that sodium bicarbonate use in out-of-hospital cardiac arrest due to suspected drug overdose was associated with lower survival to hospital discharge (adjusted odds ratio 0.16, 95% confidence interval 0.08-0.31). Current evidence does not support the modification of standard advanced life support during cardiac arrest due to a presumed toxicological cause in adults or children.Registration: PROSPERO CRD420251149412.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-24",
+   "authors": "Couper K 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5908564/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42871632/",
+   "translation": "",
+   "added": "2026-10-18"
   },
   {
    "pmid": "42776976",
@@ -2329,6 +2730,28 @@
    "added": "2026-09-28"
   },
   {
+   "pmid": "42891396",
+   "doi": "10.1093/ehjcr/ytag684",
+   "pmcid": "PMC6306529",
+   "title": "Cardiac arrest as the first sign of thyrotoxicosis: a case report of angiographically proven coronary vasospasm.",
+   "title_zh": "",
+   "abstract": "Cardiovascular manifestations of thyrotoxicosis are common, typically presenting as tachyarrhythmias or high-output physiology. Coronary artery spasm (CAS) is an uncommon but increasingly recognized complication, usually causing transient ischaemia rather than malignant ventricular arrhythmias. Cardiac arrest due to thyrotoxicosis-induced CAS is exceedingly rare. Early recognition is vital because management differs from that of typical acute coronary syndromes (ACS). A 63-year-old man suffered an out-of-hospital cardiac arrest with an initial shockable rhythm, achieving return of spontaneous circulation (ROSC) after a single defibrillation. Initial evaluation revealed inferior ST-segment elevation, leading to urgent coronary angiography, which demonstrated severe right coronary artery spasm that resolved after intracoronary nitrate administration. Laboratory studies confirmed significant hyperthyroidism, and recurrent ST-segment changes in the intensive care unit further supported thyrotoxicosis-induced CAS as the underlying mechanism. The patient made a full neurological and cardiac recovery following temperature management, intensification of antithyroid therapy, and vasodilator treatment. This case underscored an unusual presentation of cardiac arrest triggered by thyrotoxicosis-related CAS in the absence of underlying coronary artery disease. Elevated thyroid hormone levels can impair endothelial function and heighten vascular smooth muscle reactivity, creating a predisposition to diffuse, therapy-resistant vasospasm. Recognizing this reversible yet potentially fatal condition is crucial, as prompt initiation of antithyroid therapy and vasodilators can rapidly alleviate ischaemia and reduce the risk of recurrence. The favourable outcome in this patient illustrates …",
+   "abstract_zh": "",
+   "journal": "Eur Heart J Case Rep",
+   "date": "2026-09-12",
+   "authors": "Wauters L 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6306529/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42891396/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
    "pmid": "42725789",
    "doi": "10.1080/10903127.2026.2729895",
    "pmcid": "",
@@ -2902,6 +3325,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42825111/",
    "translation": "",
    "added": "2026-10-05"
+  },
+  {
+   "pmid": "",
+   "doi": "10.12688/hrbopenres.14504.1",
+   "pmcid": "",
+   "title": "Barriers and Enablers of Trauma Triage Tool Implementation in Ireland: A Qualitative Study of First Responders",
+   "title_zh": "",
+   "abstract": "The trauma triage tools play an important role in assisting first responders in deciding who needs to be taken to specialist trauma services urgently. However, time pressure, limited training, resource problems, and clinical judgment are factors that hinder the use of these tools in prehospital care. This qualitative study considers the factors that can hinder and facilitate the use of the Health Service Executive Trauma Triage Tool amid the evolving trauma system in Ireland. The study examines a range of individual, organizational, and system-level factors that influence the adoption of the tool among first responders and senior managers using the Consolidated Framework for Implementation Research (CFIR). In order to capture the participants’ lived experiences and professional perspectives, a descriptive phenomenological design is used. Semi-structured interviews and, more so focus groups with a maximum of 30 Dublin Fire Brigade paramedics, advanced paramedics, emergency medical technicians, firefighters, and managers who participate in trauma response or management are being conducted. Interviews are conducted online or in person and are 45–60 minutes in duration. All audio recordings will be verbatim transcribed, verified, and analyzed using framework analysis with NVivo. Inductive and deductive coding will be employed, and themes will be related to CFIR domains. The study should aim to identify practical barriers to implementing the trauma triage tool, including training needs, resource limitations, communication difficulties, and reluctance to change, as well as enablers such as leadership, interagency collaboration, and clear implementation processes. Findings will contribute to future trauma triage implementation strategies in Ireland.",
+   "abstract_zh": "",
+   "journal": "HRB Open Research",
+   "date": "2026-09-09",
+   "authors": "R. Szentes 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://hrbopenresearch.org/articles/9-93/pdf",
+   "url": "https://doi.org/10.12688/hrbopenres.14504.1",
+   "translation": "",
+   "added": "2026-10-18"
   },
   {
    "pmid": "42711685",
@@ -7145,6 +7590,28 @@
    "added": "2026-10-12"
   },
   {
+   "pmid": "42874521",
+   "doi": "10.1016/j.burns.2026.108183",
+   "pmcid": "",
+   "title": "Burn injury management by Dutch physician-staffed HEMS: Findings from the HEMS-BURNS cohort and National Trauma Registry.",
+   "title_zh": "",
+   "abstract": "INTRODUCTION Dutch Physician staffed Helicopter Emergency Medical Services (P-HEMS) are regularly dispatched to provide care to patients with burns on scene. It is unclear if and which patients with burns benefit from P-HEMS care. This study aimed to investigate P-HEMS dispatch and cancellation rates, intervention rates, and patient outcomes in burn care. METHODS This was a descriptive retrospective cohort study. Databases of the Rotterdam P-HEMS and the Dutch National Trauma Registry (NTR) were consulted for burn cases between January 1, 2015, and December 31, 2023. Data on cancellation, patient characteristics, burn severity and type, prehospital treatment, transportation, treatment times, and mortality were collected and analyzed. RESULTS Rotterdam P-HEMS was dispatched 976 times for suspected burn injuries, with 455 (46.6%) dispatches being cancelled, mainly due to minor injuries (n = 288; 63.3%). Of 521 non-cancelled dispatches, most involved adults (n = 345; 66.2%) and flame burns (n = 248; 59.6%), while pediatric patients mostly had scald burns (n = 123; 81.5%). P-HEMS specific interventions were performed in 33.6% of non-cancelled dispatches, with a significantly lower rate in children than in adults (14.2% vs 43.5%; p < 0.001) and a significantly lower rate for scald burns than for flame burns (14.6% vs 45.6%; p < 0.001). Of 879 patients with burns with HEMS involvement recorded in the NTR, median Injury Severity Score (ISS) was 9 (P25-P75 1-25), median hospital length of stay (HLOS) was 5 days (P25-P75 2-21 days), ICU admission occurred in 465 of 879 cases (52.9%), and in-hospital mortality was 13.7% (n = 120). CONCLUSION This retrospective cohort study found that 46.6% of P-HEMS dispatches for patients with burns were cancelled, often due to minor injuries. P…",
+   "abstract_zh": "",
+   "journal": "Burns",
+   "date": "2026-08-01",
+   "authors": "Niek J. Vianen 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.1016/j.burns.2026.108183",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42874521/",
+   "translation": "",
+   "added": "2026-10-18"
+  },
+  {
    "pmid": "42536775",
    "doi": "10.1093/eschf/xvag207",
    "pmcid": "",
@@ -10301,7 +10768,7 @@
   {
    "pmid": "42398848",
    "doi": "10.1016/j.resuscitation.2026.111200",
-   "pmcid": "",
+   "pmcid": "PMC11693803",
    "title": "Number of community first responders needed for quick response times to cardiac arrest: a nationwide study.",
    "title_zh": "",
    "abstract": "Current resuscitation guidelines recommend activating a community first responder (CFR) system for out-of-hospital cardiac arrest. Although such systems are widely implemented, evidence on how the number of available CFRs affects system performance is very limited. This study assessed how many available CFRs are required to consistently achieve CFR response times under 5 minutes. Activations of the Danish nationwide CFR system from February 2018 to August 2024 were grouped by the number of available CFRs per 100,000 residents. Response times for the first-arriving CFR and the first-arriving CFR bringing an automated external defibrillator (AED) were calculated from the coordinates of moving CFRs. We analyzed 12,806 CFR system activations. As the number of available CFRs increased from 300-399 to 800-899 per 100,000 residents, the percentage of activations with a response time under 5 minutes for the first-arriving CFR increased from 33% to 46% (an absolute increase of 13%, 95% CI [5%, 21%]) and for the first-arriving CFR bringing an AED from 7% to 29% (an absolute increase of 23%, 95% CI [15%, 31%]). The likelihood of CFR response times under 5 minutes increased significantly with the number of available CFRs. At around 800 available CFRs per 100,000 residents, a response time under 5 minutes for the first-arriving CFR was achieved in almost half of system activations, and for the first-arriving CFR bringing an AED in almost one-third of system activations. This shows the importance of recruiting enough CFRs to ensure quick response times.",
@@ -10316,7 +10783,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11693803/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42398848/",
    "translation": "",
    "added": "2026-07-05"
@@ -11210,7 +11677,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.2139/ssrn.6271695",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42379417/",
    "translation": "",
    "added": "2026-07-02"
@@ -21275,7 +21742,7 @@
   {
    "pmid": "41937429",
    "doi": "10.1111/jan.70603",
-   "pmcid": "",
+   "pmcid": "PMC11365156",
    "title": "Relatives' Experiences of Circulatory Death Following Out-of-Hospital Cardiac Arrest and Their Hypothetical Perspectives on Organ Donation: A Qualitative Study.",
    "title_zh": "",
    "abstract": "<h4>Aims</h4>To explore relatives' experiences of the circulatory death of a family member following out-of-hospital cardiac arrest and to explore their hypothetical perspectives on being asked to decide about organ donation in this situation. This study forms part of a broader initiative undertaken to assess the prerequisites for implementing uncontrolled donation after circulatory death in Sweden with a focus on ethical issues.<h4>Design</h4>A qualitative design, using semi-structured interviews with open-ended questions.<h4>Methods</h4>Data were collected in Sweden between March 2024 and September 2024 and analysed using reflexive thematic analysis with an inductive, descriptive approach. Included were 13 bereaved relatives, four men and nine women.<h4>Findings</h4>The analysis generated three themes: 'Fluctuating between hope and despair', which describes relatives' experiences of their family member's sudden cardiac arrest; 'Exposed to vulnerability', concerning their experiences of death and their perspectives on reasoning about the deceased person's wishes regarding donation; and 'Balancing a major life change', which involves experiences of facilitators and barriers to dealing with the loss.<h4>Conclusions</h4>Awareness of the deceased family member's wishes regarding organ donation facilitates relatives' ability to support the deceased's known or presumed wishes. Compassionate and communicatively competent healthcare professionals influence relatives' capacity to reason about the deceased's wishes and cope with their experience of loss. Ensuring sufficient time for goodbyes and providing follow-up may facilitate emotional processing and should be considered when implementing uncontrolled donation after circulatory death.<h4>Implication for the profession</h4>Po…",
@@ -21287,7 +21754,8 @@
     "OHCA"
    ],
    "sources": [
-    "europepmc"
+    "europepmc",
+    "pubmed"
    ],
    "oa_pdf": "https://doi.org/10.1111/jan.70603",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41937429/",
@@ -24919,6 +25387,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/41783544/",
    "translation": "",
    "added": "2026-07-02"
+  },
+  {
+   "pmid": "42872019",
+   "doi": "10.47176/mjiri.40.60",
+   "pmcid": "",
+   "title": "A Systematic Review of Pain Assessment Tools in Prehospital Emergency Care: Evidence from Observational Studies",
+   "title_zh": "",
+   "abstract": "Background In the prehospital setting, pain assessment and documentation are often insufficient due to time constraints and high workload. Although validated tools such as the Numerical Rating Scale (NRS), Visual Analogue Scale (VAS), and Verbal Rating Scale (VRS) exist for rapid pain assessment, their use in emergency medical services (EMS) remains unclear. Methods This systematic review was conducted according to the PRISMA 2020 guidelines. A comprehensive search of PubMed, Web of Science, Scopus, and Google Scholar databases was performed for observational studies conducted in prehospital emergency settings, including both trauma and mixed patient populations reporting pain assessment practices. Results Of the 1,834 identified articles, 8 studies in which pain intensity was measured using standard instruments such as NRS, VAS, or VRS were eligible for inclusion. The results showed that the documentation and assessment of pain in the prehospital setting were performed in only 22.5% to 46.7% of patients, indicating a generally low frequency of pain evaluation before hospital admission. Across the included observational studies, EMS-related pain management interventions were reported to be associated with reductions in pain intensity; however, due to methodological heterogeneity and the absence of quantitative synthesis, the magnitude of these changes could not be reliably estimated. Conclusion Pain recording and assessment in the prehospital setting are below recommended standards, and only a limited proportion of patients are systematically monitored. This deficiency can lead to inadequate decision-making in pain management. Strengthening the training of EMS personnel for recording pain is essential to improve the quality of care.",
+   "abstract_zh": "",
+   "journal": "Medical Journal of The Islamic Republic of Iran",
+   "date": "2026-02-25",
+   "authors": "S. M. Hosseini Kasnavieh 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.47176/mjiri.40.60",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42872019/",
+   "translation": "",
+   "added": "2026-10-18"
   },
   {
    "pmid": "41862375",
@@ -29243,7 +29733,7 @@
    "sources": [
     "semanticscholar"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://tsaco.bmj.com/content/11/1/e002132.full.pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/41509885/",
    "translation": "",
    "added": "2026-08-09"
