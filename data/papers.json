@@ -1,6 +1,328 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-25",
  "papers": [
+  {
+   "pmid": "42901186",
+   "doi": "10.1016/s2468-2667(26)00200-8",
+   "pmcid": "",
+   "title": "A multifaceted intervention to increase bystander CPR rates after out-of-hospital cardiac arrest in France: a stepped-wedge, cluster-randomised, controlled trial.",
+   "title_zh": "",
+   "abstract": "Bystander cardiopulmonary resuscitation (CPR) is a key determinant of survival after out-of-hospital cardiac arrest (OHCA), but rates remain suboptimal worldwide. We evaluated whether a multifaceted intervention targeting emergency dispatch systems and community response could increase bystander-initiated CPR before emergency medical service (EMS) arrival. We conducted a stepped-wedge, cluster-randomised trial in 15 French EMS agencies. The intervention combined dispatcher training for early recognition of cardiac arrest and telephone-assisted CPR, activation of trained volunteers through a geolocation smartphone application, and structured audit and feedback provided to EMS agencies. Consecutive adults (≥18 years) with non-traumatic OHCA were included. Randomisation was stratified by tercile of OHCA volume managed by each EMS in 2015. The intervention was implemented during a 1-month transition period before the intervention period at each EMS centre. A dedicated protocol guided dispatchers to identify cardiac arrest from unresponsiveness and abnormal breathing, then gave scripted compression-only instructions and activated volunteers, targeting recognition within 60 s of call pick-up and first compression within a further 60 s. The primary outcome was bystander-initiated CPR before EMS arrival. The trial was prospectively registered on ClinicalTrials.gov (NCT03633370) and is completed. Of the 15 EMS agencies initially randomised, two withdrew before recruitment began and were replaced, and one enrolled no patients. Therefore, between Aug 27, 2018, and Feb 20, 2022, 14 EMS agencies recruited a total of 2160 patients. The intention-to-treat analysis included 1684 patients (686 control, 998 intervention) enrolled across the 12 originally randomised EMS agencies. The mean…",
+   "abstract_zh": "",
+   "journal": "Lancet Public Health",
+   "date": "2026-11-01",
+   "authors": "Debaty G 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42901186/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42901178",
+   "doi": "10.1016/s2468-2667(26)00224-0",
+   "pmcid": "",
+   "title": "To increase bystander CPR rates after out-of-hospital cardiac arrest, bystanders alone are not sufficient.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Lancet Public Health",
+   "date": "2026-11-01",
+   "authors": "Heidet M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42901178/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42926135",
+   "doi": "10.1093/ehjacc/zuag132",
+   "pmcid": "",
+   "title": "Earlier Versus Later Extracorporeal Cardiopulmonary Resuscitation in Refractory Out-of-Hospital Cardiac Arrest: A Nationwide Sequential Landmark Target Trial Emulation.",
+   "title_zh": "",
+   "abstract": "Extracorporeal cardiopulmonary resuscitation (ECPR) may improve outcomes in refractory out-of-hospital cardiac arrest (OHCA), but the optimal timing of initiation remains uncertain, partly because prior comparisons did not restrict controls to patients still in refractory arrest at the same decision point. We employed target trial emulation with a sequential landmark design in the Korean nationwide OHCA registry (2016-2023). Among patients with presumed cardiac aetiology who were still receiving emergency department (ED) CPR 15 minutes after ED arrival, landmarks were set at 15, 30, and 60 minutes, each comparing ECPR initiation within the subsequent window with no ECPR during that window among patients still in refractory arrest. Treatment effects were adjusted risk differences estimated by propensity score overlap weighting with 22 covariates. Of 58,668 patients with refractory OHCA, 909 received ECPR. Weighted 30-day survival (ECPR vs. control) was 31.0% vs. 16.0%, 21.6% vs. 7.2%, and 10.9% vs. 3.2% at the 15-, 30-, and 60-minute landmarks; adjusted risk differences were +15.0 percentage points (95% CI 8.0 to 22.0), +14.4 (10.4 to 18.4), and +7.7 (3.7 to 11.7) (all P<.001). Favourable neurological outcomes showed a similar pattern, and in the exploratory timing-gradient analysis, the adjusted risk difference decreased with longer door-to-ECMO times but remained statistically significant through 120 minutes. ECPR was associated with improved survival and neurological outcomes at every landmark, including initiation beyond 60 minutes, where weighted 30-day survival with continued conventional CPR was 3.2%. Benefit was largest with early initiation but did not disappear at the commonly applied 60-minute benchmark, which may be overly restrictive for selected patients in…",
+   "abstract_zh": "",
+   "journal": "Eur Heart J Acute Cardiovasc Care",
+   "date": "2026-10-25",
+   "authors": "Sim JH 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42926135/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42924421",
+   "doi": "10.1093/ajrccm/aamag566",
+   "pmcid": "",
+   "title": "GDF-15 as an early marker for prognosis in patients with out-of-hospital cardiac arrest - Experience from the HAnnover COoling REgistry.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Am J Respir Crit Care Med",
+   "date": "2026-10-23",
+   "authors": "Akin M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42924421/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42909662",
+   "doi": "10.1080/20964129.2020.1749530",
+   "pmcid": "",
+   "title": "Association between nighttime heat exposure and emergency hospitalization for out-of-hospital cardiac arrest: A time-stratified case-crossover study in Japan.",
+   "title_zh": "",
+   "abstract": "Few studies have explored the adverse health effects of nighttime heat exposure. This study examined the association between nighttime heat exposure and emergency hospitalization for out-of-hospital cardiac arrest (OHCA) in Japan. Hospitalizations were identified from a nationwide administrative database covering the period from May to September between 2011 and 2021. Days with minimum temperatures higher than region-specific 92.5th percentile temperatures were considered as exposed to nighttime heat. Daily maximum temperature was adjusted for as a proxy for daytime heat exposure. First, a time-stratified case-crossover study using conditional quasi-Poisson regression analysis was conducted to estimate location-specific heat-related relative risks (RRs) of emergency hospitalization for OHCA over lag 0-6 days. Second, a random-effects meta-analysis was conducted to estimate pooled RRs. The analysis was further stratified by age, sex, and region. Third, in an attempt to account for the geographical heterogeneity in RRs, the location-specific penetration rate of air conditioners (ACs) was included as a meta-regressor. A total of 135,898 hospitalizations for OHCA were identified. Nighttime heat exposure was associated with increased emergency hospitalizations for OHCA (RR: 1.090 (95% confidence interval (CI): 1.047-1.135). Higher RRs were observed among people aged ≥ 75 years and females living in northern areas (1.295 (95%CI: 1.117-1.500) and 1.352 (95%CI: 1.145-1.596), respectively). In locations with a lower penetration rate of ACs, females and those aged ≥ 75 years were at higher RRs.",
+   "abstract_zh": "",
+   "journal": "Int J Biometeorol",
+   "date": "2026-10-23",
+   "authors": "Nishimura H 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42909662/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42913337",
+   "doi": "10.1016/j.jacadv.2026.103380",
+   "pmcid": "",
+   "title": "Reappraising Out-of-Hospital Cardiac Arrest in Patients With Cancer.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "JACC Adv",
+   "date": "2026-10-22",
+   "authors": "Vasbinder A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42913337/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42911820",
+   "doi": "10.1080/10903127.2026.2753002",
+   "pmcid": "",
+   "title": "Rapid Transport to Extracorporeal CPR: Urging Caution Prior to Implementation.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) has survival that remains near 10% despite years of research and advancements in care. Extracorporeal cardiopulmonary resuscitation (ECPR) has been explored as an option for patients who suffer OHCA and are refractory to traditional therapies. In nearly every system that implements ECPR for OHCA, there is a requirement to incorporate intra-arrest transport (IAT). There are three major randomized controlled trials which have evaluated the role of ECPR in OHCA. These include ARREST, INCEPTION, and Prague OHCA. While ARREST has the strongest data to support ECPR, it includes only 30 patients. The larger trials such as INCEPTION and Prague OHCA did not show statistically significant results in favor of ECPR. Each trial has a unique study design and statistical analysis.The current evidence is not strong enough to support widespread adoption of ECPR into the prehospital systems of care. Examining the statistical pitfalls, potential biases, and methodological confounders of the existing ECPR literature against the background of previously reported data surrounding IAT─the full impact of effect of ECPR cannot exclude consideration of the impact of the effect of IAT. As more data is needed to better understand the full impact of implementing ECPR into a system of care, we encourage caution and thoughtful analysis to leaders who may be considering the addition of ECPR into an existing system of care. ECPR shows early promise for select patients. The development of an ECPR system is complex and has numerous facets, typically including the incorporation of early IAT for OHCA. At this time, more studies are needed on the full impacts of implementing ECPR into a system of care for OHCA.",
+   "abstract_zh": "",
+   "journal": "Prehosp Emerg Care",
+   "date": "2026-10-22",
+   "authors": "Kimbrell JM 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42911820/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42905143",
+   "doi": "10.1016/j.resuscitation",
+   "pmcid": "",
+   "title": "Guideline adherence in helicopter versus ground emergency medical services: an indication-based analysis of 129,783 patients from the TraumaRegister DGU®.",
+   "title_zh": "",
+   "abstract": "Helicopter emergency medical services (HEMS) are associated with higher intervention rates and improved access to specialized trauma centers compared with ground emergency medical services (GEMS). However, it remains unclear whether these differences reflect increased intervention intensity alone or more consistent implementation of guideline-recommended care. This study aimed to compare rates of selected guideline-recommended prehospital trauma interventions between HEMS and GEMS using a nationwide trauma registry. This retrospective multicenter cohort study was based on data from the TraumaRegister DGU® (TR-DGU) from 2016 to 2024. Adult patients (≥ 16 years) with severe trauma, defined as maximum Abbreviated Injury Scale (MAIS) ≥ 3, receiving physician-staffed prehospital care and primary admission to German trauma centers were included. After exclusion of secondary transfers, missing key data, and treatment in local trauma centers (level 3), 129,783 patients remained, of whom 25.0% were transported by HEMS. Rates of selected interventions recommended by the German S3 guideline on the treatment of polytrauma/severe injuries were assessed using predefined indication-based subgroups derived from available registry variables as surrogates for potential clinical indications to improve comparability between transport modalities. Analyses were performed descriptively. Patients transported by HEMS were younger and more severely injured than those transported by GEMS (mean ISS 23.5 vs. 20.8; ISS ≥ 16: 72.9% vs. 65.4%) and more frequently presented with impaired consciousness and shock. Across all predefined indication-based subgroups, HEMS was associated with higher rates of the evaluated interventions, including advanced airway management in patients with impaired consciousn…",
+   "abstract_zh": "",
+   "journal": "Eur J Trauma Emerg Surg",
+   "date": "2026-10-21",
+   "authors": "Faul P 等",
+   "tags": [
+    "氣道",
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42905143/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42907747",
+   "doi": "10.1136/thx.2008.109785",
+   "pmcid": "PMC2782114",
+   "title": "Prognostic value of early point-of-care blood gas analysis in critically ill non-trauma patients.",
+   "title_zh": "",
+   "abstract": "Critically ill non-trauma patients treated in the emergency department have a high risk of in-hospital mortality. While point-of-care diagnostics such as blood gas analysis are established tools for urgent management, data on their prognostic value in this specific patient cohort remain limited. This study aimed to evaluate whether initial blood gas parameters are independently associated with in-hospital mortality in critically ill non-trauma patients. This retrospective cohort study included adult critically ill non-trauma patients treated in the emergency department of a German university hospital. Initial blood gas parameters and clinical data were analyzed using univariate and multivariable logistic regression to assess their association with in-hospital mortality. Of 879 screened patients, 542 met the inclusion criteria. In-hospital mortality was 20% (n = 110). In addition to older age and out-of-hospital cardiac arrest, anemia (hemoglobin < 12 g/dL; OR of 2.07, 95% CI 1.20-3.58; p = 0.009), acidosis (pH < 7.35; OR 2.26, 95% CI 1.09-4.95; p = 0.033) and hypobicarbonatemia (< 22 mmol/L; OR 2.79, 95% CI 1.42-5.69; p = 0.004) were independently associated with in-hospital mortality. The association for hyperlactatemia was borderline (> 2.2 mmol/L; OR 1.85, 95% CI 0.93-3.77; p = 0.08). Multivariate analysis did not reveal significant associations between other electrolyte imbalances and in-hospital mortality in this cohort. In this retrospective cohort, the presence of anemia, acidosis or hypobicarbonatemia on admission to the resuscitation room were independently associated with an elevated risk of in-hospital mortality in critically ill non-trauma patients. These readily available point-of-care parameters may support early risk stratification. Prospective studies ar…",
+   "abstract_zh": "",
+   "journal": "BMC Emerg Med",
+   "date": "2026-10-21",
+   "authors": "Maier-Stocker C 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2782114/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42907747/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42906771",
+   "doi": "10.1016/j.resuscitation.2026.111368",
+   "pmcid": "",
+   "title": "Pitfalls in assessing graft outcomes from donors initially treated with ECPR for out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-10-21",
+   "authors": "Soumagnac T 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42906771/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42901371",
+   "doi": "10.1016/j.resuscitation.2026.111359",
+   "pmcid": "",
+   "title": "Fatigue, Anxiety and Depression 12 Months After Out-of-Hospital Cardiac Arrest: A Population Based Cohort Study.",
+   "title_zh": "",
+   "abstract": "To determine the prevalence and factors associated with fatigue, anxiety, and depression 12 months after out-of-hospital cardiac arrest (OHCA); examine their associations with health-related quality of life (HRQoL) and functional recovery; and compare symptom burden with population norms. This prospective, population-based cohort study included adults (≥18 years) who received EMS-attempted resuscitation and survived to hospital discharge following non-traumatic OHCA in Victoria, Australia, between July 2019 and June 2022. Survivors were identified from a statewide OHCA registry and completed a 12-month telephone interview. Primary outcomes were fatigue (Modified Fatigue Impact Scale), anxiety and depression (Hospital Anxiety and Depression Scale). Secondary outcomes included HRQoL (EQ-5D, SF-12), functional recovery (GOSE), living arrangement, and return to work. Of 1068 eligible 12-month survivors, 728 (68.2%) completed follow-up (median age 61 years; 555 [76.2%] male). Fatigue was reported by 35.8% (250/699), anxiety by 22.6% (162/716), and depression by 18.0% (129/716). Higher symptom burden was associated with lower EQ-5D and SF-12 scores, worse GOSE outcomes (all p<0.001) and reduced return-to-work rates. Compared with population norms, survivors reported greater fatigue (SMD 0.64; 95%CI, 0.50-0.78;p<0.001), and depression (SMD, 0.12; 95%CI, 0.02,0.21;p=0.02) but lower anxiety (SMD, -0.27; 95%CI, -0.35 to -0.18;p<0.001). In adjusted models, younger age, preexisting anxiety or depression, diabetes and initial non-shockable arrest were associated with higher symptom burden, whereas EMS-witnessed arrests were associated with lower symptom burden. Fatigue, anxiety, and depression were common at 12 months after OHCA and are associated with poorer recovery. Fatigue excee…",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-10-20",
+   "authors": "Okyere DO 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42901371/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42901370",
+   "doi": "10.1016/j.resuscitation.2026.111362",
+   "pmcid": "",
+   "title": "Regional implementation of a prehospital advanced life support program with video-assisted physician direction and outcomes after out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "The smart advanced life support (SALS) program was introduced to provide prehospital advanced life support under real-time video-assisted physician direction for out-of-hospital cardiac arrest (OHCA). This study evaluated the association between regional SALS implementation and OHCA outcomes. This retrospective cohort study used difference-in-differences and event-study analyses with data from the OHCA surveillance system in South Korea and included adult OHCA cases (aged ≥19 years) from 2 years before through 4 years after SALS implementation in August 2015. The exposure was region-level implementation of SALS. Outcomes were the prehospital time interval, prehospital return of spontaneous circulation (ROSC), survival to discharge, and favorable neurological outcome. Pre- to post-implementation changes were compared between regions with and without SALS. A total of 129,207 cases were included. SALS regions had greater increases in the prehospital time interval (4.12 minutes; 95% confidence interval [CI], 2.91 to 5.33) and prehospital ROSC (1.35 percentage points; 95% CI, 0.56 to 2.15) than regions without SALS. No significant additional improvements were observed in survival to discharge (-0.35 percentage points; 95% CI, -1.31 to 0.62) or favorable neurological outcome (-0.35 percentage points; 95% CI, -1.08 to 0.37). Event-study analyses suggested differential pre-intervention trends for prehospital time, but not for the other outcomes. SALS regions showed greater increases in prehospital time and prehospital ROSC without significant improvements in survival to discharge or favorable neurological outcome, but the finding for prehospital time should be interpreted cautiously because differential pre-intervention trends were observed.",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-10-20",
+   "authors": "Choi Y",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42901370/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42901366",
+   "doi": "10.1016/j.resuscitation.2026.111364",
+   "pmcid": "",
+   "title": "Real-time feedback during bag-valve-mask ventilation for out-of-hospital cardiac arrest: a before-and-after study (VEntilation during Cardiac Arrest Resuscitation Study, VECARS-2).",
+   "title_zh": "",
+   "abstract": "This study compared bag-valve-mask ventilation quality and adherence to the guideline-recommended ventilation volume range during 30:2 cardiopulmonary resuscitation for out-of-hospital cardiac arrest before and after the implementation of real-time feedback. We conducted a before-and-after observational study of two sequential adult cohorts with out-of-hospital cardiac arrest managed by basic life support teams from the Paris Fire Brigade. A bidirectional sensor measured insufflated volume (Vi) and expiratory tidal volume (Vt). The display was masked during Period-1 and provided real-time feedback during Period-2. We assessed adherence to the guideline-recommended range using mixed-effects regression; we analyzed Vt and leak volume using gamma log-link generalized linear mixed models. We analyzed 4,300 ventilations in 163 patients, 96 without feedback and 67 with feedback. Median Vi was lower with feedback (471 mL) than without (513 mL, p=0.03 for the first ventilation of each cycle) but median Vt was unchanged (235 vs. 243 mL, p=0.84). Vi dispersion was reduced by 35% (mean within-patient IQR ratio 0.65 [95%-CI, 0.53-0.77]). Vi was 400-600 mL in 68% of ventilations with feedback vs. 42% without feedback. In contrast, Vt was 400-600 mL in only 14% of ventilations with feedback vs. 15% without feedback. In multivariable analysis, leak volume was 12% lower with feedback (mean ratio, 0.88 [95%-CI, 0.77-0.99]). Real-time feedback was associated with improved adherence to the guideline-recommended range for Vi, less dispersed Vi,and lower leak volume. Causal inference, clinical significance, and generalizability warrant further evaluation.",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-10-20",
+   "authors": "Jost D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42901366/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42897407",
+   "doi": "10.1056/nejmoa010307",
+   "pmcid": "6910990",
+   "title": "Race, Gender, and Survival: a Scoping Review of Disparities in ICU Post-Resuscitation Care and Neurological Outcomes Following Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "Racial and ethnic disparities in healthcare are well documented, yet limited attention has been given to the intersection of race/ethnicity and gender in high-acuity critical care. Black women experience compounded inequities affecting access to and quality of intensive care unit (ICU) treatment following out-of-hospital cardiac arrest (OHCA). Because outcomes after OHCA are influenced by each link in the chain of survival, disparities in early intervention and subsequent clinical decision-making may contribute to differences in survival and neurological recovery. This study synthesizes evidence on disparities in ICU treatment and outcomes among Black women in the United States while examining how inequities across the chain of survival may influence post-resuscitation care, neurocritical care, and outcomes following OHCA. We conducted a scoping review, guided by the Arksey and O'Malley framework, to analyze peer-reviewed studies identified through electronic databases (e.g., PubMed, CINAHL, and ScienceDirect). Fifteen studies met inclusion criteria and were analyzed using thematic synthesis. Findings indicate persistent disparities, including lower bystander cardiopulmonary resuscitation (CPR) rates, delayed emergency response, reduced access to ICU interventions, and higher rates of early do-not-resuscitate (DNR) orders and withdrawal of life-sustaining therapies (WLST). These inequities may contribute to poorer outcomes and likely reflect a combination of systemic, institutional, and social factors, although relatively few studies directly examined Black women from an intersectional perspective. Addressing these disparities requires improved data disaggregation, culturally responsive care, and interdisciplinary interventions to promote equitable post-resuscitation ca…",
+   "abstract_zh": "",
+   "journal": "J Racial Ethn Health Disparities",
+   "date": "2026-10-19",
+   "authors": "Gorée T 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/6910990/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42897407/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
   {
    "pmid": "42887280",
    "doi": "10.1016/j.jss.2026.09.016",
@@ -18,7 +340,8 @@
     "外傷"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42887280/",
@@ -48,6 +371,75 @@
    "added": "2026-10-18"
   },
   {
+   "pmid": "42921171",
+   "doi": "10.1097/ta.0000000000004378",
+   "pmcid": "PMC12278122",
+   "title": "Establishing a regional prehospital whole blood program in a border community: the Trauma Regional Advisory Council-V initiative in the Rio Grande Valley of Texas.",
+   "title_zh": "",
+   "abstract": "Hemorrhagic shock is a leading cause of preventable death after traumatic injury, and the prehospital interval is the most critical, underused window for hemostatic intervention. Low Titer O-Positive Whole Blood (WB) improves survival in military and civilian settings, yet its implementation in rural, border-region communities with limited healthcare infrastructure remains largely undescribed. The Rio Grande Valley (RGV) of Texas-a predominantly Hispanic, medically underserved region along the USA-Mexico border-presents logistical, demographic, and infrastructural challenges that make prehospital hemorrhage control both harder and more consequential. We describe how the Trauma Regional Advisory Council-V (TRAC-V, Cameron, Hidalgo, Starr, and Willacy counties, South Texas) conceptualized, operationalized, and expanded a regional prehospital WB program across four RGV counties, encompassing emergency medical service (EMS) agencies and trauma-receiving hospitals. The region is defined by extended transport intervals, a predominantly rural, medically underserved population, limited trauma infrastructure relative to population burden, and high injury rates. A phased, stakeholder-driven implementation methodology spanned eight domains: (1) stakeholder engagement and governance development; (2) memorandum of understanding between TRAC-V, the South Texas Blood and Tissue Center, EMS agencies, and hospitals; (3) evidence-based clinical protocols and transfusion criteria; (4) a structured blood product rotation system to minimize waste; (5) standardized provider training and credentialing; (6) regional data collection and quality improvement; (7) grant funding and equitable equipment distribution to rural EMS agencies; and (8) community blood drive engagement. The TRAC-V regional…",
+   "abstract_zh": "",
+   "journal": "Trauma Surg Acute Care Open",
+   "date": "2026-10-16",
+   "authors": "Skubic J 等",
+   "tags": [
+    "止血帶"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12278122/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42921171/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42926185",
+   "doi": "10.1016/j.ajem.2026.10.014",
+   "pmcid": "",
+   "title": "Association of calculated weight-indexed first-bolus epinephrine with outcomes after out-of-hospital cardiac arrest: EPIKILO study.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Am J Emerg Med",
+   "date": "2026-10-16",
+   "authors": "Marouk A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42926185/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42918714",
+   "doi": "10.1016/j.injury.2026.113779",
+   "pmcid": "",
+   "title": "Pre-hospital pulse pressure as an early predictor of active hemorrhage in trauma patients.",
+   "title_zh": "",
+   "abstract": "Early identification of active hemorrhage (AH) is a critical challenge in trauma care. Narrowed pulse pressure (PP) has been associated with AH at the time of emergency department arrival; however, its role in the prehospital setting remains unclear. The aim of this study was to evaluate the utility of prehospital PP as an early predictor of AH in trauma. We conducted a retrospective multi-centre study (January 2017 - January 2020) including adult trauma patients at all three level 1 trauma centers in Alberta, Canada. AH was defined as either operative or interventional radiology hemorrhage control within 24 h of arrival, or transfusion of ≥ 4 units of packed red blood cells within 4 h. ROC and multivariable logistic regression analyses were used to characterize associations between prehospital PP and AH. 2177 patients met inclusion criteria, of whom 68 (3%) had active hemorrhage. Compared to non-bleeding patients, AH patients had significantly narrower median prehospital PP (40 mmHg, IQR 29-52 vs 53, IQR 42-67; p < 0.001) and lower median systolic blood pressure (SBP; 111 mmHg, IQR 101-136 vs 138, IQR 122-156; p < 0.001). Prehospital PP demonstrated moderate ability to predict hemorrhage (AUC 0.73, 95% CI 0.67-0.79), comparable to SBP (AUC 0.74, 95% CI 0.67-0.81). Narrowed prehospital PP was independently associated with AH (odds ratio 1.51, 95% CI 1.28-1.79), reflecting a 51% increase in the risk of hemorrhage for each 10 mmHg the PP narrowed. Compared to non-bleeding patients, AH patients had worse outcomes including increased risk of ICU admission (63% vs 18%; p < 0.001), prolonged hospital length of stay (22 days, IQR 8-53 vs 7 days, IQR 4-15; p < 0.001), and increased mortality, although this did not reach statistical significance (18% vs 10%; p = 0.068). Prehospi…",
+   "abstract_zh": "",
+   "journal": "Injury",
+   "date": "2026-10-15",
+   "authors": "Czarnecka Z 等",
+   "tags": [
+    "止血帶",
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42918714/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
    "pmid": "42872556",
    "doi": "10.22037/aaem.v11i1.2012",
    "pmcid": "PMC10197907",
@@ -63,7 +455,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10197907/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42872556/",
@@ -93,6 +486,28 @@
    "added": "2026-10-18"
   },
   {
+   "pmid": "42880808",
+   "doi": "10.1097/ta.0000000000003675",
+   "pmcid": "PMC9323558",
+   "title": "Characteristics and outcomes of haemorrhage, traumatic brain injury and combined injuries from a South African Trauma Cohort Study.",
+   "title_zh": "",
+   "abstract": "To describe and compare injury severity, clinical management and mortality among haemorrhage, traumatic brain injury (TBI) and combined haemorrhage+TBI cohorts in a South African trauma population. Secondary analysis of data from the Epidemiology and Outcomes of Prolonged Trauma Care (EpiC) multicentre observational cohort study, April 2021 to December 2024. Six government health facilities and affiliated government ambulances across the Western Cape, South Africa. 18 840 adult patients with blunt and/or penetrating traumatic injuries enrolled in the EpiC registry were eligible for this secondary analysis. Patients <18 years of age and prisoners are excluded from EpiC. Burn injuries, non-haemorrhage and non-TBI injuries were excluded from this analysis. Patients were assigned to one of three mutually exclusive cohorts (haemorrhage, TBI or haemorrhage+TBI) using anatomic and physiologic criteria. The primary outcome was crude, all-cause prehospital or in-hospital mortality. Mantel-Haenszel risk ratios (RRs) for mortality were adjusted for injury severity, injury force type and mode of prehospital transportation. Secondary outcomes included critical interventions, hospital admission, length of stay and time from injury to death. A total of 7614 patients met inclusion: 5146 (67.6%) haemorrhage, 1556 (20.4%) TBI and 912 (12.0%) haemorrhage+TBI. The majority were male (85.1%) with a median age of 31 years. Patients with haemorrhage+TBI received more intensive care, including airway interventions (38%), transfusions (41%) and intensive care unit admissions (36%). Crude mortality was highest in haemorrhage+TBI (31.3%), followed by TBI (7.7%) and haemorrhage (5.4%). After injury-pattern specific severity adjustment, mortality risk remained significantly higher in haemorrhage+TB…",
+   "abstract_zh": "",
+   "journal": "BMJ Open",
+   "date": "2026-10-14",
+   "authors": "Tucker MA 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9323558/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42880808/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
    "pmid": "42867902",
    "doi": "10.1556/2060.2026.00960",
    "pmcid": "",
@@ -107,9 +522,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1556/2060.2026.00960",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42867902/",
    "translation": "",
    "added": "2026-10-18"
@@ -129,7 +545,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9170852/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42870300/",
@@ -151,7 +568,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42869641/",
@@ -173,7 +591,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11168120/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42862803/",
@@ -195,9 +614,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.4103/aca.aca_323_25",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42862678/",
    "translation": "",
    "added": "2026-10-18"
@@ -240,7 +660,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492914/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42857397/",
@@ -535,7 +956,8 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7455355/",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42891070/",
@@ -587,6 +1009,51 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42844129/",
    "translation": "",
    "added": "2026-10-12"
+  },
+  {
+   "pmid": "42927342",
+   "doi": "10.1016/j.resplu.2026.101525",
+   "pmcid": "PMC13695377",
+   "title": "Temporal trends in bystander cardiopulmonary resuscitation and favourable neurological outcome among older patients with out-of-hospital cardiac arrest stratified by bystander-patient relationship and age: a JCS-ReSS study.",
+   "title_zh": "",
+   "abstract": "To describe temporal trends in bystander cardiopulmonary resuscitation (CPR) and favourable neurological outcomes among older patients with bystander-witnessed out-of-hospital cardiac arrest (OHCA) according to bystander-patient relationship and age. A total of 322,943 patients aged ≥65 years with bystander-witnessed OHCA of cardiac origin were enrolled from the All-Japan Utstein Registry (2005-2022). Patients were stratified by age (65-74, 75-89, and ≥90 years) and bystander type (family member, friend/colleague/passerby, or other). Temporal trends in the proportions of bystander CPR and favourable neurological outcome at 1-month, defined as Cerebral Performance Category (CPC) 1-2, were assessed using the Cochran-Armitage test. During the study period, the annual proportions of bystander CPR and CPC 1-2 in family member-witnessed OHCAs significantly increased across all age groups (all p for trend <0.001). However, bystander CPR remained at approximately 50% in all age groups. In other-witnessed OHCAs, bystander CPR also significantly increased across all age groups (all p for trend <0.001). However, CPC 1-2 significantly increased only in those aged 65-74 years (p for trend <0.05), with no significant temporal trend in older groups. Among those aged ≥90 years, bystander CPR increased to approximately 80%, whereas CPC 1-2 remained at approximately 1%, with no significant temporal trend. Temporal trends in bystander CPR and CPC 1-2 varied according to bystander-patient relationship and age. Further investigation is warranted to identify the factors underlying the observed differences in bystander CPR and favourable neurological outcomes.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-07",
+   "authors": "Funada A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13695377/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927342/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42907321",
+   "doi": "10.1016/j.acvd.2026.09.003",
+   "pmcid": "",
+   "title": "Letter in response to the article entitled \"Chronic total occlusion and outcomes after out-of-hospital cardiac arrest with ST-segment elevation myocardial infarction\" by Pham et al.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Arch Cardiovasc Dis",
+   "date": "2026-10-07",
+   "authors": "Güner A 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42907321/",
+   "translation": "",
+   "added": "2026-10-25"
   },
   {
    "pmid": "42838865",
@@ -816,6 +1283,72 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42837494/",
    "translation": "",
    "added": "2026-10-12"
+  },
+  {
+   "pmid": "42927346",
+   "doi": "10.1016/j.resplu.2026.101514",
+   "pmcid": "PMC13695374",
+   "title": "Rhythm-specific regional variation in neurological outcomes after out-of-hospital cardiac arrest: a nationwide registry study in Japan.",
+   "title_zh": "",
+   "abstract": "Regional variation in outcomes after out-of-hospital cardiac arrest (OHCA) has been reported worldwide; however, whether its magnitude differs by initial cardiac rhythm remains unknown. This study aimed to evaluate prefecture-level variation in neurological outcomes after OHCA according to initial cardiac rhythm. This retrospective observational study included adult patients with atraumatic OHCA registered in the All-Japan Utstein Registry from 2019 to 2023. Patients were categorized as presenting with a shockable rhythm, pulseless electrical activity (PEA), or asystole according to the initial cardiac rhythm. Mixed-effects logistic regression models were fitted separately for each rhythm group, with favorable neurological outcome at 1 month (defined as a Cerebral Performance Category of 1-2) as the dependent variable and prefecture as a random effect. Prefecture-level variation was quantified using the median odds ratios (MORs). Among 616,519 participants, 46,575 had a shockable rhythm, 142,073 had PEA, and 427,871 had asystole. Favorable neurological outcomes occurred in 22.3%, 2.7%, and 0.2% of patients, respectively. The MORs were 1.19 for shockable rhythm, 1.31 for PEA, and 1.65 for asystole, indicating progressively greater prefecture-level variation across rhythm categories. The magnitude of prefecture-level variation in favorable neurological outcomes differed by initial cardiac rhythm categories and was greatest among patients with asystole. The mechanisms underlying these regional differences remain unclear. Future investigations of regional and healthcare system characteristics may help identify potentially modifiable factors associated with disparities in OHCA outcomes.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-06",
+   "authors": "Shinada K 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13695374/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927346/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42927144",
+   "doi": "10.1016/j.resplu.2026.101522",
+   "pmcid": "PMC13694750",
+   "title": "Age-specific trends in poisoning-related out-of-hospital cardiac arrest in Japan: a retrospective nationwide registry study.",
+   "title_zh": "",
+   "abstract": "Poisoning-related out-of-hospital cardiac arrest (OHCA) may have distinct age-specific trends. We examined temporal changes in its proportion among all OHCA, population-based incidence, and neurological outcomes in Japan. In this retrospective nationwide registry study, we analyzed adults aged ≥18 years OHCA treated by emergency medical services (EMS) in the Japanese Utstein registry from 2013 to 2023. Age-specific logistic regression estimated annual trends in the proportion of poisoning-related OHCA, adjusted for age and sex. Poisson regression with age-group population as the exposure estimated incidence trends. Neurological outcome trends were examined secondarily. Among 1,400,951 adults with OHCA treated by EMS, 3723 (0.27%) had poisoning-related OHCA. In adults aged 18-29 years, the adjusted odds of poisoning-related OHCA increased (odds ratio per year, 1.027; 95% CI, 1.001-1.054), whereas population-based incidence showed a nonsignificant upward trend (incidence rate ratio, 1.020; 95% CI, 0.995-1.046). All-cause OHCA incidence declined among adults aged 18-29 years (incidence rate ratio, 0.991; 95% CI, 0.983-0.9997). The poisoning proportion decreased at ages 50-64 and ≥65 years; poisoning incidence declined significantly only at ≥65 years. Favorable neurological outcome after poisoning-related OHCA showed no clear improvement (adjusted odds ratio per year, 0.998; 95% CI, 0.949-1.050). Poisoning-related OHCA became increasingly prominent among young adults but declined among older adults. Although the incidence increase in young adults was not statistically significant, its upward direction, declining all-cause OHCA incidence, and lack of clear neurological outcome improvement suggest increasing clinical importance of poisoning-related OHCA in young adults.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-06",
+   "authors": "Chiba T 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13694750/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927144/",
+   "translation": "",
+   "added": "2026-10-25"
+  },
+  {
+   "pmid": "42927085",
+   "doi": "10.1016/j.resplu.2026.101516",
+   "pmcid": "PMC13695376",
+   "title": "Association between family member bystander CPR and survival for out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "Bystander CPR is associated with higher likelihood of survival in out-of-hospital cardiac arrest (OHCA). Whether family member-administered bystander CPR is associated with higher survival is not fully understood, even though family members are often present when arrests occur at home and are best positioned to initiate CPR. Within the Cardiac Arrest Registry to Enhance Survival (CARES) registry, we conducted a retrospective cohort study. Using multivariable mixed-effect logistic regression, we examined the association between family member (FM) and non-family member (non-FM) bystander CPR, as compared to those not receiving bystander CPR, with a primary outcome of survival to hospital discharge and secondary outcome of favorable neurological survival (survival without severe neurological deficits). We identified 824,960 non-traumatic OHCAs between 2013 and 2024. Mean age was 62.2 ± 17.1 years and 35.6% were female. Overall, 78,139 (9.5%) people survived to hospital discharge. Compared to those with no bystander CPR (7.3%), higher survival rates occurred in those receiving FM-bystander CPR (9.6%; adjusted OR: 1.31 [95% CI: 1.29-1.34], p < 0.001) and non-FM bystander CPR (17.3%; adjusted OR: 1.58 [95% CI: 1.55-1.62], p < 0.001). When directly comparing the two bystander groups, those with non-FM bystander CPR had higher rates of survival than those with FM bystander CPR (adjusted OR: 1.21 [95% CI: 1.18, 1.24], p < 0.001). A similar pattern was observed with the outcome of favorable neurological survival. Both non-FM and FM-bystander CPR were associated with higher survival outcome rates compared to no bystander CPR while non-FM CPR was associated with higher survival compared to FM-CPR.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-06",
+   "authors": "Tatavarthy M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13695376/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927085/",
+   "translation": "",
+   "added": "2026-10-25"
   },
   {
    "pmid": "42833702",
@@ -1392,10 +1925,33 @@
    "sources": [
     "pubmed"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.3390/healthcare14193193",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42881632/",
    "translation": "",
    "added": "2026-10-18"
+  },
+  {
+   "pmid": "42894810",
+   "doi": "10.1016/j.resplu.2026.101508",
+   "pmcid": "PMC8864504",
+   "title": "Prehospital predictors of clinical outcomes in out-of-hospital cardiac arrest with pulseless electrical activity: a JCS-ReSS report.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) with pulseless electrical activity (PEA) has a poor prognosis and is aetiologically heterogeneous. We aimed to identify prehospital predictors of a favourable outcome, overall and by presumed aetiology. This nationwide cohort study analysed 442,630 adults with OHCA and an initial rhythm of PEA from the All-Japan Utstein Registry between 2005 and 2024. The primary outcome was a favourable neurological outcome at 1 month. Two models were fitted, at the scene and at hospital arrival, each also within each aetiology. Epinephrine and advanced airway management (AAM) were assessed by time-dependent propensity score sequential matching. At the scene, a witnessed arrest (risk ratio [RR], 1.65) predicted a favourable neurological outcome, and a longer response time predicted a worse one (RR, 0.66; 10 versus 5 min). The gradient with age was steeper in cardiac than non-cardiac PEA (RR, 0.38 versus 0.78). At hospital arrival, prehospital return of spontaneous circulation (RR, 23.31) was the strongest predictor, but conversion to a shockable rhythm predicted a favourable outcome only in cardiac PEA and a worse outcome in non-cardiac PEA (RR, 1.37 versus 0.73). Standardised to a common covariate distribution, 1-month survival was higher in non-cardiac PEA, whereas a favourable neurological outcome was more likely in cardiac PEA. After time-dependent adjustment, the apparent harm from epinephrine and AAM was attenuated. Prehospital information available before hospital arrival predicted a favourable neurological outcome, but its prognostic meaning depended on the presumed aetiology. These independent prehospital predictors could inform future risk stratification.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-09-28",
+   "authors": "Kosugi S 等",
+   "tags": [
+    "氣道",
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8864504/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42894810/",
+   "translation": "",
+   "added": "2026-10-25"
   },
   {
    "pmid": "42799981",
@@ -16742,7 +17298,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682271/pdf/nihms-2213560.pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42159445/",
    "translation": "",
    "added": "2026-07-02"
