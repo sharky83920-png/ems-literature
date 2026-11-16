@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-16",
  "papers": [
   {
    "pmid": "",
@@ -47,6 +47,376 @@
    "added": "2026-11-02"
   },
   {
+   "pmid": "43024742",
+   "doi": "10.1080/10903127.2026.2761043",
+   "pmcid": "",
+   "title": "Effect of airway assistant training on intubation time during simulated prehospital airway management: A pilot study.",
+   "title_zh": "",
+   "abstract": "Challenging airways are common in the out-of-hospital setting, where delays or failure to secure the airway can result in significant morbidity and mortality. Therefore, this pilot study aimed to determine whether training paramedics in the role of airway assistant improves intubation time during a simulated regurgitating airway using suction-assisted laryngoscopy and airway decontamination (SALAD). Twelve qualified paramedics were randomly allocated to one of two groups (n = 6) and paired with intensive care paramedics (ICPs). Airway assistants in Group 1 completed a one-hour airway assistant training program, whereas airway assistants in Group 2 received no training. Participants completed a standardized, timed simulation using a continuously regurgitating mannequin designed to replicate the challenges of out-of-hospital intubation. The primary outcome was time to successful intubation, defined as passage of the endotracheal tube through the vocal cords with cuff inflation. Airway assistant training significantly reduced intubation time. The untrained group recorded a median intubation time of 102.5 seconds (IQR 36), compared with 53 seconds (IQR 19) in the trained group. Group comparisons demonstrated a statistically significant reduction in intubation time (p = 0.009) and corresponded to a very large effect size (Cohen's d = 1.86; Hedges' g = 1.72). No association was observed between intubation time and the age or experience of either the airway assistant or the ICP. No esophageal intubations occurred in either group. In this pilot study, training paramedics to perform the airway assistant role significantly reduced intubation time in a simulated regurgitating airway. These preliminary findings suggest that incorporating structured airway assistant training into pr…",
+   "abstract_zh": "",
+   "journal": "Prehosp Emerg Care",
+   "date": "2026-11-13",
+   "authors": "Bogaerts C 等",
+   "tags": [
+    "氣道",
+    "EMS教育"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43024742/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43026539",
+   "doi": "10.1016/j.ccl.2018.03.010",
+   "pmcid": "PMC9795269",
+   "title": "The global research landscape of emergency medical services in out-of-hospital cardiac arrest.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) remains a major cause of death, and emergency medical services (EMS) are central to recognition, resuscitation, transport, and linkage to post-arrest care. Although previous bibliometric studies have mapped the broader cardiac arrest and cardiopulmonary resuscitation literature, the intersection of EMS and OHCA warrants focused characterization. We performed a retrospective bibliometric analysis of records indexed in the Web of Science Core Collection from 1972 through June 2026. The search combined OHCA terms with terms for EMS, paramedics, and emergency medical technicians. Annual output, research categories, journals, authors, and countries were described. VOSviewer version 1.6.20 was used for author co-authorship, keyword co-occurrence, and cited-reference co-citation analyses. The search identified 3,005 records. Annual output increased markedly after 2010, peaked at 244 publications in 2021, and remained above 200 publications per year from 2022 to 2025; 130 records were indexed for the partial 2026 year. Emergency Medicine (1,745; 58.1%) and Critical Care Medicine (1,014; 33.7%) were the most frequently assigned Web of Science categories. Resuscitation published 694 records (23.1%). The United States had the greatest country-level output (1,022; 34.0%), followed by Japan (375; 12.5%) and Canada (281; 9.4%). The most prolific author was Shin SD (98 publications). Co-authorship mapping showed registry-centered regional communities, while keyword analysis yielded ten interpreted domains spanning epidemiology, resuscitation interventions, dispatch, registries, extracorporeal cardiopulmonary resuscitation, equity, and technology-related topics. Co-citation analysis identified four major intellectual communities. EMS-focused OHCA p…",
+   "abstract_zh": "",
+   "journal": "Int J Emerg Med",
+   "date": "2026-11-13",
+   "authors": "Krishnan R 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9795269/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43026539/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43025047",
+   "doi": "10.1016/j.jacadv.2026.103477",
+   "pmcid": "",
+   "title": "Emergency Action Plans in Aquatic Sports: A Call to Action and Guide for Aquatic Leadership.",
+   "title_zh": "",
+   "abstract": "With increasing participation in aquatics athletics at the youth, amateur, and professional levels, it is critical to provide sport and venue-specific emergency action plans (EAP) to ensure safe participation for athletes with and without cardiovascular disease. Current EAPs are typically geared toward land-based sports and do not address major aquatic-specific obstacles including identification of emergency, extraction, automated external defibrillator availability, emergency medical services access, and transport to hospital. This document provides guidance on creating EAP for aquatic athletes based on sport type and venue (pool-based, open-water immersion, and open-water adjacent) with guidance and proposed solutions for each. It also highlights the growing need for detailed aquatic EAPs to ensure safe athlete participation for water-based athletes. Finally, we call upon leaders in aquatic sports to involve all stakeholders and consider implementing more structured training in addition to basic life support, cardiopulmonary resuscitation, and first-aid to maximize aquatic athlete safety.",
+   "abstract_zh": "",
+   "journal": "JACC Adv",
+   "date": "2026-11-13",
+   "authors": "McClintick DJ 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43025047/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43019463",
+   "doi": "10.1080/10903127.2026.2755967",
+   "pmcid": "",
+   "title": "Prehospital Advanced Airway Management in Traumatic Out-of-Hospital Cardiac Arrest: A Nationwide Cohort Study Using Time-Dependent Propensity Score Sequential Matching.",
+   "title_zh": "",
+   "abstract": "Traumatic out-of-hospital cardiac arrest (TCA) has extremely poor outcomes, and the benefit of prehospital advanced airway management (AAM) remains uncertain, partly because previous observational studies may have been affected by resuscitation time bias. We examined the association between prehospital AAM and clinical outcomes in adults with TCA using a time-dependent analytic approach. We conducted a nationwide retrospective observational cohort study using the All-Japan Utstein Registry linked with emergency medical services transport records from 2021 to 2023. Adults (≥18 years) with TCA were included. The exposure was successful prehospital AAM, including supraglottic airway placement or endotracheal intubation. The primary outcome was 30-day survival, and the secondary outcome was favorable neurological outcome (Cerebral Performance Category 1-2) at 30 days. We applied time-dependent propensity score sequential matching and estimated corrected risk differences (RDs) using generalized estimating equations with inverse-frequency weighting. Among 7,217 patients, 2,653 (36.8%) received prehospital AAM, of whom 2,637 were successfully matched within the analytic cohort. Thirty-day survival was 1.8% in the AAM group and 1.4% among matched controls (corrected RD, 0.6%; 95% confidence interval (CI), -0.1 to 1.2). Favorable neurological outcome occurred in 0.2% and 0.4%, respectively (corrected RD, -0.2%; 95% CI, -0.6 to 0.1). No significant timing-dependent association or prespecified subgroup heterogeneity was observed. In this nationwide cohort study using time-dependent propensity score sequential matching, prehospital AAM was not significantly associated with improved outcomes in adults with TCA.",
+   "abstract_zh": "",
+   "journal": "Prehosp Emerg Care",
+   "date": "2026-11-12",
+   "authors": "Shiozumi T 等",
+   "tags": [
+    "氣道",
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43019463/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43020465",
+   "doi": "10.1016/j.jjcc.2026.11.001",
+   "pmcid": "",
+   "title": "Outcomes after extracorporeal cardiopulmonary resuscitation in out-of-hospital cardiac arrest: Sex and age differences.",
+   "title_zh": "",
+   "abstract": "Sex differences may affect outcomes after extracorporeal cardiopulmonary resuscitation (ECPR), potentially mediated by estrogen, levels of which change with age. However, it remains unclear whether the impact of sex on outcomes varies across different age groups. This study aimed to examine sex- and age-related differences in neurological outcomes after ECPR for patients with out-of-hospital cardiac arrest (OHCA). This was a retrospective observational study using a nationwide, hospital-based, prospective registry of patients with OHCA in Japan. Adult patients with non-traumatic OHCA who received ECPR between 2014 and 2022 were included. Patients were divided into two age groups (<50 and ≥ 50 years) based on a cut-off used in a previous population-based study and the potential influence of age-related changes in estrogen exposure. The primary outcome was a 30-day favorable neurological outcome. Associations between sex and outcomes were evaluated using multivariable logistic regression with a sex-age group interaction term, adjusted for patient characteristics and prognostic clinical factors. A total of 95,902 patients with OHCA were included in the registry, of whom 2844 (2310 men, 534 women) were adults, had experienced non-traumatic OHCA, and received ECPR. A total of 56 men and 16 women aged <50 years and 127 men and 29 women aged ≥50 years achieved a favorable neurological outcome. In the primary analysis, no significant differences were observed between men and women aged <50 years [adjusted OR 0.99 (0.52-1.79)] or aged ≥50 years [adjusted OR 1.21 (0.77-1.84)]. Furthermore, the interaction between sex and age group was not significant (p for interaction = 0.63). No statistically significant differences in 30-day neurological outcomes between men and women were det…",
+   "abstract_zh": "",
+   "journal": "J Cardiol",
+   "date": "2026-11-12",
+   "authors": "Nakada K 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43020465/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43020455",
+   "doi": "10.1016/j.resuscitation.2026.111387",
+   "pmcid": "",
+   "title": "Cycle-to-Cycle Prediction of Return of Spontaneous Circulation Using End-Tidal Carbon Dioxide Dynamics in Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "Prognostication in out-of-hospital cardiac arrest (OHCA) commonly relies on static pre-resuscitation variables, although resuscitation is a rapidly evolving physiologic process. End-tidal carbon dioxide (EtCO2) is continuously available during cardiopulmonary resuscitation, but its sequential information has not been fully used for real-time prediction. We aim to develop and internally validate a cycle-to-cycle time-updated prediction model using sequential EtCO2 values to estimate the probability of return of spontaneous circulation (ROSC) in the subsequent 2-minute resuscitation cycle. We conducted a multicenter retrospective study of adult OHCA patients from the NTUH-HYCARD database between 2016 and 2023. Event-level EtCO2 sequences were extracted from resuscitation records and standardized into 2-minute intervals for up to 30 minutes, consistent with Advanced Cardiac Life Support reassessment cycles. At each prediction time point, the model used EtCO2 values available from event onset to the current time point, without using future values. A two-layer long short-term memory model estimated the probability of ROSC in the subsequent cycle. Performance was evaluated using 10-fold cross-validation at two levels: the event level (one prediction per event) and the cycle level (one prediction per 2-minute cycle). The final analysis included 1,651 event-level EtCO2 sequences from 1,480 patients; 583 events ended with ROSC. At the event level, the model achieved an area under the receiver operating characteristic curve (AUROC) of 0.876 (95% CI, 0.863-0.890) and a Brier score of 0.140 (95% CI, 0.131-0.149). When applied to every 2-minute cycle (17,029 prediction points; ROSC prevalence, 3.4%), the AUROC was 0.685 (95% CI, 0.664-0.706), and the model systematically overestimat…",
+   "abstract_zh": "",
+   "journal": "Resuscitation",
+   "date": "2026-11-12",
+   "authors": "Huang CH 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43020455/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43018417",
+   "doi": "10.1097/ccm.0000000000007449",
+   "pmcid": "",
+   "title": "Neurological Outcomes of Rhythm Transitions in Out-of-Hospital Cardiac Arrest With Initial Nonshockable Rhythms: A Nationwide Population-Based Study.",
+   "title_zh": "",
+   "abstract": "To evaluate the prognostic implications of rhythm transitions between asystole and pulseless electrical activity (PEA) in out-of-hospital cardiac arrest (OHCA) patients with initial nonshockable rhythms. Nationwide population-based observational study. Nationwide OHCA Registry of South Korea, managed by the Korea Disease Control and Prevention Agency. Consecutive adult (≥ 18 yr old) OHCA patients with nonshockable rhythms from January 1, 2016 to December 31, 2021. None. Patients were categorized into four groups based on rhythm changes during cardiopulmonary resuscitation (CPR): asystole-to-asystole (A-A), asystole-to-PEA (A-P), PEA-to-asystole (P-A), and PEA-to-PEA (P-P). The primary outcome was good neurologic outcome at hospital discharge, defined as a Cerebral Performance Category score of 1-2. Inverse probability of treatment weighting (IPTW) was used to adjust for measured confounding. In the primary IPTW model, weighted risks of good neurologic outcome were 0.101% in A-A, 0.231% in A-P, 0.384% in P-A, and 0.874% in P-P. Compared with A-A, the odds of good neurologic outcome were higher in A-P (odds ratio [OR], 2.28; 95% CI, 1.78-2.93; risk difference [RD], 0.130 percentage points), P-A (OR, 3.80; 95% CI, 3.01-4.80; RD, 0.283 percentage points), and P-P (OR, 8.70; 95% CI, 6.98-10.83; RD, 0.773 percentage points). Compared with A-P, P-A had higher odds of good neurologic outcome (OR, 1.66; 95% CI, 1.39-1.99; RD, 0.153 percentage points). Asystole conversion to PEA during CPR was associated with a better neurologic outcome than persistent asystole. Although transitioning from PEA to asystole was associated with lower odds of a good outcome compared with persistent PEA, it was associated with a better outcome than A-P transitions. Recognizing these patterns may provi…",
+   "abstract_zh": "",
+   "journal": "Crit Care Med",
+   "date": "2026-11-12",
+   "authors": "Kim D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43018417/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43018064",
+   "doi": "10.1161/jaha.126.052552",
+   "pmcid": "",
+   "title": "Racial and Ethnic Disparities in Postarrest Cardiac Procedures for Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "Effective postarrest care facilitates optimal outcomes for out-of-hospital cardiac arrest. Relatively little research has evaluated whether there may be racial or ethnic disparities in the workup and management of the patient post arrest. We retrospectively studied out-of-hospital cardiac arrests using the TriNetX research database. We defined out-of-hospital cardiac arrest as any emergency department visit (2013-2024) with a diagnosis of cardiac arrest and included patients who survived to admission. Multivariate adjusted logistic regression was used to compare rates of the following cardiac interventions across race or ethnicity: (1) echocardiography; (2) left heart catheterization; (3) percutaneous coronary intervention; (4) ventricular assist device placement; and (5) automated implantable cardioverter-defibrillator placement. A total of 58 394 cases of out-of-hospital cardiac arrest met inclusion criteria. Compared with White patients (left heart catheterization: 13.9%, percutaneous coronary intervention: 7.1%, ventricular assist device: 3.0%, automated implantable cardioverter-defibrillator: 0.9%), Black patients had lower odds of receiving left heart catheterization (7.2%, adjusted odds ratio [aOR], 0.60 [95% CI, 0.55-0.64]), percutaneous coronary intervention (2.6%, aOR, 0.47 [95% CI, 0.42-0.53]), ventricular assist device placement (1.6%, aOR, 0.70 [95% CI, 0.60-0.80]), and automated implantable cardioverter-defibrillator placement (0.4%, aOR, 0.53 [95% CI, 0.41-0.70]). Hispanic/Latino patients were also less likely to receive left heart catheterization (8.9%, aOR, 0.72 [95% CI, 0.64-0.80]), percutaneous coronary intervention (3.7%, aOR, 0.63 [95% CI, 0.53-0.74]), and automated implantable cardioverter-defibrillator placement (0.4%, aOR, 0.52 [95% CI, 0.33-0.81…",
+   "abstract_zh": "",
+   "journal": "J Am Heart Assoc",
+   "date": "2026-11-12",
+   "authors": "Shekhar AC 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43018064/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43014632",
+   "doi": "10.1016/j.hrthm.2026.11.010",
+   "pmcid": "",
+   "title": "SUDDEN CARDIAC ARREST IN NEW SOUTH WALES (NSW), AUSTRALIA: A DATA LINKAGE STUDY.",
+   "title_zh": "",
+   "abstract": "Sudden cardiac arrest (SCA) is a global health challenge. Routinely collected health data represents a potential source of data to identify SCA. Evaluate whether routinely collected health data can retrospectively identify community-based SCA (1-50 years) in NSW. Potential SCA cases (aged 1-50yrs; occurring in NSW; cardiac-related ICD-9/10/SNOMED codes) were identified by the Centre for Health Record Linkage (CHeReL) in the NSW Ambulance OHCA Register (OHCAR) and NSW Emergency Department Data Collection (EDDC). Probabilistic data linkage was undertaken between ambulance, hospital and mortality datasets. External causes were excluded at case identification in ambulance records. Cardiac aetiology was assigned where a cardiac diagnosis appeared in hospital admission or cause of death records. From 1.7 million linked records, 13,345 presumed SCA cases were identified; 54% had cardiac aetiology and 83% were fatal. Cardiac cases were older than non-cardiac cases (median 42 vs 37 years, p < 0.001) and more likely to be admitted to hospital (58% vs 7%, p < 0.001). Within cardiac cases, rhythm-related and structural diagnoses dominated in 1-11 year olds, while ischaemic disease dominated in 35-50 year olds. Older cardiac cases were more likely to die pre-hospital (adjusted OR 3.56, 95% CI 2.66-4.85, for 35-50 vs 1-11 years). Multi-source administrative data linkage identifies age-related patterns in SCA aetiology and clinical trajectory. Findings extrapolated nationally suggest approximately 370 cardiac SCA deaths per year in Australians aged 1 to 35, a substantial burden that could be tracked through routine data linkage.",
+   "abstract_zh": "",
+   "journal": "Heart Rhythm",
+   "date": "2026-11-11",
+   "authors": "Sweeting J 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43014632/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43012618",
+   "doi": "10.1097/ta.0000000000005232",
+   "pmcid": "",
+   "title": "From sirens to systems: Characterizing EMS and trauma care across America.",
+   "title_zh": "",
+   "abstract": "State emergency medical services (EMS) and trauma systems determine prehospital triage, transport, trauma center designation, data reporting, and quality improvement, yet their contemporary organization has not been systematically characterized. We sought to describe state-level EMS and trauma system structures, policies, resources, and perceived gaps across the United States. We conducted a cross-sectional survey of EMS and trauma system leaders in all 50 states and the District of Columbia from July 2025 through March 2026. A 56-item instrument utilizing categorical, Likert-type, rank-order, and free-text items assessed oversight, prehospital triage and transport, clinical protocols, trauma center verification, registries, quality improvement, and funding. Respondents were recruited by email and phone. Multiple respondents could contribute complementary domain-level information to a single state profile. Responses were summarized descriptively. All 51 jurisdictions participated. Most states reported a state EMS medical director (84%), statewide trauma triage protocols (84%), and mandatory participation in their state trauma registry (88%). However, operational coordination varied: only 29% had a centralized trauma communications center, only 6% of states reported a single point of contact for helicopter EMS dispatch, and 35% required a certificate of need for new helicopter services. Trauma center verification relied on American College of Surgeons (ACS) verification in 59% of states, while others used state-administered processes. More than half of states rated EMS financial resources in the two lowest adequacy categories, and 55% reported that their trauma system required at least moderate improvement. Rural populations were most frequently identified as underserved…",
+   "abstract_zh": "",
+   "journal": "J Trauma Acute Care Surg",
+   "date": "2026-11-11",
+   "authors": "Wothe JK 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43012618/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43012131",
+   "doi": "",
+   "pmcid": "",
+   "title": "Video of the inciting event in emergency trauma care: a narrative review and measurement framework.",
+   "title_zh": "",
+   "abstract": "Video is already used in crash reconstruction, sports injury research, prehospital triage, and emergency care. The unresolved question is whether video of the inciting traumatic event provides clinically useful exposure information beyond a strong clinical assessment and a structured verbal history, without confusing selective video availability or selective diagnostic verification with biology. We conducted a narrative methodological review of representative literature identified in PubMed/MEDLINE and by citation chaining through 1 September 2026. We synthesized work on crash reconstruction, sports video analysis, emergency video use, equestrian trauma, measurement validity, diagnostic verification, and clinical prediction. On this basis, we developed a staged framework using equestrian falls as an exemplar testbed. If Phase 2 proceeds, its primary predictive estimand is the incremental value of video among adults with usable inciting-event video who undergo clinically indicated head computed tomography (CT), with acute CT-visible intracranial traumatic abnormality as the endpoint. Existing studies show that video can characterize injury mechanisms, support injury-versus-non-injury comparisons, and influence emergency decisions. Routine trauma introduces four practical problems: video is available selectively, prior viewing can alter baseline information, head CT is obtained selectively, and acute CT-visible intracranial injury may be uncommon. We therefore propose a two-phase program: first measure video availability, history-video agreement, rater reliability, verification, event yield, and burden; only if prespecified feasibility and sample-size criteria are met should prediction proceed. Inciting-event video should be evaluated as a measurement instrument before it…",
+   "abstract_zh": "",
+   "journal": "J Inj Violence Res",
+   "date": "2026-11-11",
+   "authors": "Cacoulidis C 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43012131/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43008435",
+   "doi": "10.1016/j.jacadv.2026.103449",
+   "pmcid": "",
+   "title": "Advanced Age in Acute Myocardial Infarction-Related Cardiogenic Shock by Out-of-Hospital Cardiac Arrest Status.",
+   "title_zh": "",
+   "abstract": "Cardiogenic shock (CS) remains a leading cause of in-hospital mortality in acute myocardial infarction (AMI). Although advanced age is associated with worse outcomes, associations across out-of-hospital cardiac arrest (OHCA) strata remain incompletely characterized. The objective of the study was to evaluate the association between octogenarian status and in-hospital mortality in patients with AMI-related CS (AMI-CS) undergoing percutaneous coronary intervention (PCI) and to examine this association in analyses stratified by OHCA status. We analyzed patients with AMI-CS enrolled in the multicenter Kanagawa-ACuTe cardIoVascular rEgistry who underwent PCI. Octogenarian status (≥80 years) was the primary exposure. Multivariable logistic regression was used to evaluate associations with in-hospital mortality, with additional analyses stratified by OHCA status. Among 658 patients, 177 (26.9%) were octogenarians, and 279 (42.4%) died during hospitalization. Octogenarian status was independently associated with higher in-hospital mortality (adjusted OR: 2.14; 95% CI: 1.32-3.48; P = 0.002). In stratified analyses, octogenarian status was associated with higher mortality among patients without OHCA, whereas no statistically significant association was observed among those with OHCA. The interaction between octogenarian status and OHCA was not statistically significant (P for interaction = 0.422). Higher heart rate, unmeasurable heart rate, higher serum creatinine, and lower serum albumin were independently associated with mortality. In patients with AMI-CS undergoing PCI, octogenarian status was independently associated with in-hospital mortality. Although estimates differed numerically across OHCA strata, the interaction was not statistically significant, precluding a conclusio…",
+   "abstract_zh": "",
+   "journal": "JACC Adv",
+   "date": "2026-11-10",
+   "authors": "Hosokawa Y 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43008435/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43025004",
+   "doi": "10.1016/j.ajem.2026.11.015",
+   "pmcid": "",
+   "title": "Pediatric cardiopulmonary resuscitation in the emergency department: Factors associated with outcome.",
+   "title_zh": "",
+   "abstract": "Pediatric cardiac arrest is usually studied either before hospital arrival or after admission, although the emergency department (ED) team resuscitates both. We examined factors associated with return of spontaneous circulation (ROSC), recurrent arrest and mortality in an ED cohort including both out-of-hospital cardiac arrests (OHCA) and in-ED cardiac arrests. Retrospective cohort of all 83 children who received cardiopulmonary resuscitation (CPR) in a university pediatric ED over 14 years (January 2010-March 2024). The primary outcome was survival to hospital discharge; multivariable logistic regression identified factors independently associated with ED mortality. Median age was 35 months; 54.2% occurred out of hospital. ROSC was achieved in 42.2% and 30.1% survived the ED phase, but 9.9% survived to discharge. Epinephrine given later than 2 min was independently associated with ED mortality among the 27 patients with documented timing (adjusted odds ratio [aOR] 7.73; 95% confidence interval [CI] 1.27-46.97). Beyond 20 min of CPR, each additional minute was associated with ED death (aOR 1.32; 95% CI 1.01-1.73). Recurrent arrest after ROSC in the ED occurred in 42.9%, of whom 6.7% survived versus 38.9% without recurrence (p = 0.039). Survival did not differ by arrest location, initial rhythm or timing of advanced airway management. Resuscitation in the ED restored spontaneous circulation in many children, but few survived to discharge. Time to first epinephrine was independently associated with ED mortality in this cohort, whereas prolonged resuscitation and recurrent arrest after ROSC in the ED identified children at very high risk.",
+   "abstract_zh": "",
+   "journal": "Am J Emerg Med",
+   "date": "2026-11-09",
+   "authors": "Baran Ö 等",
+   "tags": [
+    "氣道",
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43025004/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43015888",
+   "doi": "10.1186/s13049-019-0650-2",
+   "pmcid": "PMC6698029",
+   "title": "Airway management during missions of a neurologist-staffed mobile stroke unit: a retrospective registry study.",
+   "title_zh": "",
+   "abstract": "Following their endorsement by international guidelines, mobile stroke units (MSUs) are increasingly being integrated into emergency medical services worldwide. In real-world use, physician-staffed MSUs can be dispatched beyond their intended indication, exposing on-board neurologists to non-stroke emergencies. This raises important clinical and regulatory questions about the competencies MSU physicians need. Advanced airway management is one of the most critical prehospital interventions. Yet, its frequency, indications, procedural characteristics and success rates have not been investigated in neurologist-staffed MSU services. We retrospectively analysed a prospective registry of mission documentation from a neurologist-staffed MSU service in Berlin, Germany from 31 August 2024 to 15 March 2026. Dispatches of the MSU were classified as stroke or non-stroke dispatches using the recorded activation code. The primary outcome was the dispatch-based frequency of endotracheal intubation (ETI), defined as a documented intubation attempt. All ETIs were performed by the on-board neurologist. Secondary outcomes included supraglottic airway (SGA) use, first-pass success rate, procedural characteristics and self-reported post-mission National Aeronautics and Space Administration Task Load Index (NASA-TLX) workload. Proportions are reported with 95% Wilson confidence intervals (CI). We analysed 3,887 dispatches. ETI occurred in a total of 49 dispatches (1.26%; 95% CI 0.95-1.66) with 2 in 1,755 stroke- (0.11%; 95% CI 0.03-0.41) and 47 in 2,132 non-stroke dispatches (2.20%; 95% CI 1.66-2.92). SGA use occurred in 22 dispatches (0.57%; 95% CI 0.37-0.86). All 49 intubation attempts were successful (100.0%; 95% CI 92.7-100.0). First-pass success was achieved in 43/49 (87.8%; 95% CI 75.8…",
+   "abstract_zh": "",
+   "journal": "Scand J Trauma Resusc Emerg Med",
+   "date": "2026-11-09",
+   "authors": "Röhrs K 等",
+   "tags": [
+    "氣道"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6698029/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43015888/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43004702",
+   "doi": "10.1002/ccd.71013",
+   "pmcid": "",
+   "title": "Reverse Balloon Anchoring for Retrieval of an Entrapped Side-Branch Balloon During the Jailed Balloon Technique.",
+   "title_zh": "",
+   "abstract": "The jailed balloon technique (JBT) is an effective strategy for side branch (SB) protection during percutaneous coronary intervention (PCI) for coronary bifurcation lesions; however, jailed balloon entrapment is a rare but serious complication. We report the case of a man in his 70s who was successfully resuscitated after out-of-hospital cardiac arrest due to ventricular fibrillation and underwent emergency PCI for a right coronary artery bifurcation lesion. A drug-eluting stent was deployed from the mid right coronary artery to the posterior descending branch using JBT. The jailed SB balloon became entrapped and could not be retrieved despite repeated inflation and deflation, traction, and rotational torque. Further traction resulted in deep engagement of the guiding catheter and an accordion phenomenon of the right coronary artery, raising concern about vascular injury. A balloon was therefore inflated within the stented main vessel, and forward pressure was applied to its shaft to provide counterforce against traction on the entrapped SB balloon. Using this technique, which we termed the \"reverse balloon anchoring technique,\" the entrapped balloon was successfully retrieved without apparent device damage. Final angiography and intravascular ultrasound demonstrated preserved SB flow and adequate stent apposition. The reverse balloon anchoring technique may represent a useful bailout option for jailed balloon entrapment when conventional retrieval maneuvers fail.",
+   "abstract_zh": "",
+   "journal": "Catheter Cardiovasc Interv",
+   "date": "2026-11-09",
+   "authors": "Sasaki T 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43004702/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43001758",
+   "doi": "10.1056/nejmoa2612757",
+   "pmcid": "",
+   "title": "Community and EMS Interventions to Improve Survival in Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "Early cardiopulmonary resuscitation (CPR) and defibrillation improve survival after out-of-hospital cardiac arrest, but evidence from randomized trials about whether community-based implementation strategies improve outcomes is lacking. We conducted a registry-based, cluster-randomized trial involving adults with out-of-hospital cardiac arrest treated by emergency medical services (EMS) in North Carolina counties. The counties were grouped into clusters, which were then randomly assigned in a 1:1 ratio to implement a multifaceted intervention or administer usual care. The intervention included four components: training of 911 telecommunicators to improve rapid recognition of cardiac arrest, training of 911 telecommunicators to improve delivery of CPR instructions from telecommunicators to bystanders, community CPR training, and enhanced use of automated external defibrillators by first responders or bystanders before EMS arrival. Data were collected through the Cardiac Arrest Registry to Enhance Survival. The primary outcome was survival to hospital discharge with a good neurologic outcome (Cerebral Performance Category score of 1 or 2; range, 1 to 5, with higher scores indicating worse neurologic outcome). From July 1, 2022, to June 30, 2026, a total of 28 clusters comprising 11,615 patients were assigned to the intervention group, and 27 clusters comprising 10,844 patients were assigned to the usual-care group. The median age of the patients was 64.0 years, and 36.7% were women. The percentage of patients who survived to hospital discharge with a good neurologic outcome was 9.0% (1048 of 11,608 patients) in the intervention group and 9.4% (1017 of 10,839 patients) in the usual-care group (adjusted odds ratio, 0.97; 95% confidence interval, 0.75 to 1.26; P = 0.80). Amo…",
+   "abstract_zh": "",
+   "journal": "N Engl J Med",
+   "date": "2026-11-08",
+   "authors": "Malta Hansen C 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43001758/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
    "pmid": "42998307",
    "doi": "10.1161/jaha.126.051900",
    "pmcid": "",
@@ -61,12 +431,59 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1161/jaha.126.051900",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42998307/",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "43001747",
+   "doi": "10.1056/nejme2612650",
+   "pmcid": "",
+   "title": "Bringing Rapid Reperfusion to More Patients with Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "N Engl J Med",
+   "date": "2026-11-07",
+   "authors": "Yannopoulos D",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43001747/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43001740",
+   "doi": "10.1056/nejmoa2602919",
+   "pmcid": "",
+   "title": "Prehospital Extracorporeal Life Support in Refractory Out-of-Hospital Cardiac Arrest.",
+   "title_zh": "",
+   "abstract": "In patients with refractory out-of-hospital cardiac arrest, extracorporeal cardiopulmonary resuscitation (ECPR) with the use of venoarterial extracorporeal membrane oxygenation can be performed to establish reperfusion. Data comparing prehospital ECPR with conventional care regarding survival until hospital discharge among patients who are 50 years of age or younger with refractory out-of-hospital cardiac arrest are limited. In a nationwide, nonrandomized study conducted in the Netherlands, we evaluated the outcomes in young adults who were attended by Helicopter Emergency Medical Services (HEMS) that were equipped to deliver prehospital ECPR (intervention group) as compared with those attended by HEMS without ECPR capability (conventional group). The primary outcome was survival until hospital discharge. A total of 144 patients were included in the intervention group, and 87 were included in the conventional group. In the intervention group, 57 of 144 patients (40%) survived until hospital discharge, as compared with 17 of 87 patients (20%) in the conventional group (odds ratio, 2.72; 95% confidence interval [CI], 1.59 to 4.66; P = 0.002). At 6 months, a favorable neurologic outcome was reported in 51 of 141 patients (36%) in the intervention group and in 11 of 85 patients (13%) in the conventional group (odds ratio, 4.22; 95% CI, 2.82 to 6.32). There were 32 adverse events in the intervention group and 11 in the conventional group. Among patients who were 50 years of age or younger with out-of-hospital cardiac arrest, incorporating ECPR into HEMS was associated with improved survival until hospital discharge, as compared with conventional care. (Funded by the Dutch Ministry of Health; OnScene ClinicalTrials.gov number, NCT04620070.).",
+   "abstract_zh": "",
+   "journal": "N Engl J Med",
+   "date": "2026-11-07",
+   "authors": "Reis Miranda D 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43001740/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42994604",
@@ -83,9 +500,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02430-5/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42994604/",
    "translation": "",
    "added": "2026-11-09"
@@ -105,12 +523,57 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://nzmj.org.nz/media/pages/journal/vol-139-no-1645/response-to-moving-the-dial-on-out-of-hospital-cardiac-arrest-survival-in-aotearoa-new-zealand/191c2c3a22-1793742391/7678.pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42987147/",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "43030819",
+   "doi": "10.3390/jcm15218676",
+   "pmcid": "",
+   "title": "Rethinking Mild Therapeutic Hypothermia After Out-of-Hospital Cardiac Arrest: Dead End or Missed Opportunity? An Expert Viewpoint.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest remains associated with high mortality and neurological disability. Mild therapeutic hypothermia has been questioned after large trials failed to demonstrate superiority over controlled normothermia with fever prevention. In this expert viewpoint, we argue that these neutral findings should not be interpreted as proof of biological futility in every patient and setting. The clinical effect of hypothermia may depend on patient phenotype, timing of initiation, cooling technique, temperature-control quality, and integration with contemporary post-resuscitation care. This may be particularly important in patients undergoing percutaneous coronary intervention, in whom hypothermia can impair the pharmacokinetics and antiplatelet effects of oral P2Y12 inhibitors. Current evidence does not support routine hypothermia in all comatose survivors. However, uncertainty remains regarding its value in selected patients. Patients with an intermediate degree of ischemic brain injury may represent a plausible target for neuroprotection, but this remains an unproven hypothesis. Future trials should investigate whether injury severity modifies the effects of early, precisely delivered hypothermia, using standardized protocols, active normothermia as the comparator, and prespecified antithrombotic and post-resuscitation strategies.",
+   "abstract_zh": "",
+   "journal": "J Clin Med",
+   "date": "2026-11-06",
+   "authors": "Umińska JM 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030819/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "42988431",
+   "doi": "10.5847/wjem.j.issn.1920-8642.2013.03.005",
+   "pmcid": "PMC4129855",
+   "title": "Epidemiology and outcome of sudden cardiac arrest in elderly Nigerians: a prospective multicentre observational survey.",
+   "title_zh": "",
+   "abstract": "Limited information is available on sudden cardiac arrest (SCA) care in the elderly population in sub-Saharan Africa, despite the growing incidence of risk factors such as cardiovascular diseases. The aim of this study was to describe the epidemiology and assess the outcomes of out-of-hospital and in-hospital SCA among the elderly population in Nigeria. Prospective, multicentre observational survey on epidemiology and outcome of SCA arrest in Nigerian adults over a 20-month period. Six purposefully selected teaching hospitals in the six geopolitical zones of Nigeria. Patients aged 65 years and above who experienced either out-of-hospital cardiac arrest (OHCA) brought to the selected hospital or in-hospital cardiac arrest (IHCA). Data were analysed using IBM-SPSS V.25.0 (SPSS, Chicago, Illinois, USA). Descriptive statistics were used to summarise the data. Main outcome measures were return of spontaneous circulation (ROSC) from initial arrest, survival to hospital admission and survival to hospital discharge. A total of 1069 (27.3%) out of the 3909 SCA data collected were elderly (aged ≥65 years). Of this, 91.0% were IHCA and 9.0% were OHCA. The age ranged from 65 years to 105 years, with a median of 75 (IQR 70–81) years for IHCA, and 65 years to 115 years, with a median of 72 (IQR 68–78) years for OHCA. There was a male preponderance in both cohorts, but the difference was not statistically significant (p=0.971). Arrests were witnessed in 97.2% of IHCA and 94.8% of OHCA events. Cardiopulmonary resuscitation (CPR) yielded ROSC of 0.3% in IHCA and 3.1% in OHCA, and an overall hospital discharge survival of 0.1% and 2.1%, respectively. The overall survival in both IHCA and OHCA was poor in elderly Nigerians, with a very low rate of bystander CPR in both OHCA and IHCA, desp…",
+   "abstract_zh": "",
+   "journal": "BMJ Open",
+   "date": "2026-11-05",
+   "authors": "Kolawole IK 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4129855/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42988431/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42981732",
@@ -127,9 +590,10 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://doi.org/10.1016/j.hrtlng.2026.102996",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42981732/",
    "translation": "",
    "added": "2026-11-09"
@@ -149,12 +613,35 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42976244/",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "",
+   "doi": "10.62441/actainnovations.vi.3119",
+   "pmcid": "",
+   "title": "PREHOSPITAL MANAGEMENT OF TRAUMATIC BRAIN INJURY FOLLOWING ROAD TRAFFIC ACCIDENTS: A REVIEW OF EMERGENCY MEDICAL SERVICES PRACTICES AND PATIENT OUTCOMES",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Acta Innovations",
+   "date": "2026-11-03",
+   "authors": "",
+   "tags": [
+    "骨盆固定"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://actainnovations.com/index.php/pub/article/download/3119/1694",
+   "url": "https://doi.org/10.62441/actainnovations.vi.3119",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42972430",
@@ -197,7 +684,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://www.resuscitationjournal.com/article/S0300-9572(26)02425-1/pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42971312/",
    "translation": "",
    "added": "2026-11-09"
@@ -271,6 +758,28 @@
    "added": "2026-11-09"
   },
   {
+   "pmid": "",
+   "doi": "10.36571/ajsp.97.49",
+   "pmcid": "",
+   "title": "Patient Safety and Clinical Outcomes Following Paramedic-Led Non-Conveyance Decisions in Prehospital Emergency Medical Services: A Systematic Review",
+   "title_zh": "",
+   "abstract": "Background: Emergency medical services increasingly assess and manage patients without transporting them to hospital. Although many patients avoid subsequent acute-care use, important questions remain about delayed deterioration, repeat ambulance contact, hospital admission and mortality after clinician-initiated decisions. Objective: To synthesize verifiable primary research on patient safety and clinical outcomes after paramedic- or ambulance-clinician-initiated non-conveyance and identify patient groups and process factors associated with adverse outcomes.",
+   "abstract_zh": "",
+   "journal": "Arab Journal for Scientific Publishing",
+   "date": "2026-11-02",
+   "authors": "Yasser Alhothali 等",
+   "tags": [
+    "骨盆固定"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.36571/ajsp.97.49",
+   "url": "https://doi.org/10.36571/ajsp.97.49",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
    "pmid": "42901186",
    "doi": "10.1016/s2468-2667(26)00200-8",
    "pmcid": "",
@@ -340,6 +849,28 @@
    "added": "2026-11-09"
   },
   {
+   "pmid": "",
+   "doi": "10.1016/j.afjem.2026.101155",
+   "pmcid": "",
+   "title": "127. Closing the Gap between classroom Learning and Prehospital Practice: Impact of a Simulation-Based Emergency Medical Services Boot Camp for Emergency Medical Technician Students in Uganda",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "African Journal of Emergency Medicine",
+   "date": "2026-11-01",
+   "authors": "Raymond Nsubuga 等",
+   "tags": [
+    "骨盆固定"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://www.sciencedirect.com/science/article/pii/S2211419X26002132/pdf",
+   "url": "https://doi.org/10.1016/j.afjem.2026.101155",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
    "pmid": "42987442",
    "doi": "10.1016/j.ajem.2026.10.026",
    "pmcid": "",
@@ -354,12 +885,59 @@
     "OHCA"
    ],
    "sources": [
-    "pubmed"
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42987442/",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "43030628",
+   "doi": "10.1161/circulationaha.109.852202",
+   "pmcid": "PMC2795631",
+   "title": "On-Scene Time-Dependent Probabilities of Return of Spontaneous Circulation and Favorable Neurological Outcome in Cases of Out-of-Hospital Cardiac Arrest with an Initial Shockable Rhythm: A Retrospective Study Using the National Utstein Data in Japan.",
+   "title_zh": "",
+   "abstract": "Background/Objectives: In out-of-hospital cardiac arrest (OHCA) with an initial shockable rhythm, the likelihood of achieving on-scene return of spontaneous circulation (ROSC) and favorable neurological outcomes changes with elapsed resuscitation time. We aimed to describe these time-dependent patterns under existing Japanese emergency medical services (EMS) practice. Methods: We conducted a nationwide retrospective descriptive cohort study using linked Japanese Utstein and emergency transport data from 2017-2022. Adults with cardiogenic OHCA and an initial shockable rhythm were included. For each time point after EMS contact, we calculated the observed probability of subsequent on-scene ROSC and, among patients achieving on-scene ROSC, the probability of a favorable neurological outcome (CPC 1-2 at 1 month) according to ROSC timing. Results: Among 22,383 eligible patients, 5095 achieved on-scene ROSC and 3182 had favorable neurological outcomes. The probability of subsequent on-scene ROSC was 6.97% (1295/18,583; 95% CI, 6.61-7.34%) at 10 min and 0.50% (87/17,375; 95% CI, 0.41-0.62%) at 20 min. At 10 min, favorable neurological outcomes occurred in 50.0% of patients aged <75 years and 20.5% of those aged ≥75 years who achieved on-scene ROSC at or after that time point. A sensitivity analysis restricted to 3128 patients receiving first EMS defibrillation within 1 min showed broadly similar temporal patterns. Conclusions: Under existing Japanese EMS practice, subsequent on-scene ROSC and favorable neurological outcomes became less frequent with later ROSC timing. Younger patients showed more favorable neurological outcomes at later ROSC times, but these findings do not establish age-based criteria for prolonged resuscitation or transport decisions.",
+   "abstract_zh": "",
+   "journal": "J Clin Med",
+   "date": "2026-10-31",
+   "authors": "Miyazaki K 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2795631/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030628/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43002825",
+   "doi": "10.1016/j.ajem.2026.10.040",
+   "pmcid": "",
+   "title": "Predicting survival in pediatric out-of-hospital cardiac arrest: Development and internal validation of risk scores.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) in the pediatric population is associated with poor survival and neurological outcomes. We aimed to develop and internally validate risk scores to predict survival to discharge in pediatric OHCA patients. We included pediatric OHCA patients in the Cardiac Arrest Registry to Enhance Survival from 2013 to 2023. We used logistic regression (LR) and classification and regression trees (CART) to develop risk scores using 70% of the data and validated them using the remaining 30% of the data. We used discrimination and predictive accuracy to evaluate model performance. We included 26,895 pediatric patients, of whom 27.8% survived to hospital admission and 11.9% survived to hospital discharge. We developed three separate risk scores for i) infants ii) preschool and school-age children, and iii) adolescents. The most important predictor variables were gender, arrest location, witness status, etiology of arrest, bystander CPR, use of prehospital AED, and first rhythm. Models developed using both LR and CART approaches had good classification accuracy (AUROCC for LR: 0.81, 0.77 and 0.82, AUROCC for CART: 0.78, 0.76, 0.82 for the three age groups) However, we found CART models to be the most useful because they are simpler to follow, classified more patients in low and high survival categories using a smaller number of predictors. The average survival probability in infants for each risk group was 3%, 13%, and 33%, for preschool and school-age children it was 4%, 11%, and 29%, whereas for adolescents it was 4%, 13%, and 48% for the low, moderate, and high survival categories. Pediatric patients experiencing OHCA can be classified into low, moderate, and high survival categories using a simple risk score and easily identified prehospital variab…",
+   "abstract_zh": "",
+   "journal": "Am J Emerg Med",
+   "date": "2026-10-31",
+   "authors": "Mawani M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43002825/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42957612",
@@ -428,6 +1006,98 @@
    "url": "https://doi.org/10.3390/nursrep16110389",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "43030619",
+   "doi": "10.3390/jcm14217868",
+   "pmcid": "PMC12608470",
+   "title": "Out-of-Hospital Cardiac Arrest as the First Manifestation of ALCAPA in a 9-Week-Old Infant: Survival to Discharge After Emergency Repair and VA-ECMO.",
+   "title_zh": "",
+   "abstract": "Background and Clinical Significance: Anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA) usually presents with heart failure at 2-3 months of age; cardiac arrest as the first manifestation is rare and often recognized only at autopsy. Case Presentation: A previously healthy girl collapsed at home at 65 days of age. After dispatcher-assisted parental resuscitation, the emergency team found asystole and achieved return of spontaneous circulation after approximately 4 min of professional resuscitation; the total low-flow time was not recorded. She was in cardiogenic shock (left ventricular ejection fraction 19.8%, high-sensitivity troponin T 2620 ng/L) with acute kidney injury and coagulopathy consistent with disseminated intravascular coagulation. Echocardiography showed a dilated right coronary artery and no flow from the aorta into the left coronary artery. Emergency repair on day 1 was followed by venoarterial extracorporeal membrane oxygenation (VA-ECMO) for 4 days and continuous renal replacement therapy. The Simpson ejection fraction reached about 50% by day 9, fell to 37-40% during respiratory deterioration and was 45-50% on day 27; mitral regurgitation, graded as massive during VA-ECMO, regressed to trace without valve surgery. She was discharged on day 42 with impaired diastolic indices; no formal neurological assessment was documented. Conclusions: ALCAPA should be considered in every infant with unexplained cardiac arrest, and post-resuscitation echocardiography should assess the coronary origins. Emergency repair with VA-ECMO can achieve survival to discharge despite multiorgan failure, but long-term cardiac and neurodevelopmental follow-up is required.",
+   "abstract_zh": "",
+   "journal": "J Clin Med",
+   "date": "2026-10-30",
+   "authors": "Wróbel G 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12608470/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030619/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43019616",
+   "doi": "10.1016/j.ajem.2026.10.013",
+   "pmcid": "",
+   "title": "Effect modification by arterial pH on the association between extracorporeal cardiopulmonary resuscitation and neurological outcomes after out-of-hospital cardiac arrest with shockable rhythm: A multicenter registry study.",
+   "title_zh": "",
+   "abstract": "Arterial pH on emergency department (ED) arrival predicts outcomes after out-of-hospital cardiac arrest (OHCA), but its effect on the association between extracorporeal cardiopulmonary resuscitation (ECPR) and neurological outcomes is unclear. We evaluated this association in patients with an initial shockable rhythm and assessed whether pH modified it. We retrospectively analyzed the Korean Cardiac Arrest Research Consortium registry. Adults with presumed cardiac-origin OHCA, an initial shockable rhythm, ED cardiopulmonary resuscitation, and arterial blood gas data measured after ED arrival were included. Exposure was ECPR initiated in the ED; the primary outcome was favorable neurological outcome at discharge (Cerebral Performance Category 1-2). Arterial pH was categorized as low (≤6.85), medium (>6.85 and <7.05), or high (≥7.05). Multivariable logistic regression assessed ECPR-by-pH interaction, with optimal 1:2 propensity score matching as a sensitivity analysis. Of 2183 patients, 213 (9.8%) received ECPR and 154 (7.1%) had a favorable neurological outcome. The association between ECPR and favorable outcome differed across pH categories (p for interaction = 0.004): adjusted odds ratio (aOR) 7.34 (95% confidence interval [CI], 2.84-18.98) in the low-pH group, 2.07 (95% CI, 1.06-4.03) in the medium-pH group, and 0.85 (95% CI, 0.37-1.94) in the high-pH group. The propensity score-matched analysis showed a similar pattern (p for interaction = 0.036). Initial arterial pH modified the association between ECPR and neurological outcome after OHCA with an initial shockable rhythm. The association was strongest at low pH and not observed at high pH. Arterial pH may inform ECPR evaluation but should not determine treatment thresholds.",
+   "abstract_zh": "",
+   "journal": "Am J Emerg Med",
+   "date": "2026-10-30",
+   "authors": "Park HA 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43019616/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43017117",
+   "doi": "10.62838/jccm-2026-0039",
+   "pmcid": "PMC8954853",
+   "title": "Admission arterial partial pressure of carbon dioxide (PaCO2) and outcomes after out-of-hospital cardiac arrest: a single-centre retrospective cohort study.",
+   "title_zh": "",
+   "abstract": "Admission arterial partial pressure of carbon dioxide (PaCO2) is readily available after out-of-hospital cardiac arrest (OHCA), but its independent prognostic value is uncertain and prior evidence is conflicting. We evaluated the association of admission PaCO2 with one-month mortality and neurological outcome, and quantified its incremental prognostic value. In a single-center retrospective cohort of 617 adults resuscitated from OHCA (2014-2023), patients were stratified by admission PaCO2 (≤50, >50-70 and >70 mmHg). The primary outcome was one-month all-cause mortality; the secondary outcome was neurological status at one month by Cerebral Performance Category (CPC), analyzed as a dichotomous, ordinal and survivor-restricted endpoint. Associations were estimated with multivariable logistic and ordinal regression adjusted for age, sex, witnessed arrest, bystander cardiopulmonary resuscitation (CPR), call-to-arrival time, initial shockable rhythm, prehospital return of spontaneous circulation (ROSC) and arrest etiology. PaCO2 was modelled continuously (per 10 mmHg) and categorically; sensitivity analyses used alternative cut-points, and discrimination was quantified by the area under the receiver-operating-characteristic curve (AUC). A simplified Directed Acyclic Graph was used heuristically for variable selection; however, we explicitly acknowledge that post-resuscitation physiology represents a complex feedback system. Therefore, formal causal effect estimation was not attempted, and all analyses are strictly associational and prognostic. One-month mortality was 73.6% (454/617) and rose across PaCO2 groups (49.7%, 81.1%, and 90.7%; p < 0.001). Each 10-mmHg increase in PaCO2 was associated with higher mortality after adjustment for measured confounders (adjusted odds ra…",
+   "abstract_zh": "",
+   "journal": "J Crit Care Med (Targu Mures)",
+   "date": "2026-10-30",
+   "authors": "Li M 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8954853/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43017117/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43017087",
+   "doi": "10.1213/ane.0000000000005960",
+   "pmcid": "PMC6806033",
+   "title": "Circadian rhythmicity in patients with out-of-hospital cardiac arrest and ST-segment elevation myocardial infarction: a scoping review.",
+   "title_zh": "",
+   "abstract": "Out-of-hospital cardiac arrest (OHCA) and ST-segment elevation myocardial infarction (STEMI) are time-critical events that exhibit circadian patterns, which influence their incidence and clinical outcomes. To determine whether circadian rhythmicity influences the time of onset of OHCA and STEMI, as well as related clinical outcomes, in patients requiring prehospital emergency care and subsequent hospitalization. A scoping review. The search process included four online databases: MEDLINE Complete, CINAHL Plus with Full Text, ScienceDirect, and ProQuest. The review included original articles published between January 2010 and December 2024. Eighteen studies met the inclusion criteria. These revealed that the incidence of OHCA and STEMI exhibits significant circadian variability, with the highest incidence in the morning. OHCA often has a secondary afternoon/evening peak. The nighttime hours are associated with the lowest incidence. Patients with nighttime OHCA or STEMI have a lower probability of return of spontaneous circulation and worse one-month and one-year survival and neurological outcomes. This less favorable prognosis is not due to the time of day when the event occurs but rather due to limited bystander availability, lower rates of bystander cardiopulmonary resuscitation and defibrillation, and longer times to hospital intervention. Additionally, these events were more frequently recorded in winter, while weekly variations were insignificant. Circadian and seasonal factors influence the occurrence and clinical course of OHCA and STEMI, with worse outcomes for nighttime cases being more a consequence of limited availability than the time of the event itself.",
+   "abstract_zh": "",
+   "journal": "J Crit Care Med (Targu Mures)",
+   "date": "2026-10-30",
+   "authors": "Locihová H 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6806033/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43017087/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42956925",
@@ -567,6 +1237,52 @@
    "added": "2026-11-09"
   },
   {
+   "pmid": "43034699",
+   "doi": "10.1016/j.resplu.2026.101542",
+   "pmcid": "PMC13769456",
+   "title": "Initial shockable rhythm detection among patients with out-of-hospital cardiac arrest by arrest location: A population-based cohort study in Japan.",
+   "title_zh": "",
+   "abstract": "We described the patient characteristics, bystander interventions, and outcomes after out-of-hospital cardiac arrest (OHCA) according to arrest location, focusing on initial rhythm and automated external defibrillator (AED) use. We analyzed medical-origin OHCAs from a population-based registry (2016-2024) by arrest location: home, nursing home, or other locations. Patient characteristics, bystander interventions, and outcomes were summarized descriptively. Multivariable logistic regression examined the association between arrest location and initial shockable rhythm. Among 2478 OHCA cases, initial shockable rhythm was identified in 36.3% (221/609) in nursing homes, 7.1% (113/1582) at home, and 33.4% (96/287) in other locations. After adjustment, the odds of an initial shockable rhythm were higher in nursing homes than at home (adjusted OR, 12.35; 95% CI, 8.93-17.24) and than in other locations (adjusted OR, 2.35; 95% CI, 1.60-3.45). In nursing homes, 96.8% (214/221) of patients with an initial shockable rhythm received an AED shock. One-month survival with favorable neurological outcomes was the lowest in nursing homes (0.8% [5/609]). Initial shockable rhythm was identified in more than one-third of arrests occurring in nursing homes, and 97% of these patients received an AED shock. This finding may partly reflect earlier AED access, potentially increasing the likelihood of detecting a shockable rhythm soon after collapse. These findings underscore the importance of early rhythm detection through prompt AED use and suggest that extending AED access to home settings warrants further investigation.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-29",
+   "authors": "Nishiyama C 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13769456/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43034699/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43032812",
+   "doi": "10.1016/j.resuscitation.2023.110076",
+   "pmcid": "PMC8192370",
+   "title": "Experiences and coping strategies of bystanders involved in out-of-hospital cardiopulmonary resuscitation: a qualitative study.",
+   "title_zh": "",
+   "abstract": "Participating in cardiopulmonary resuscitation (CPR) can have a substantial emotional and psychological impact on bystanders. Understanding their experiences and coping strategies may inform supportive interventions that could mitigate the impact on future bystanders. The study used a qualitative research design grounded in an experiential orientation. Individual semi-structured interviews were conducted with people who had been involved in CPR during an out-of-hospital cardiac arrest (OHCA) in Scotland outside of a professional role. Participants were recruited via social media advertisements. We transcribed and analysed interviews using Braun and Clarke's reflexive thematic analysis. Eleven interviews were conducted between November 2024 and April 2025. Most bystanders knew the person (n = 9, 81%) as a family member, team member or neighbour. Most were female (n = 9, 82%) and were non-healthcare professionals (n = 7, 64%). Seven of those who experienced OHCA survived, three died, and one outcome was unknown. Reflexive thematic analysis identified four interconnected themes: Emotional impact; Managing multiple roles and responsibilities; Compelled to help but unprepared; and Talking to the right person. Findings from the interviews with bystanders suggest that OHCA can have a substantial emotional impact, particularly when the person dies or is known to the bystander. Several ways to reduce this impact were identified, including greater emotional preparation in CPR training, involvement in activities that prepare themselves or others for OHCA/CPR, and opportunities to speak with an independent person knowledgeable about OHCA/CPR. Future research should investigate the effectiveness of incorporating these strategies into support interventions for OHCA bystanders.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-29",
+   "authors": "Joshi VL 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8192370/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43032812/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
    "pmid": "42950590",
    "doi": "10.1016/j.jss.2026.09.034",
    "pmcid": "",
@@ -612,6 +1328,29 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42946582/",
    "translation": "",
    "added": "2026-11-02"
+  },
+  {
+   "pmid": "43016452",
+   "doi": "10.1016/j.jtcvs.2015.07.102",
+   "pmcid": "PMC4637220",
+   "title": "Standardized 4-step surgical approach to address atrial fibrillation during coronary artery bypass grafting in a patient with severely reduced left ventricular function: a case report.",
+   "title_zh": "",
+   "abstract": "Atrial fibrillation (AF) may result in haemodynamic deterioration and is particularly detrimental in patients with severely impaired left ventricular function. In this high-risk population, the maintenance or restoration of sinus rhythm (SR) in cardiac surgery are of paramount importance, warranting the use of all available surgical strategies to comprehensively address atrial fibrillation. We report the case of a 60-year-old man who underwent successful out-of-hospital cardiopulmonary resuscitation following an acute myocardial infarction. Coronary angiography revealed severe three-vessel coronary artery disease, accompanied by highly reduced left ventricular function. The patient had a history of symptomatic paroxysmal AF and had recently undergone electrical cardioversion to restore SR after the index myocardial infarction. In addition to surgical coronary revascularization via median sternotomy, a standardized four-step concomitant AF procedure was performed. This approach included bipolar radiofrequency ablation, exclusion of the left atrial appendage, transection of the ligament of Marshall, and left-sided posterior pericardiotomy. The patient was successfully weaned from cardiopulmonary bypass in SR and maintained stable SR throughout an 8-month follow-up period without AF recurrence. This case highlights the importance of systematically addressing AF during cardiac surgery, especially in high-risk patients with severely reduced ventricular function, where maintenance of sinus rhythm may have haemodynamic benefits.",
+   "abstract_zh": "",
+   "journal": "Front Cardiovasc Med",
+   "date": "2026-10-28",
+   "authors": "Gökler J 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4637220/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43016452/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42948796",
@@ -672,7 +1411,8 @@
    "authors": "Masahiko Hiroki 等",
    "tags": [
     "氣道",
-    "EMS教育"
+    "EMS教育",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -681,6 +1421,29 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42945416/",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "43011123",
+   "doi": "10.3390/diagnostics16152301",
+   "pmcid": "PMC13465491",
+   "title": "Longer collapse-to-first-medical-contact interval is independently associated with ROSC in out-of-hospital cardiac arrest: a paradoxical finding that may reflect case-mix differences.",
+   "title_zh": "",
+   "abstract": "Shortening prehospital time intervals is a cornerstone of out-of-hospital cardiac arrest (OHCA) management, with earlier medical contact generally assumed to improve survival. However, this assumption has rarely been scrutinized at the level of individual time metrics, particularly the interval from witnessed collapse to first medical contact (collapse-to-FMC), whose relationship with resuscitation outcomes independent of case-mix remains unclear. This study aimed to examine the association between core prehospital time intervals and the achievement of prehospital return of spontaneous circulation (ROSC). This retrospective cohort study included 152 consecutive OHCA patients managed by the Cixi Emergency Center between April 2023 and March 2026. Time intervals were derived from synchronized dispatch center logs and onboard system timestamps, including dispatch-to-scene arrival, collapse-to-first medical contact, and collapse-to-CPR initiation intervals. Candidate variables for multivariable modeling were selected based on a prespecified causal rationale and clinical relevance, rather than solely on univariate statistical significance. Univariate logistic regression was performed for descriptive purposes to examine crude associations with prehospital ROSC. The main model included the two core time intervals (collapse-to-FMC and collapse-to-CPR initiation). Model 1 further adjusted for age, a clinically important confounder that did not reach statistical significance in univariate analysis. Model 2 additionally adjusted for etiology of arrest and presence of a shockable rhythm, which were selected a priori as pre-exposure confounders based on established prognostic importance in OHCA research. This approach ensured that clinically important confounders were retained regar…",
+   "abstract_zh": "",
+   "journal": "Front Med (Lausanne)",
+   "date": "2026-10-27",
+   "authors": "Weng Y 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13465491/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43011123/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42934469",
@@ -750,6 +1513,52 @@
    "added": "2026-11-09"
   },
   {
+   "pmid": "43011386",
+   "doi": "10.1016/j.jchf.2022.04.004",
+   "pmcid": "PMC10404382",
+   "title": "Role of Cardiogenic Shock Centres and Regionalised Networks for Acute MI-related Cardiogenic Shock: State-of-the-art Review on Behalf of the British Cardiovascular Interventional Society Focus Group.",
+   "title_zh": "",
+   "abstract": "Cardiogenic shock (CS) complicating acute MI (AMI-CS) remains associated with high mortality and morbidity, despite advances in coronary revascularisation and mechanical circulatory support (MCS). Outcomes are determined not only by individual therapies, but also by the organisation of care, with current guidelines emphasising multidisciplinary, system-level approaches to enable rapid diagnosis, triage and treatment. This review examines how CS centres function within regional networks of care. We review definitions of AMI-CS, including haemodynamic, clinical and biochemical markers and their application to early identification and triage. We summarise key components of centre-based management, including revascularisation, invasive haemodynamic assessment, selective MCS use and post-percutaneous coronary intervention critical care. Contemporary data from dedicated CS centres and regionalised network models are compared, highlighting variations in transfer criteria and hub-spoke organisation alongside limitations in current evidence. The distinct phenotypic nuances of out-of-hospital cardiac arrest-associated CS are discussed and gaps in evidence with future perspectives are highlighted.",
+   "abstract_zh": "",
+   "journal": "Interv Cardiol",
+   "date": "2026-10-26",
+   "authors": "Jeyaprakash P 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10404382/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43011386/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
+   "pmid": "43005598",
+   "doi": "10.1016/j.anclin.2023.03.008",
+   "pmcid": "PMC11972123",
+   "title": "Artificial intelligence in emergency trauma perioperative management: applications, performance benchmarks, and translation barriers.",
+   "title_zh": "",
+   "abstract": "This review examines the current status of artificial intelligence (AI) applications in the perioperative management of emergency trauma. Published studies suggest performance advantages of AI over traditional methods in prehospital triage, radiographic injury detection, massive transfusion prediction, and early warning of postoperative complications, although findings vary across study designs and validation settings. However, actual adoption in trauma care remains limited due to data heterogeneity, performance degradation in external validation, workflow integration challenges, lack of interpretability, and a scarcity of prospective interventional evidence. This review further argues that methodologically inflated benchmark performance constitutes an underrecognized barrier to adoption in its own right, and that bridging the implementation gap will likely require a shift from area under the receiver operating characteristic curve (AUC)-centered reporting toward reporting sensitivity at prespecified clinical thresholds and evaluating patient outcomes in prospective interventional trials.",
+   "abstract_zh": "",
+   "journal": "Front Surg",
+   "date": "2026-10-26",
+   "authors": "Yang L 等",
+   "tags": [
+    "外傷"
+   ],
+   "sources": [
+    "pubmed",
+    "europepmc"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11972123/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43005598/",
+   "translation": "",
+   "added": "2026-11-16"
+  },
+  {
    "pmid": "42926135",
    "doi": "10.1093/ehjacc/zuag132",
    "pmcid": "",
@@ -771,6 +1580,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42926135/",
    "translation": "",
    "added": "2026-10-25"
+  },
+  {
+   "pmid": "",
+   "doi": "10.1186/s12913-026-15848-6",
+   "pmcid": "",
+   "title": "Association between emergency medical services crew composition and return of spontaneous circulation following out-of-hospital cardiac arrest: a registry-based retrospective cohort study from Saudi Arabia",
+   "title_zh": "",
+   "abstract": "The optimal composition of Emergency Medical Services (EMS) crews for out-of-hospital cardiac arrest (OHCA) remains uncertain. This study examined the association between EMS crew size, crew configuration, and return of spontaneous circulation (ROSC) in Saudi Arabia. A retrospective cohort study was conducted using Saudi Red Crescent Authority registry data. Adult patients who underwent prehospital resuscitation with documented crew composition and ROSC status were included. Three multivariable logistic regression models evaluated the associations between crew size, crew configuration, and the number of Advanced Life Support (ALS) providers with ROSC after adjustment for age, sex, EMS response time, and initial cardiac rhythm. Among 1,511 patients, 446 (29.5%) achieved ROSC. Crew size was not independently associated with ROSC. Compared with two-provider crews, three-provider crews (adjusted OR 0.81, 95% CI 0.53–1.22; P = .330) and crews with ≥ 4 providers (adjusted OR 1.34, 95% CI 0.78–2.25; P = .274) showed no significant association. In contrast, ALS-only crews had significantly greater odds of ROSC than the BLS + BLS reference configuration (adjusted OR 1.87, 95% CI 1.13–3.05; P = .014). Each additional ALS provider demonstrated a borderline positive association with ROSC (adjusted OR 1.20, 95% CI 1.00–1.44; P = .054). Shockable initial rhythm remained the strongest predictor of ROSC. Crew size alone was not independently associated with ROSC following OHCA. In contrast, ALS-only crew configuration was associated with significantly greater odds of ROSC, suggesting that provider qualifications may be more influential than crew size in prehospital resuscitation. Optimising ALS capability within EMS crews may represent a more effective staffing strategy than increasing…",
+   "abstract_zh": "",
+   "journal": "BMC Health Services Research",
+   "date": "2026-10-24",
+   "authors": "Abdullah Alharbi 等",
+   "tags": [
+    "骨盆固定"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://doi.org/10.1186/s12913-026-15848-6",
+   "url": "https://doi.org/10.1186/s12913-026-15848-6",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42924421",
@@ -947,7 +1778,8 @@
    "date": "2026-10-21",
    "authors": "Oren Wacht 等",
    "tags": [
-    "氣道"
+    "氣道",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -1085,7 +1917,8 @@
    "authors": "A. Lourens 等",
    "tags": [
     "氣道",
-    "EMS教育"
+    "EMS教育",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -1107,7 +1940,8 @@
    "date": "2026-10-20",
    "authors": "Nabras Hassan Almubarak 等",
    "tags": [
-    "氣道"
+    "氣道",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -1160,6 +1994,28 @@
    "url": "https://doi.org/10.4103/jets.jets_218_25",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "43034690",
+   "doi": "10.18637/jss.v080.i01",
+   "pmcid": "PMC9726448",
+   "title": "Quantifying discrepancies between EMS time intervals in the Swedish Registry for Cardiopulmonary Resuscitation and emergency medical dispatch data: a 10-year analysis.",
+   "title_zh": "",
+   "abstract": "To assess discrepancies between time intervals reported to the Swedish Registry for Cardiopulmonary Resuscitation (SRCR) for out-of-hospital cardiac arrest (OHCA) and those recorded by the dispatch centre between 2015 and 2024. In this retrospective observational study, OHCAs reported to the registry were linked to dispatch centre data to correct and validate EMS case numbers. Time interval discrepancies were quantified by comparing the EMS dispatch-to-arrival interval (unit response time) with the call start-to-arrival interval (total response time). Differences between the two sources were estimated using Bayesian quantile regression by modelling the median response-time distribution. Among 56,969 registry records, 1004 (1.8%) lacked an EMS case number. On a pooled national level, unit response time showed negligible discrepancies between the two sources, with a median difference of 0.3 s (95% CrI -4.1 to 3.9). In contrast, the total response time was systematically shorter in the registry, with a median difference of -80.9 s (95% CrI -84.7 to -77.1). Both time intervals showed large regional variation, with the smallest difference in the Stockholm region. On a pooled national level, unit response time showed high concordance, whereas total response time was systematically shorter in the registry. Registry time variables, particularly total response time, should be interpreted with caution when evaluating small performance differences.",
+   "abstract_zh": "",
+   "journal": "Resusc Plus",
+   "date": "2026-10-20",
+   "authors": "Boberg E 等",
+   "tags": [
+    "OHCA"
+   ],
+   "sources": [
+    "pubmed"
+   ],
+   "oa_pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9726448/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43034690/",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42897407",
@@ -1636,7 +2492,8 @@
    "authors": "Batuhan Tay",
    "tags": [
     "氣道",
-    "EMS教育"
+    "EMS教育",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -2703,7 +3560,8 @@
    "date": "2026-10-01",
    "authors": "Lütfi Mert Güler 等",
    "tags": [
-    "氣道"
+    "氣道",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -2725,7 +3583,8 @@
    "date": "2026-10-01",
    "authors": "M. Gude 等",
    "tags": [
-    "氣道"
+    "氣道",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -2734,6 +3593,28 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42869598/",
    "translation": "",
    "added": "2026-11-09"
+  },
+  {
+   "pmid": "",
+   "doi": "10.1136/ebm-2026-isdm.173",
+   "pmcid": "",
+   "title": "173 Shared decision-making in prehospital emergency medical services: a scoping review",
+   "title_zh": "",
+   "abstract": "",
+   "abstract_zh": "",
+   "journal": "Lightning Talks",
+   "date": "2026-10-01",
+   "authors": "Sahil S. Shuaib",
+   "tags": [
+    "骨盆固定"
+   ],
+   "sources": [
+    "semanticscholar"
+   ],
+   "oa_pdf": "https://ebm.bmj.com/content/ebmed/31/Suppl_1/A110.1.full.pdf",
+   "url": "https://doi.org/10.1136/ebm-2026-isdm.173",
+   "translation": "",
+   "added": "2026-11-16"
   },
   {
    "pmid": "42814427",
@@ -3860,7 +4741,8 @@
    "tags": [
     "止血帶",
     "氣道",
-    "EMS教育"
+    "EMS教育",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -3962,9 +4844,9 @@
    "added": "2026-08-23"
   },
   {
-   "pmid": "",
+   "pmid": "43014402",
    "doi": "10.5811/cpcem.63870",
-   "pmcid": "",
+   "pmcid": "PMC9280071",
    "title": "Prehospital Ultrasound to Identify Endotracheal Tube Dislodgment in an Infant: A Case Report",
    "title_zh": "",
    "abstract": "Introduction: Point-of-care ultrasound (POCUS) is well established as a useful adjunct for airway management in both adult and pediatric patients, including confirmation of successful endotracheal intubation. While suprasternal ultrasound of the trachea is the most described method for confirming endotracheal tube (ETT) placement, a focused lung exam can be used to rapidly identify appropriate ventilation in otherwise apneic patients. Case Report: This case involves a one-month-old male infant who experienced an out-of-hospital cardiac arrest secondary to suspected sudden infant death syndrome. During resuscitation, an accidental extubation occurred after an attempt at securing the ETT with a commercial pediatric tube holder. Loss of end-tidal carbon dioxide (ETCO2) waveform was recognized immediately; however, emergency medical services clinicians questioned the device’s accuracy due to earlier failures of the ETCO2 monitor and the ETT remaining secured at an expected depth. A rapid POCUS lung examination demonstrated absence of bilateral lung sliding. The patient was immediately extubated, revealing a kinked ETT in the oropharynx with the distal tip positioned above the vocal cords. A supraglottic airway device (SGA) was placed with a successful return of ETCO2 waveform, followed shortly by successful reintubation because of difficulty ventilating through the SGA. Conclusion: Lung ultrasound is a rapid and effective alternative for identifying ETT dislodgment when conventional verification methods are unreliable or unavailable. As ultrasound becomes increasingly available in prehospital and resource-limited settings, it may be effectively used by nonphysician clinicians to confirm airway placement and detect airway complications.",
@@ -3973,10 +4855,13 @@
    "date": "2026-09-20",
    "authors": "Nicholas A. Wright 等",
    "tags": [
-    "氣道"
+    "氣道",
+    "OHCA"
    ],
    "sources": [
-    "semanticscholar"
+    "semanticscholar",
+    "pubmed",
+    "europepmc"
    ],
    "oa_pdf": "https://doi.org/10.5811/cpcem.63870",
    "url": "https://doi.org/10.5811/cpcem.63870",
@@ -4541,7 +5426,7 @@
   {
    "pmid": "42727843",
    "doi": "10.1016/j.ahj.2026.107604",
-   "pmcid": "",
+   "pmcid": "PMC11127748",
    "title": "Rural-urban differences for integrated first responder and drone automated external defibrillator delivery in North Carolina.",
    "title_zh": "",
    "abstract": "Early defibrillation for out-of-hospital cardiac arrest (OHCA) improves survival, but timely automated external defibrillator (AED) access remains challenging especially in rural areas. We conducted a computational modelling study to estimate how existing urban-rural differences in AED arrival would change for a proposed first responder (FR) and drone-based AED delivery program in regions with large geographical variation. We included North Carolina counties with ≥10 OHCAs per year in both rural and urban census tracts between Jan. 2013 - Dec. 2019. We modelled a proposed intervention in which FRs were given AEDs and drone-AED networks were optimized within each county to maximize 3, 5, or 7-minute AED arrival to OHCAs. We included 19 counties and 8,955 OHCAs (5,754 urban, 3,201 rural). The median historical county-level median AED arrival time was 6.6 mins [IQR: 6.1-7.1] in urban areas and 9.2 mins [IQR: 8.0-10.2] in rural areas. Drone-AED networks optimized for 5-minute AED arrival reduced median AED arrival time to 4.0 mins [IQR: 3.8-4.3] in urban areas and 7.0 mins [IQR: 6.0-8.0] in rural areas. Five-minute AED arrival rates improved from 19.9% [IQR: 15.7-23.2%] to 75.0% [IQR: 70.9-85.6%] for urban areas and from 7.6% [IQR: 4.6-9.5%] to 15.8% [IQR: 11.3-32.9%] for rural areas. Optimizing for 7-minute AED arrival increased the rural-urban response gap to a lesser extent. When optimized for 3-, 5- or 7-minute AED arrival, proposed FR- and drone-based AED deployment would improve AED arrival times in urban areas more than rural areas. Additional optimization approaches are needed to reduce inequality between urban and rural defibrillation arrival times in areas with large geographic variation.",
@@ -5565,7 +6450,7 @@
   {
    "pmid": "42690209",
    "doi": "10.1016/j.jaccas.2026.110238",
-   "pmcid": "",
+   "pmcid": "PMC9757921",
    "title": "Transient Pneumopericardium During Implantation of an Extravascular Implantable Cardioverter-Defibrillator.",
    "title_zh": "",
    "abstract": "Extravascular implantable cardioverter-defibrillators (EV-ICDs) use a substernal route to avoid intravascular lead placement, but substernal tunneling carries a risk of pericardial injury not encountered with transvenous systems. A 48-year-old man with ischemic cardiomyopathy (ejection fraction 14%) survived an out-of-hospital cardiac arrest due to monomorphic ventricular tachycardia at 240 beats/min. Cardiac magnetic resonance confirmed an extensive nonviable inferior scar. An EV-ICD was implanted for secondary prevention. Substernal tunneling was complicated by pericardial puncture and pneumopericardium. After lead repositioning, intraoperative defibrillation testing (DFT) failed twice, with subsequent sensing deterioration. Therapies were deactivated. Serial chest radiographs confirmed complete pneumopericardium resorption by day 30 with stable lead position. Repeat DFT at 5 weeks succeeded without reintervention. Device parameters remained normal at 1-year follow-up. Pneumopericardium is an under-recognized complication of substernal EV-ICD implantation that can transiently impair sensing and DFT. Conservative management with deferred re-testing illustrated a safe pathway, avoiding unnecessary system revisions.",
@@ -5876,7 +6761,8 @@
    "tags": [
     "氣道",
     "脊椎運動限制",
-    "止血帶"
+    "止血帶",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -9411,7 +10297,8 @@
     "氣道",
     "脊椎運動限制",
     "EMS教育",
-    "止血帶"
+    "止血帶",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -15712,7 +16599,7 @@
     "pubmed",
     "europepmc"
    ],
-   "oa_pdf": "",
+   "oa_pdf": "https://scholarsarchive.byu.edu/context/facpub/article/10556/viewcontent/Journal_of_Advanced_Nursing___2026___Rasmussen___Broken_Links__Gender_Disparities_Across_the_Chain_of_Survival_in.pdf",
    "url": "https://pubmed.ncbi.nlm.nih.gov/42272123/",
    "translation": "",
    "added": "2026-07-02"
@@ -20992,7 +21879,8 @@
    "authors": "A. B. Drejøe 等",
    "tags": [
     "氣道",
-    "EMS教育"
+    "EMS教育",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -24286,7 +25174,8 @@
     "止血帶",
     "OHCA",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -29431,7 +30320,8 @@
    "tags": [
     "止血帶",
     "氣道",
-    "脊椎運動限制"
+    "脊椎運動限制",
+    "骨盆固定"
    ],
    "sources": [
     "semanticscholar"
@@ -30036,7 +30926,8 @@
    "date": "2026-01-21",
    "authors": "Vaseekaran M 等",
    "tags": [
-    "氣道"
+    "氣道",
+    "OHCA"
    ],
    "sources": [
     "pubmed",
